@@ -1,0 +1,3 @@
+ Creating dataset. 2000 random graphs with maximumm nodes 64.
+ To make graphs with their independence number, 
+ two lists one for graphs and one for independence numbers 
