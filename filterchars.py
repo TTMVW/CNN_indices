@@ -244,7 +244,7 @@ def NorthTec():
 
         re1 = r"Co-requisites:"
         re2 = r"COURSE AIM"
-        a_descriptor.level= get_txt_between(raw, re1, re2)
+        a_descriptor.level= a_descriptor.code[6] #get_txt_between(raw, re1, re2)
         
         # Put the new descriptor in to course_content
         course_content[short_name] = a_descriptor
@@ -268,7 +268,9 @@ def NorthTec():
     first_course = True
     prev = None
     long_name = None
+    count = 0
     for a in course_code_split:
+        
         clean = a.strip()
 
         if first_item:
@@ -283,6 +285,8 @@ def NorthTec():
         else:
             long_name = get_long_name(prev)
             prev = assign_descriptor_from(course_content, long_name, clean)
+        count += 1
+        #print("NorthTec "+long_name+" "+ str(count))
 
             # prev = clean # cleaned
             # first_course = False;
