@@ -1,0 +1,5 @@
+# Unitec process
+# Based on https://www.digitalocean.com/community/tutorials/how-to-perform-server-side-ocr-on-pdfs-and-images
+# BASH gs -o unitec_output/%05d.png -sDEVICE=png16m -r300 -dPDFFitPage=true 'Unitec BCS Prog Descriptors.pdf'
+# BASH for png in $(ls unitec_output); do tesseract -l eng unitec_output/$png unitec_output/$(echo $png | sed -e "s/\.png//g") pdf; done
+# BASH pdftk unitec_output/*.pdf cat output joined.pdf

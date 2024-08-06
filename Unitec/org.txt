@@ -1,0 +1,9747 @@
+ISCG5400: 
+
+Hardware Fundamentals 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5400 
+BCS 
+ 
+ 
+GDCMP 
+020117 
+
+Level:  5 
+
+Credits: 
+Compulsory 
+
+15 
+
+ 
+ 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+54 
+
+ 
+
+ 
+
+96 
+
+150 
+
+Outcome Statement: 
+
+To provide students with a good working knowledge of information technology hardware. 
+
+ 
+
+Learning Outcomes:  
+
+1.  Describe a wide selection of hardware components and explain their functions, including   
+       selection issues and managing peripherals. 
+
+Identify and configure a selection of information technology hardware  resources. 
+
+2. 
+3.  Demonstrate and describe preventative maintenance of information technology  hardware. 
+4.  Explain the current and emerging trends in information technology  hardware. 
+
+ 
+
+ 
+Learning and Teaching:  
+
+Lectures, laboratory work, and personal research 
+
+ 
+Topics: 
+
+Topics include: description function and selection of a wide range of computer hardware 
+components, identifying and configuring hardware resources, describing preventative maintenance 
+of computer hardware, current and emerging trends on Information Technology. 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+ 25% 
+ 35% 
+40% 
+
+Assignment  
+Test(s) 
+Exam 
+
+ 
+Learning resources required: 
+Access to hardware components 
+Required textbook: refer to the current programme booklist. 
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+Learning 
+Outcomes 
+3 
+1, 2 
+1, 4 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+ 
+
+9/08/2021 
+
+Effective 
+from 
+
+S1 2022 
+
+Elective 
+
+ 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to an old programme removed 
+
+ 
+
+4 – 8 July 
+2022 
+
+S 2 2022 
+
+AACSC E-
+meeting  
+
+Redundant word from LO 2 removed; 
+Changes in assessment weightings and their 
+alignments with LOs 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ISCG5401: 
+
+Operating System Fundamentals 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5401 
+BCS 
+ 
+ 
+GDCMP 
+020117 
+
+Level:  5 
+
+Credits: 
+Compulsory 
+
+15 
+
+ 
+ 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+52 
+
+ 
+
+ 
+
+96 
+
+150 
+
+ 
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow 
+students, and in the use of resources and facilities. Students are required to attend 100% of 
+all scheduled classes. 
+
+Outcome Statement: 
+
+The  aim  of  this  course  is  to  provide  students  the  understanding of fundamental  concepts  of 
+operating  systems  (OS), functionalities and architectures of operating systems, and how they 
+are  designed  to  meet  requirements  from  users,  hardware,  and  software.  Students  will  gain 
+hands-on  experience  on  using  MS  Windows  and  Linux  system  commands  and  programs  to 
+explore various topics covered by the course. 
+
+ 
+
+Learning Outcomes:  
+
+1.  Demonstrate  knowledge  of  operating  system  concepts  and  structures,  and  processes  and   
+
+inter-process communications 
+
+2.  Demonstrate knowledge of memory management, I/O management, file  systems, and user 
+
+management and security. 
+
+3.  Use system commands and programs to monitor and manage processes and system resources 
+
+4.  Use system commands and programs to manage files, users, and access controls 
+
+ 
+ 
+Learning and Teaching:  
+
+This course will be taught in an integrated manner employing Lectures, demonstrations, 
+discussions and laboratory (practical) classes 
+An understanding of the principles and fundamental concepts of computer systems will be 
+reinforced with practical work. 
+Students learn by doing real practical work. 
+Collaborative Knowledge Building and Learning 
+Communities 
+Online support material will enhance the students’ ability to learn at their own pace. 
+
+ 
+Topics: 
+
+•  Course structure and assessments, History of OS, Types of OS 
+•  OS Concepts and Structure - Operating System Services, User Operating System 
+
+Interface, System Calls and Programs, Operating System Structure 
+
+•  Processes and Process scheduling - Process model, creating, and states, Threads 
+
+• 
+
+model, Multi-threading model, Process and CPU scheduling 
+Inter-process communication - Inter-process communication (IPC) concepts, 
+Classical IPC problems, Synchronization/ Deadlocks, Client-Server 
+Communication 
+
+•  Memory management - Logical and Physical address spaces, Memory Swapping, 
+
+Allocation, Paging and Segmentation, Virtual memory (VM) 
+
+•  Storage management - Storage structure and File & Directory systems, File 
+
+permission and access controls 
+I/O Systems – I/O Hardware and I/O Software 
+
+• 
+
+•  Security and User management - Security environments, Protection mechanisms, 
+
+Authentication, User management, Malware and defence systems 
+
+Assessment: 
+
+Students will be advised of all matters relating to summative assessment at the outset of the 
+course. Overall course grades will represent a balanced assessment of achievement in relation to 
+all stated learning outcomes. 
+
+ 
+
+Weighting  Nature of assessment 
+
+Summative assessments 
+
+In-class Test 1 
+
+In-class Test 2 
+
+Final exam 
+
+10% 
+
+25% 
+
+25% 
+
+40% 
+
+ 
+
+ 
+
+Feedback: 
+
+Learning 
+outcomes 
+1,2,3,4 
+
+1, 3 
+
+2, 4 
+
+1, 2, 3, 4 
+
+Feedback is sought throughout the course using a range of assessment tools 
+including: Class forum and survey 
+
+ 
+Learning resources required: 
+
+Text Book: refer to the current programme booklist. 
+Specific resources/readings will be provided during the course. 
+Handouts given and/or directions to Short Term Loans in the 
+library 
+
+ 
+
+ 
+
+Learning resources recommended: 
+
+Booklist & resources published via Moodle 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+17/10/2013 
+
+from 
+
+Sem 1, 
+2014 
+
+PC 
+
+9/08/2021 
+
+S 1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Changes in Course Aims, Learning Outcomes, 
+Topics, Assessments 
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to an old programme removed 
+
+ISCG5403: 
+
+Networking Fundamentals 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5403 
+BCS 
+ 
+ 
+GDCMP 
+020113 
+
+Level:  5 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+54 
+
+ 
+
+ 
+
+96 
+
+150 
+
+Outcome Statement: 
+
+To provide students with a good working knowledge of the concepts of Networking 
+and Data Communications fundamentals. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Discuss basic Data communications, Network Concepts and network topologies. 
+2.  Discuss different types of transmission media and identify issues relating to them. 
+3.  Discuss Network Protocols and standards 
+4.  Discuss Networking components 
+5.  Discuss advance principles of Data Communications 
+6.  Explain current and emerging trends in Data Communications. 
+
+ 
+
+ 
+Learning and Teaching:  
+
+Lectures, Discussions and Demo. 
+
+ 
+Topics: 
+
+Topics include: discussion of basic network concepts and topologies, transmission media and 
+related issues, network protocols and standards, principles of data communication, current and 
+emerging trends in data communications 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+30 
+30 
+40 
+
+Test 1 (Theory Test) 
+Tests 2 (Practical Test) 
+Final Exam 
+
+ 
+Learning resources required: 
+Textbook: refer to the current programme booklist. 
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Learning 
+outcomes 
+
+1, 2, 3, 4 
+1, 2, 3, 4, 5 
+3, 4, 5, 6 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+Version 
+No. 
+
+ 
+
+9/08/2021 
+
+from 
+S 1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to an old programme removed 
+
+ 
+
+ 
+
+ 
+
+ISCG5420: 
+
+Programming Fundamentals 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5420 
+BCS 
+ 
+ 
+GDCMP 
+020103 
+
+Level:  5 
+
+Credits: 
+Compulsory 
+
+15 
+
+ 
+ 
+
+Delivery mode: 
+
+Face to Face 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+54 
+
+ 
+
+ 
+
+96 
+
+150 
+
+Outcome Statement: 
+
+To introduce students to the basic principles of designing and developing small computer 
+programs within the context of programming language. 
+
+ 
+
+Learning Outcomes:  
+ 
+
+ 
+
+1. 
+2. 
+
+Learning Outcomes 
+Design small computer programs as solutions to simple problems  
+Implement the designs by writing well-structured programs that follow enforced 
+programming language conventions and programming standards. 
+
+3. 
+
+ 
+
+Test, debug and document small computer programs. 
+
+ 
+Learning and Teaching:  
+
+Lectures, Laboratory work, Self-directed study. 
+
+ 
+
+Topics: 
+
+Topics may include:  variable types, mathematical operators, logican operators, flowcharts, 
+conditional statements, iterations (loops), arrays, text files, functions, classes and objects. 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+25% 
+
+35% 
+
+40% 
+
+Programming assignment for designing coding and testing 
+simple programs 
+
+Practical Tests requiring coding of small computer programs  
+
+Final Exam 
+
+Learning 
+Outcomes 
+2,3 
+
+1 
+
+1,2 
+
+ 
+Learning resources required: 
+ 
+Textbook: Refer to current programme booklist 
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+ 
+ 
+ 
+ 
+Version Tracking: 
+
+Version 
+No. 
+ 
+
+10/06/2019 
+
+from 
+S 2 2019 
+
+Prog 
+Improvement 
+Comm 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+ 
+
+ 
+
+Minor changes in Course Topics; Minor changes 
+in the Nature of Assessments and their 
+alignment to Learning Outcomes 
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to an old programme removed 
+
+ISCG5421: 
+
+Programming Principles & Practice 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5421 
+BCS 
+ 
+Prerequisites (for BCS): ISCG5420  
+ 
+GDCMP 
+020103 
+
+Delivery mode: 
+
+Face to Face 
+
+Level:  5 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+54 
+
+ 
+
+ 
+
+ 
+
+96 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow 
+students, and in the use of resources and facilities. 
+
+Outcome Statement: 
+
+To advance the knowledge of programming beyond an introductory level, in the context of a 
+programming language. 
+
+ 
+
+ 
+
+Learning Outcomes:  
+
+Implement the designs by writing well-structured programs that follow enforced    
+
+1. 
+       programming language conventions and programming standards. 
+
+2.   Identify the fundamental data requirements of an intermediate-level program. 
+3.   Apply the logic structures of the language. 
+4.   Select and use intermediate-level data structures 
+5.    Write a complete program whilst adhering to available coding standards 
+
+Learning and Teaching:  
+
+Topics may be taught in an integrated manner  
+Supervisor / student meetings/discussions  
+Collaborative and/or individual projects 
+Analyses of written, visual, aural and performance texts 
+ 
+
+Topics: 
+
+classes, objects, methods, properties, data types, decisions, iterations, static and dynamic 
+data structures, graphical user interfaces, inheritance, event-driven programming, 
+exception handling, text files & binary files, database connection 
+
+ 
+
+Assessment: 
+
+Students will be advised of all matters relating to summative assessment at the outset of the 
+course. Overall course grades will represent a balanced assessment of achievement in relation 
+to all stated learning outcomes. 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Weighting  Nature of assessment 
+
+Programming assignment(s) which include design, 
+coding and testing of an intermediate level application 
+
+Practical Tests which require the writing and 
+modification of intermediate level program code 
+
+Final Exam 
+
+ 
+
+50% 
+
+ 
+
+50% 
+20% 
+
+20% 
+30% 
+
+ 
+Feedback: 
+
+Learnin
+g 
+1,2,3,4,5 
+outcom
+es 
+1,2,3,4 
+
+1,2,3,4,5 
+
+Feedback is sought throughout the course using a range of assessment tools including: Formal 
+reflection, class forum and end of course survey 
+
+Learning resources required: 
+
+No set texts 
+Specific readings will be provided during the course. 
+
+ 
+Learning resources recommended:  
+Booklist & resources published via Moodle Computer lab 
+Classroom/Performance spaces Equipment 
+ 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+7/10/2015 
+
+ 
+
+ 
+
+ 
+
+Elective 
+
+ 
+
+Effective 
+from 
+
+S1 2016 
+
+Approved by 
+
+Description of change 
+
+PC 
+
+Changes in Assessment Weightings 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions 
+
+ISCG5423: 
+
+Introduction to Databases 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5423 
+BCS 
+ 
+ 
+GDCMP  
+020111 
+
+Level:  5 
+
+Credits: 
+Compulsory 
+
+15 
+
+ 
+ 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+54 
+
+ 
+
+ 96 
+
+ 150 
+
+ 
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, 
+fellow students, and in the use of resources and facilities. Students are required to 
+attend 100% of all scheduled classes. 
+
+Outcome Statement: 
+
+To provide students with an introduction to database systems 
+
+ 
+
+ 
+
+Learning Outcomes:  
+
+1.  Describe different types of data, system data objects, and operations on data. 
+
+2.  Create database designs to solve given business problems. 
+
+3.   Implement database designs to solve given business problems in a database using an 
+
+SQL software package. 
+
+4.   Create SQL queries to solve given business problems. 
+5.  Explain the meaning of the terms used in a database management environment. 
+
+ 
+Learning and Teaching:  
+
+This course will be taught in an integrated manner employing lectures, discussions, 
+on-line tutorials, on-line exercises, self-directed study. 
+Online support material will enhance the students’ ability to learn at their own pace. 
+
+ 
+Topics: 
+
+Data, data types, set theory, DBMS terms, entity relationship diagrams, creation of 
+tables and queries using SQL DDL & SQL DML. 
+Other topics as negotiated 
+
+ 
+
+Assessment: 
+
+Students will be advised of all matters relating to summative assessment at the 
+outset of the course. Overall course grades will represent a balanced assessment of 
+achievement in relation to all stated learning outcomes. 
+
+ 
+
+Weighting 
+
+Nature of assessment 
+
+25% 
+
+25% 
+
+40% 
+
+10% 
+
+Practical Test 1 – in class test using a DBMS to create tables 
+and queries, 
+
+Practical Test 2 – in class test using a DBMS to create views 
+and queries. 
+
+Final Exam 
+
+Quizzes on Moodle 
+
+Learning 
+outcomes 
+1, 3, 4 
+
+4 
+
+1, 2, 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Class forum and survey. 
+
+Learning resources required: 
+Text Book: refer to the current programme booklist. 
+Specific resources/readings will be provided during the course. 
+Handouts given and/or directions to Short Term Loans in the library. 
+
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+
+ 
+Other Programmes: 
+
+GDCMP  
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+2/05/ 2017 
+
+from 
+
+Effective 
+SS2016-
+17/ S1 
+2017 
+
+Portfolio Ropu  Changes in assessment types and weighting 
+
+9/08/2021 
+
+S 1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Inactive old courses removed as pre-requisites, 
+co-requisites and restrictions; reference to an 
+old withdrawn programme removed 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG5424: 
+
+Information Systems Concepts 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5424 
+BCS 
+ 
+
+GDCMP 
+020301 
+
+Level:  5 
+
+Credits: 
+
+15 
+
+Compulsory 
+
+ 
+ 
+
+ISCG5410 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+54 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+96 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+
+ 
+To provide students with an introduction to information systems and the role they play within industry. 
+The main purpose of this course is to enable a student to engage with a range of information system 
+elements and to make choices for future specialist study. 
+
+ 
+Learning Outcomes:  
+ 
+1.  Explain the fundamentals of systems theory 
+
+2.  Explain the Systems Development Lifecycle  and system requirements 
+
+3.  Analyse business situations requiring problem solving 
+
+4.  Elicit system requirements using a variety of techniques 
+
+5.  Model the requirements using a variety of techniques 
+
+ 
+Learning and Teaching:  
+ 
+This course is taught using a number of case studies. 
+This course will be taught in an integrated manner employing lectures, demonstrations, discussions 
+and laboratory (practical) classes 
+An understanding of the principles and fundamental concepts of computer systems will be reinforced 
+with practical work. 
+Students learn by doing real practical work. 
+Collaborative Knowledge Building and Learning 
+Learning Communities 
+Online support material will enhance the students’ ability to learn at their own pace. 
+ 
+Topics: 
+ 
+Systems theory, stages in the SDLC (requirements analysis, systems analysis, systems development, 
+systems implementation and systems maintenance), data flow diagrams, activity diagrams, 
+requirement elicitation techniques, selected modelling tools. 
+Other topics as negotiated. 
+ 
+
+ 
+
+ 
+
+ 
+
+Learning 
+outcomes 
+
+3, 4, 5 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+
+Weighting 
+
+Nature of assessment 
+
+Assignment(s) : for a given case study, students identify the 
+problem, use requirement elicitation techniques to understand 
+the case study, and use modeling techniques to model the 
+requirements 
+
+60% 
+
+40% 
+
+Test(s) – Students undertake one or more theoretical and/or 
+practical tests to show that they understand the underlying 
+concepts 
+
+1, 2, 3, 4, 5 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Class forum and survey 
+ 
+Learning resources required: 
+Text Book: refer to the current programme booklist. 
+Specific resources/readings will be provided during the course. 
+Handouts given and/or directions to Short Term Loans in the library. 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+ 
+Other Programmes: 
+
+GDCMP  
+
+ 
+Version Tracking: 
+
+Elective 
+
+Restrictions: 
+
+ISCG5410 
+
+Version No. 
+
+ 
+
+ 
+
+Date of 
+Change 
+
+30/09/14 
+
+Effective 
+from 
+
+Sem 1, 
+2015 
+
+Approved by 
+
+Description of change 
+
+Prog Comm 
+
+Changes in LOs and assessments 
+
+9/08/2021  S1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Reference to an old withdrawn programme 
+removed 
+
+ 
+
+ 
+
+ISCG5430: 
+
+Professional Skills for IT Practitioners 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG5430 
+BCS 
+ 
+ 
+ 
+020399 
+
+Level:  5 
+
+Credits: 
+Compulsory 
+
+15 
+
+ 
+ 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+54 
+
+ 
+
+Outcome Statement: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+96 
+
+Hours: 
+
+150 
+
+This  course  aims  to  develop  the  student’s  professional  competencies using  relevant 
+Information Technology (IT) software to enhance their interpersonal and research skills in 
+creating, retrieving, using and disseminating information in a range of settings. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  The  student  will  be  able  to  participate  effectively  in  a  variety  of  conversations,  to make 
+meaning, hear alternative perspectives and relay information both as an individual and as 
+a contributing member of an Information Technology team across technical, gender, age 
+and cultural boundaries. 
+
+2.  The student will be able to Define a problem, determine, create, seek and retrieve the 
+
+required information from a variety of sources and utilise this information to effect a 
+solution using information technology to support the outcome. 
+
+3.  The student will be able to Translate information needs into an information search 
+
+strategy that is adaptable to the wide variety of information sources available. 
+
+4.  The student will be able to Communicate effectively by exploring the integration of 
+
+contemporary audio-visual communication tools and software applications with written 
+and spoken communication to prepare presentations and technical documentation that 
+achieve both technical accuracy and user friendliness. 
+
+5.  The student will be able to Develop a strategy for evaluating personal efficacy, as well 
+
+as that of the team, in achieving a goal. 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Online forum, collaborative activities, discussions, interviews, problem-based learning, 
+audio-visual presentations, lectures. 
+
+ 
+Topics: 
+ 
+
+Topics include: requirements analysis, interpersonal skills, approaches to solving IT 
+problems, written IT documents, information retrieval, writing and presenting technical 
+reports, professional IT organisations 
+
+ 
+ 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+Learning 
+outcomes 
+
+A portfolio of evidence that demonstrates how a variety of verbal 
+and written communication skills are applied in an IT situation 
+
+1, 2, 4, 5 
+
+Research: a technical report written and presented on a 
+given topic 
+
+2, 3, 4 
+
+50% 
+
+50% 
+
+ 
+
+ 
+
+Learning resources required: 
+
+Required Text: refer to the current programme booklist. 
+
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+Not Applicable 
+
+ 
+Version Tracking: 
+
+ 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+7/08/2014 
+
+S2 2014 
+
+PC 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Final Exam dropped and nature and weighting of 
+assessments changed 
+
+Inactive old courses removed as pre-requisites, 
+co-requisites and restriction; reference to a 
+withdrawn programme removed 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+ 
+
+SCG6401: 
+
+DATA COMMUNICATIONS AND NETWORKS 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisite (for BCS): ISCG5403  
+
+ISCG6401 
+BCS 
+ 
+
+Level:  6 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Co-requisite (for BCS): ISCG5430 
+ 
+GDCMP 
+020113 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+ 
+
+ 
+ 
+
+Outcome Statement: 
+To provide the students with the knowledge of the concepts of data communication and networking. 
+ 
+
+Learning Outcomes:  
+
+1. Describe a selection of network components and protocols. 
+
+2. Evaluate the use and function of a selection of data communication hardware. 
+
+3. Evaluate a selection of network configurations, apply planning and design issues. 
+
+4. Analyse and evaluate a selection of data communication services. 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+Lectures, Discussion, Research 
+ 
+Topics: 
+Topics include: communication addressing, Tep / IP protocols, LAN/WAN protocols, case studies on 
+networks. 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+10% 
+40% 
+
+50% 
+
+Quiz 
+Assignment: Create a report detailing the network of  a medium 
+to large company. Present findings to class. 
+Final exam 
+
+Learning resources recommended: 
+ 
+LEARNING RESOURCES: 
+Recommended Texts: refer to the current programme booklist. 
+
+ 
+
+ 
+ 
+ 
+
+Learning 
+Outcomes 
+1.2 
+1,3,4 
+
+1, 2, 3 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Inactive old courses removed as pre-requisites; 
+co-requisites and restrictions 
+
+ 
+
+ISCG6402: 
+
+Network Administration and Support 
+ 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  6 
+
+ISCG6402 
+BCS 
+ 
+Pre-requisites (for BCS): ISCG5400 and ISCG5403  
+Co-requisites (for BCS): ISCG5430 
+ 
+ GDCMP 
+020113 
+
+Delivery mode: 
+
+Face to Face 
+
+Credits: 
+Compulsory 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32.5 
+
+ 
+
+ 
+
+117.5 
+
+150 
+
+ 
+
+ 
+
+ 
+ 
+
+Outcome Statement: 
+To provide students with an insight into various local area network configurations. 
+ 
+
+Learning Outcomes:  
+
+1.   Demonstrate an understanding of local area network components and design. 
+2.   Demonstrate a working knowledge of the available facilities and the setup of peer-to- 
+
+peer networks. 
+
+3.   Demonstrate a working knowledge of the available facilities and the setup  of 
+
+client/server networks. 
+
+4.  Demonstrate  a  working  knowledge  of  the  available  facilities  and  the  setup  of  virtual 
+
+environment. 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Lectures, discussions, practical – labs and research 
+
+ 
+Topics: 
+
+Topics include: fundamental knowledge about network administration; implementation and 
+management of peer-to-peer, client server and virtual network environment. 
+
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+ 40% 
+ 60% 
+
+Final Exam 
+Practical test on common network administration & support 
+activities 
+
+ 
+ 
+
+ 
+
+ 
+
+Learning resources required: 
+Required Text: refer to the current programme booklist. 
+
+Learning resources recommended: 
+
+Learning 
+outcomes 
+1, 2, 3, 4 
+1, 2, 3, 4 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+June 2020 
+
+from 
+S2 2020 
+
+ACC 
+
+9/08/2021 
+
+S 1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Delete Assessment 3 (Report) with 15% 
+weighting; Increase Assessment 2 (Test) 
+weighting to 60% from current 45% 
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to an old withdrawn programme 
+removed 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ISCG6403: 
+
+Network Operating Systems Management 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG5401    
+
+ISCG6403 
+BCS 
+ 
+
+Level:  6 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Co-requisites (for BCS): ISCG5430 
+ 
+GDCMP 
+020303 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+ 
+
+ 
+ 
+
+Outcome Statement: 
+
+To provide the knowledge and skills required to install, manage  and maintain small Linux 
+networks. 
+
+ 
+ 
+
+Learning Outcomes:  
+ 
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+7. 
+
+Compare, compile and install  kernels 
+Compare, compile and/or install kernel modules and device  drivers 
+Integrate, manage and query the kernel  modules 
+Create and use intermediate level shell  scripts 
+Compare different methods of automation and implement the most  appropriate 
+Integrate and implement network and related  services 
+
+Differentiate between entries in the system log files and use the appropriate ones  to 
+troubleshoot and manage the network 
+
+8. 
+
+Estimate security measures and implement appropriate  countermeasures 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+Lectures, demonstrations, discussions and laboratory (practical) classes Students learn by doing real 
+practical work. 
+They understand network operating system management tasks and concepts by installing and 
+maintaining their own network 
+Collaborative knowledge building and learning communities 
+ 
+ 
+Topics: 
+
+Topics include: compiling and installing kernels, configuring and maintaining network services, 
+automating system administration tasks. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+60% 
+
+40% 
+
+Tests (practical and/or theoretical) covering kernels, kernel modules 
+and device drivers, networking, shell scripting and automation 
+
+Learning 
+outcomes 
+
+1, 2, 3, 4, 
+5 and 8 
+
+OPEN BOOK Practical Test covering networking, log files and 
+implementation of security measures 
+
+5, 6, and 
+7 
+
+ 
+ 
+Learning resources required: 
+ 
+
+Text Book: refer to the current programme booklist. 
+
+ 
+
+ 
+ 
+
+ 
+
+Additional notes, slides and external links (essential) made available on BlackBoard and/or Moodle. 
+
+Learning resources recommended: 
+
+External links (recommended) made available on Blackboard and/or Moodle. 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+Version 
+No. 
+
+ 
+
+9/08/2021 
+
+from 
+S1 2022 
+
+AACSC Chair’s 
+
+Action 
+
+Inactive old courses removed as pre-requisites, 
+co-requisites and restriction; reference to an old 
+withdrawn programme removed 
+
+ 
+
+ 
+
+ 
+
+ISCG6404: 
+
+Web Server Management 
+
+Course number:  
+
+ISCG6404 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  Prerequisite (for BCS only): ISCG6402;  
+
+Other programmes: 
+
+Co-requisite (for BCS): ISCG5430  
+GDCMP 
+
+NZSCED field of Study: 
+
+020303 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the 
+Workplace: 
+
+Hours Self-directed: 
+
+Total Learning 
+
+32.5 
+
+ 
+
+117.5 
+
+Hours: 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow 
+students, and in the use of resources and facilities. 
+
+Outcome Statement: 
+
+To provide the students with the knowledge and skills necessary to design, 
+develop, configure and maintain the infrastructure of an Internet / Intranet website. 
+ 
+
+Learning Outcomes: 
+ 
+
+Install and configure an Internet server 
+
+1.  Plan and organise Web site infrastructure for Intranet and Internet 
+2. 
+3.  Demonstrate use of software tools for developing a Web site 
+4. 
+5. 
+6. 
+7.  Describe the copyright and privacy issues associated with the Internet 
+8. 
+
+Install and configure a Web browser 
+Install and configure a proxy server 
+Install and configure a mail server 
+
+Identify and discuss Internet security issues 
+
+ 
+
+Learning and Teaching:  
+
+Lectures, demonstrations, discussions and laboratory (practical) 
+classes; Students learn by doing practical work. 
+
+ 
+
+Topics: 
+
+Implementing a web server; implementing a mail server; identifying security issues 
+related to the servers; implementing measures that need to be taken to protect the 
+servers. 
+
+ 
+
+ 
+
+Assessment: 
+
+Students will be advised of all matters relating to summative assessment at the outset of the 
+course. Overall course grades will represent a balanced assessment of achievement in 
+relation to all stated learning outcomes. 
+
+Learning 
+outcome
+s 
+1 
+
+2, 3, 4, 5, 6 
+
+7, 8 and 
+Explain 
+and/or 
+discuss 
+components 
+of 5 and 6 
+
+ 
+
+ 
+
+ 
+
+Weighting 
+
+Nature of assessment 
+
+Research assignment covering infrastructure planning, 
+including mandatory oral exam 
+
+Practical assignment covering server and browser installation and 
+website development, including mandatory oral exam 
+
+In-class test covering copyright, privacy and security issues and 
+explanation and/or discussion about components of LOs 5 and 
+6 
+
+20% 
+
+60% 
+
+ 
+
+ 
+
+20% 
+
+ 
+
+Feedback: 
+
+Feedback is sought throughout the course using a range of assessment tools 
+including: Formal reflection, class forum and end of course survey 
+
+Learning resources required: 
+
+Text Book: refer to current programme booklist 
+
+Additional notes, slides and external links (essential) made available on Moodle. 
+
+Learning resources recommended:  
+
+External links (recommended) made available on Moodle  
+
+  Other Programmes: 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+ 
+
+9/08/2021 
+
+Effective 
+from 
+
+S1 2022 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to withdrawn programme 
+removed 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ISCG6407: 
+
+Fundamental Concepts in Cyber Security 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): 5403 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG6407 
+BCS 
+ 
+
+GDCMP 
+020303 
+
+Level:  6 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+32 
+
+ 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+118 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+
+To provide students with a clear understanding of fundamental concepts of cyber security 
+as well as develop the knowledge needed to understand security risks and mitigation 
+mechanisms associated with the implementation and management of IT infrastructure. 
+
+ 
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Analyse and describe the principles of information in the context of cyber security threats 
+
+and attacks, covering basic information security concepts 
+
+Investigate techniques used by hackers to penetrate systems and launch attacks 
+
+2. 
+3.  Differentiate and integrate legal, privacy and ethical aspects in the context of cyber 
+
+security to develop a security policy 
+
+4.  Review basic security issues related to wired, wireless and mobile networks covering 
+
+authentication, message encryption and key management 
+
+5.  Analyse different mitigation mechanisms and prevention to determine and evaluate 
+
+possible security solutions 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Lectures, laboratory work, collaborative knowledge building, student research, 
+student presentations, self-directed study 
+
+ 
+ 
+Topics: 
+Cyber Security threats and attacks; hacking; legal, privacy and ethical aspects in the context of cyber 
+security; basic security issues related to wired, wireless and mobile networks; mitigation mechanisms 
+and prevention methods to determine and evaluate possible security solutions 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+10% 
+
+40% 
+
+50% 
+
+In-class Tests 
+Research project that includes the analysis of a current cyber- 
+attack, investigation plan and finding 
+Final Exam 
+
+ 
+ 
+Learning resources required: 
+
+Textbooks: Distributed Systems, Ross J. Anderson. (2008, available online) 
+
+ 
+ 
+ 
+Learning resources recommended: 
+ 
+
+Learning 
+outcomes 
+1,2,3,4,and 5 
+
+1,2,3,4,and 5 
+
+1,2,3,4, and 
+5 
+
+Supplemental: 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Liars and outliers, Bruce Schneier  (2012) 
+Principles of Information Security, Fourth Edition or Later 
+Hands-on Ethical Hacking and Network Defence 
+New Zealand Information Security Manual (NZISM) 2011 Research 
+papers 
+Online databases 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+Date of Change 
+
+ 
+
+ 
+
+Effective 
+from 
+ 
+
+Approved by 
+
+Description of change 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG6411: 
+
+PROJECT PLANNING AND CONTROL 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG5410 or ISCG5424; Pre-requisite (for 
+
+ISCG6411 
+BCS 
+ 
+
+Credits: 
+Compulsory 
+
+Level:  6 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+  
+
+GDCMP): ISCG5424 
+Co-requisites (for BCS): ISCG5430  
+GDCMP 
+020303 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+
+To provide students with a knowledge of the requirements of project planning by using project 
+management techniques and tools, monitoring and controlling projects, using project 
+management software, and applying reviewing techniques. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  The student will be able to apply project planning principles. 
+2.  The student will be able to demonstrate the use of project management tools and 
+
+techniques. 
+
+3.  The student will be able to create project management documentation. 
+4.  The student will be able to apply monitoring and control techniques. 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Practical exercises, group activities, research activities, case studies and interactive 
+discussions 
+
+ 
+ 
+Topics: 
+
+Topics include: identification of the range of requirements for a small IT project, 
+application of these requirements. 
+
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+60% 
+40% 
+
+A range of project reports reflecting the life cycle of a project 
+Final exam 
+
+ 
+ 
+Learning resources required: 
+
+Textbook: refer to the current programme booklist. 
+
+Learning 
+Outcomes 
+2, 3, 4 
+All 
+
+ 
+Learning resources recommended: 
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG5424 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to an old withdrawn programme 
+removed 
+
+Version 
+No. 
+
+ 
+
+9/08/2021 
+
+ 
+ 
+ 
+
+ISCG6414: 
+
+Systems Analysis and Design 
+
+Course number:  
+
+ISCG6414 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  Pre-requisites: ISCG5424(or ISCG5410) and ISCG 5421  
+
+Other programmes: 
+
+Co-requisites: ISCG5430 
+  
+ 
+
+NZSCED field of Study: 
+
+020305 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+39 
+
+ 
+
+ 
+
+111 
+
+150 
+
+Outcome Statement: 
+
+To enable students to analyse simple and complex information systems, model business and systems 
+requirements, and document design solutions using appropriate methods, tools, and standards. To enable 
+students to design and document simple and complex solutions using object oriented analysis and design 
+modelling techniques. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes  
+
+ 
+1.  Explain the concepts of the Systems Life Cycle and Systems Development Life Cycle. Identify and 
+
+evaluate the methods used in the Systems Development Life Cycle 
+
+2.  Apply process, data and object modelling techniques and tools 
+3.  Solve a business systems problem by choosing a method and applying the analysis and design 
+
+techniques. 
+
+ 
+
+ 
+
+Learning and Teaching:  
+
+Interactive discussions, class exercises, research activities, lab exercises and case studies 
+ 
+
+Topics: 
+
+Topics include systems development approaches and methodologies, systems analysis, systems design. 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+20% 
+40% 
+40% 
+
+A professional systems proposal 
+A design specification from a system proposal 
+Final assessment 
+
+Learning 
+Outcomes 
+1, 2, 3 
+1, 2, 3 
+1, 2, 3 
+
+ 
+
+Learning resources required:    
+Textbook: refer to the current programme booklist. 
+Student access to Moodle 
+ 
+Learning resources recommended:   
+ 
+
+Other Programmes: NA 
+
+ 
+
+Version Tracking: 
+
+Date of 
+Change 
+10/07/2015 
+
+Effective 
+from 
+S 1 2016 
+
+Approved by 
+
+Description of change 
+
+PC 
+
+Changes in Pre-req, Course Aim, LOs, 
+Topics and Assessments 
+
+June 2018 
+
+S2 2018 
+
+PIC 
+
+Changes to assessment weightings 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as 
+prerequisites, co-requisites and restrictions 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG6420: 
+
+INTERNET AND WEBSITE DEVELOPMENT 
+
+Course number:  
+
+ISCG6420 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  Pre-requisites (for BCS only): ISCG5420 and ISCG5421 
+
+Other programmes: 
+
+Co-requisites (for BCS): ISCG5430  
+GDCMP 
+
+NZSCED field of Study: 
+
+020305 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, 
+and in the use of resources and facilities. 
+
+Outcome Statement: 
+To  provide  the  students  with  knowledge  of  advanced  concepts  of  the  Internet  and  website  design  and 
+development 
+ 
+
+Learning Outcomes: 
+1. 
+2. 
+3. 
+
+Explain and apply the fundamentals of CSS (Cascading Style Sheets). 
+Explain and apply the fundamentals of JavaScript. 
+Use  current  client-side  website  development  languages/technologies  create  a  complex 
+commercial or educational website. 
+Use the features of Web/Multimedia authoring packages to create a complex commercial or 
+educational website with effective navigational interface. 
+
+4. 
+
+ 
+Learning and Teaching:  
+Lectures, tutorials and lab practical 
+ 
+Topics may include: 
+Advanced client side technologies to implement website designs, animations  and communicate with the 
+web server 
+ 
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. Overall 
+course  grades  will  represent  a  balanced  assessment  of  achievement  in  relation  to  all  stated  learning 
+outcomes. 
+
+Weighting 
+
+Nature of assessment 
+
+20% 
+
+30% 
+
+50% 
+
+Assignment – implementation of a simple website to 
+demonstrate mastery of JavaScript and CSS 
+Test – practical demonstration to demonstrate mastery of client 
+side techniques 
+Project 
+
+Learning 
+Outcomes 
+1, 2 
+
+3, 4 
+
+1, 2, 3, 4 
+
+ 
+ 
+Learning resources required: 
+A web server, web browser, text editor and internet access from Unitec  
+ 
+ 
+Learning resources recommended: 
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+Sem 2, 
+2018 
+Sem 1 
+2022 
+
+TKK / PR 
+
+AACSC 
+Chair’s Action 
+
+Removed expanded outcomes and learning 
+resources. 
+Inactive old courses removed as pre-
+requisites, co-requisites and restriction; 
+ISCG5421 added as a new pre-requisite for 
+BCS students;  reference to an old 
+withdrawn programme removed 
+
+Version 
+No. 
+1 
+
+July 2018 
+
+ 
+
+9/08/2021 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ISCG6421: 
+
+GUI Programming 
+
+Course number:  
+
+ISCG6421 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  Prerequisites (for BCS): ISCG5421 and ISCG5423  
+
+Other programmes: 
+
+Co-requisites (for BCS): ISCG5430 
+GDCMP 
+
+NZSCED field of Study: 
+
+020103 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32.5 
+
+ 
+
+ 
+
+117.5 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and 
+in the use of resources and facilities.   
+
+Outcome Statement: 
+
+To provide the student with the concepts of and practice in the use of event driven programming in 
+the context of a selected language and a standard interface using windows, icons, menus and 
+pointers. 
+
+Learning Outcomes:  
+
+1.  Demonstrate competency in the use of a GUI programming language and environment. 
+2.  Demonstrate the use of a GUI language for the creation of an effective database front   
+
+end 
+
+3.  Demonstrate the testing, debugging and documentation of GUI programs. 
+4.  Analyse the way in which a GUI model affects the development effort, the programme   
+       structure and the interaction with the user. 
+
+Learning and Teaching:  
+
+Topics may be taught in an integrated manner 
+Supervisor / student meetings/discussions 
+Collaborative and/or individual projects 
+Analyses of written, visual, aural and performance texts 
+ 
+Topics: 
+
+Developing, testing and integrating forms, controls and events; integrating with databases, SQL 
+querying, report generation. 
+
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+
+ 
+
+Weighting 
+
+Nature of assessment 
+
+Learning 
+outcomes 
+
+20%  
+
+40%  
+
+Programming assignment to design and develop a graphical 
+user interface program 
+
+1, 3 
+
+Programming assignment to design and develop an 
+intermediate level graphical user interface program that acts 
+as a front end to a database. 
+
+1, 2, 3 
+
+40%  
+
+Final Exam  
+
+1, 2, 3, 4 
+
+ 
+
+Feedback: 
+
+Feedback is sought throughout the course using a range of assessment tools including: 
+Formal reflection, class forum and end of course survey 
+ 
+
+Learning resources required: 
+
+No set texts. 
+Specific readings will be provided during the course. 
+
+ 
+
+Learning resources recommended: 
+
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+ 
+
+Date of 
+Change 
+9/08/2021` 
+
+Effective 
+from 
+S1 2022 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+reference to a withdrawn programme 
+removed. 
+
+ 
+
+ISCG6422: 
+
+Multimedia Programming 
+
+Course number:  
+
+ISCG6422 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG5420  
+
+Other programmes: 
+
+Co-requisites (for BCS): ISCG5430 
+GDCMP 
+
+NZSCED field of Study: 
+
+020103 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+39 
+
+ 
+
+ 
+
+111 
+
+150 
+
+Outcome Statement: 
+
+To provide the students with a knowledge of the issues pertaining to the design of multimedia 
+applications and the tools used to create a multimedia application for the use in a commercial or 
+education field 
+
+ 
+
+Learning Outcomes:  
+
+Learning outcomes  
+
+ 
+1.  Critically analyse commercially available multimedia products and their suitability for meeting the 
+
+needs of the proposed target audience. 
+
+2.  Design and develop appropriate programming solutions for complex multimedia problems that 
+
+require the use of the advanced features of multimedia tools. 
+
+3.  Design and develop appropriate programming solutions for complex multimedia problems that 
+
+require the use of the embedded programming language of multimedia tools. 
+
+4.  Create a high level design, using best practice from Human-Computer Interaction (HCI), given a 
+
+problem specification and specific target audience. 
+
+ 
+
+ 
+
+Learning and Teaching:  
+Lectures, demonstrations, discussions and practical classes. 
+Students learn by doing real practical work. 
+Learning communities. 
+ 
+
+Topics: 
+Topics include: analysis of multimedia products; designing and developing multimedia applications 
+using multimedia tools and their embedded programming language; creating high level design using 
+best practice for human – computer interaction. 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+40% 
+60% 
+
+ 
+
+Open Book, One or more practical test(s) using multimedia tools 
+One or more project(s) creating multimedia application(s). These 
+are assessed in stages.  
+
+Learning 
+outcomes 
+2,3 
+1,2,3,4 
+
+ 
+
+Learning resources required:    
+
+Materials provided on Moodle. 
+Additional notes, slides and external links made available on Moodle. 
+
+Learning resources recommended:   
+
+ Resources available on the internet 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+Effective 
+from 
+
+Approved by 
+
+Description of change 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restriction; 
+reference to an old withdrawn programme 
+removed 
+
+ 
+
+ISCG6423: 
+
+Database Design and Development 
+
+Course number:  
+
+ISCG6423 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+ 
+
+ 
+
+Requisites / Restrictions:  Prerequisites (for BCS only): ISCG5421 and ISCG5423;  
+
+Co-requisite (for BCS): ISCG5430 
+Prerequisite (for GDCMP): As approved by the relevant Academic 
+Authority 
+ 
+GDCMP  
+
+Other programmes: 
+
+NZSCED field of Study: 
+
+020305 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and 
+in the use of resources and facilities.   
+
+Outcome Statement: 
+
+To apply the principles of data management with database technology. 
+
+Learning Outcomes:  
+
+1. 
+
+2. 
+
+3. 
+
+Demonstrate an understanding of database management systems. 
+
+Produce a conceptual data model for a given set of requirements.  
+
+Develop a logical database design for a given set of requirements and for a given    
+
+             conceptual design.  
+
+Develop a physical database design from a given logical design.  
+
+Write and test procedures for a database application that meet business requirements. 
+
+4. 
+
+5. 
+
+ 
+
+Learning and Teaching:  
+
+Topics may be taught in an integrated manner 
+Supervisor / student meetings/discussions 
+Collaborative and/or individual projects 
+Analyses of written, visual, aural and performance texts 
+ 
+Topics: 
+
+Conceptual, logical and physical design of a database; development of an intermediate level 
+database application using development tools.  
+
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+
+ 
+
+ 
+
+Weighting 
+
+Nature of assessment 
+
+Learning 
+outcomes 
+
+40%  
+
+20%  
+
+40%  
+
+Assignment(s) – database design and development   
+
+2, 3, 4 
+
+Practical Test on database application  
+
+Final Exam  
+
+5 
+
+1, 2, 3, 4 
+
+Feedback: 
+
+Feedback is sought throughout the course using a range of assessment tools including: 
+Formal reflection, class forum and end of course survey 
+ 
+Learning resources required: 
+
+No set texts. 
+Specific readings will be provided during the course. 
+
+ 
+
+Learning resources recommended: 
+
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+30/04/2015 
+
+Elective 
+
+As approved by the relevant 
+Academic Authority 
+
+Effective 
+from 
+
+S2 2015 
+
+Approved by 
+
+Description of change 
+
+PC 
+
+ISCG5421 added as the new pre-requisite 
+replacing ISCG5420 
+
+7/10/2015 
+
+S1 2016 
+
+PC 
+
+Changes in LOs and Assessment 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as 
+prerequisites, co-requisites and restriction  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG6424: 
+
+User Interface Design 
+
+Course number:  
+
+ISCG6424 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG5421 
+Co-requisites (for BCS): ISCG5430  
+GDCMP 
+
+Other programmes: 
+
+NZSCED field of Study: 
+
+020305 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+ 
+Outcome Statement: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+ 
+To provide students with knowledge of the requirements of user interface design by using 
+software to develop usable forms, prototype systems, and develop on-line documentation. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Explain the fundamental principles of good forms design (GUI and text based). 
+2.  Develop user interface strategies. 
+3.  Explain the principles of prototyping. 
+4.  Design input and output screens and reports. 
+5.  Develop on-line help, on-screen documentation and on-line tutorials. 
+
+ 
+
+ 
+
+Learning and Teaching:  
+
+Lectures, Laboratory work, Self-directed study. 
+
+ 
+Topics: 
+
+Topics include: using prototyping tools to apply the principles of good user interface design to 
+input and output screens and reports at an intermediate level; compare and contrast a variety 
+of interfaces. 
+
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+30% 
+
+30% 
+
+40% 
+
+ 
+
+Assignment on development of an intermediate level 
+interface design 
+
+Assignment – report comparing and contrasting interface 
+designs 
+
+Final Exam 
+
+Learning 
+outcomes 
+
+1, 2,4 
+
+3,5 
+
+1, 2, 3, 4, 5 
+
+Learning resources required: 
+
+Textbook: refer to the current programme booklist. 
+
+Learning resources recommended: 
+ 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Elective 
+
+ 
+
+Version 
+No. 
+
+ 
+
+Date of 
+Change 
+9/08/2021 
+
+Effective 
+from 
+S1 2022 
+
+Approved by 
+
+Description of change 
+
+ACCSC 
+
+Chair’s Action  
+
+Inactive old courses removed as 
+prerequisites, co-requisites and restriction 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG6425: 
+
+Data Warehousing 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG5423 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG6425 
+BCS 
+ 
+
+GDCMP 
+020117 
+
+Level:  6 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+ 
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in 
+the use of resources and facilities. Students are required to attend 100% of all scheduled classes. 
+ 
+
+Course aim: 
+To introduce students to the concepts of data warehousing and decision-making, data warehouse design 
+and implementation, data sourcing and data quality, Extract-Transform-Load (ETL) procedure, and on-
+line analytical processing (OLAP).  Students will gain hands-on experience using Microsoft SQL server for 
+implementing data warehouses. 
+ 
+ 
+
+Learning Outcomes: 
+ 
+
+1.  Demonstrate knowledge of data warehouse architecture, schema, and data modelling 
+
+2.  Demonstrate knowledge of ETL, data integration and data quality 
+3.  Demonstrate understanding of decision making process 
+4.  Demonstrate knowledge and usage of OLAP, data cubes 
+5. 
+
+Implementing  SQL in data warehouse environment 
+
+6.  Use data warehousing tools for implementing data warehouses 
+
+ 
+ 
+
+Topics: 
+
+Introduction to SQL server for Data warehouse 
+
+•  Data warehouse architecture and schema 
+• 
+•  Dimensional modelling 
+•  ETL, data integration, and data quality 
+•  Data sourcing 
+•  OLAP and Data cubes 
+•  SQL in data warehouse 
+•  Data warehouse and Business Intelligence 
+•  And other appropriate, related topics 
+
+ 
+ 
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+
+ 
+ 
+ 
+
+Weighting  Nature of assessment 
+
+30% 
+
+30% 
+
+Assignment: Analysis, design and develop data models and ETL 
+for data warehouse based on a case study 
+
+Assignment: Analysis, design and develop a complete data 
+warehouse solution based on a case study 
+
+40% 
+
+Test (s) 
+
+Learning 
+outcomes 
+
+1,2,4,5 
+
+1, 2, 3,4,5 
+
+1, 2, 3, 4 
+
+ 
+Learning and teaching approaches: 
+ 
+This course will be taught in an integrated manner employing Lectures, demonstrations, discussions and 
+laboratory (practical) classes 
+An understanding of the principles and fundamental concepts of computer systems will be reinforced with 
+practical work. 
+Students learn by doing real practical work. 
+Collaborative Knowledge Building and Learning 
+Learning Communities 
+Online support material will enhance the students’ ability to learn at their own pace. 
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Class forum and survey 
+ 
+Learning resources required: 
+Text Book: refer to the current programme booklist. 
+Specific resources/readings will be provided during the course. 
+Handouts given and/or directions to Short Term Loans in the library 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+ 
+Other Programmes: 
+
+Elective 
+
+ 
+
+Effective 
+from 
+
+S1 2014 
+
+Approved by 
+
+Description of change 
+
+PC 
+
+New elective course added to BCS; also 
+available in the GDCMP 
+
+S1 2015 
+
+PC 
+
+Some changes in course assessments 
+
+GDCMP 
+
+ 
+
+Version Tracking: 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ISCG6426: 
+
+Data Structures and Algorithms 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ 
+
+Level:  6 
+
+ISCG6426 
+BCS 
+ 
+Prerequisites (for BCS): ISCG5421;   
+Pre-requisite (for GDCMP) As approved by the relevant academic authority 
+GDCMP 
+020111 
+
+Credits: 
+Elective 
+
+Delivery mode: 
+
+Face to Face 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+39 
+
+ 
+
+ 
+
+111 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in 
+the use of resources and facilities.   
+ 
+
+Outcome Statement: 
+This  course  introduces  the  fundamental  data  structures  and  algorithms  used  in  software  development, 
+extending  the  object-oriented  concepts  taught  in  the  pre-requisite  subject  Programming  Principles  and 
+Practice. The course will cover searching and sorting, linked data structures such lists and trees as well as 
+hash tables. Upon completion of this course students will be able to implement a variety of data structures 
+and  algorithms,  and  will  have  an  expert  knowledge  of  the  scalability  and  design  trade-offs  of  these 
+algorithms. 
+ 
+
+Learning Outcomes:  
+1. Apply object oriented design and implementation techniques. 
+
+2. Interpret the trade-offs and issues involved in the design, implementation, and application of 
+various data structures with respect to a given problem 
+
+3. Explain the purpose and answer questions about data structures and design patterns that illustrate 
+strengths and weaknesses with respect to resource consumption 
+
+4. Assess the impact of data structures on algorithms 
+
+5. Analyse the scalability of data structures and algorithms in terms of both space and time 
+complexity 
+
+ 
+Learning and Teaching:  
+Topics may be taught in an integrated manner 
+Supervisor / student meetings/discussions 
+Collaborative and/or individual projects 
+Analyses of written, visual, aural and performance texts 
+ 
+Topics: 
+1.  Sorting 
+2.  Bubble Sort 
+3.  Merge Sort 
+4. 
+Insertion Sort 
+5.  Selection Sort 
+6.  Quick Sort 
+7.  Searching 
+8.  Brute Force Search 
+9.  Binary Search 
+10.  Linked Lists 
+
+11.  Double Linked Lists 
+12.  Stacks 
+13.  Queues 
+14.  Binary Trees 
+15.  Depth First Search 
+16.  Breadth First Search 
+17.  Recursion 
+18.  Hash Tables 
+19.  Complexity 
+20.  Divide and Conquer 
+21.  Backtracking 
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+
+Weighting 
+
+Nature of assessment 
+
+Learning 
+outcomes 
+
+1,2,3,4,5 
+
+30% 
+
+ 
+
+40% 
+
+ 
+
+30% 
+
+Lab Exercises: completed individually or in small groups on 
+classroom topics and implementation 
+
+Assignment(s): small project related to implementing and using 
+a data structure, and (or) an algorithm in a real world situation. 
+
+1,2,3,4,5 
+
+Final Exam 
+
+1,2,3,4,5 
+
+ 
+Learning resources required: 
+No set texts. 
+Specific readings will be provided during the course. 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+ 
+Version Tracking: 
+
+Pre-requisites: As approved by 
+the relevant academic authority 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+30/4/2015 
+
+from 
+S 2 2015 
+
+PC 
+
+New course added as a BCS elective; also 
+available in the GDCMP 
+
+June 2020 
+
+S 2 2020 
+
+ACC 
+
+ 
+
+ 
+
+ 
+
+Remove ISCG5421 as a pre-requisite for 
+GDCMP students 
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG6435: 
+
+Special Topic 
+
+Course number:  
+
+ISCG6435 
+
+Level:  6 
+
+Credits: 
+
+15 
+
+Main programme: 
+
+BCS 
+
+Elective 
+
+Pathway(s): 
+
+ 
+
+Requisites / Restrictions:  None 
+
+Other programmes: 
+
+GDCMP 
+
+NZSCED field of Study: 
+
+029999 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32.5 
+
+ 
+
+ 
+
+117.5 
+
+150 
+
+Outcome Statement: 
+
+The inclusion of a special topic is to allow the school to offer courses at this level that deal with 
+current, but possibly transient issues, and that make use of the particular expertise of individual staff 
+members, including visitors. 
+Each special topic offered will be documented either in the form of a standard description using the 
+heading above, or as a learning and assessment contract with the individual student(s) taking the 
+course. 
+Each special topic offered must be approved by the Programme Committee and the Faculty 
+Academic Committee and endorsed by the Academic Board. 
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  As determined 
+
+ 
+
+ 
+
+Learning and Teaching:  
+Lectures, practical sessions, research and self-directed study 
+ 
+Topics: 
+As determined by the special topic offered. 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+As determined 
+
+ 
+Learning resources required:   as determined 
+
+ 
+
+ 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+
+Elective 
+
+ 
+
+Learning 
+outcomes 
+
+ 
+
+Version Tracking: 
+
+Version 
+No. 
+
+Date of 
+Change 
+
+ 
+
+9/08/2021 
+
+Effective 
+from 
+
+S 1 2022 
+
+ 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Pre-requisites for BCS removed 
+
+Chair’s Action 
+
+ 
+ 
+
+ 
+
+ISCG6441: 
+
+Visual Game Design 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  None 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG6441 
+BCS 
+ 
+
+GDCMP 
+020103 
+
+Level:  6 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+39 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+111 
+
+Hours: 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in the use 
+of resources and facilities. Students are required to attend 100% of all scheduled classes. 
+ 
+
+Outcome Statement: 
+To provide the students with knowledge of concepts and theories related to game design and the ability 
+to analyse games from the non-technical perspective. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes  
+
+ 
+1.  Critically analyse game design problems utilizing the terminology of gaming. 
+2.  Critique traditional and contemporary games from a non-technical perspective. 
+3.  Produce a coherent game design document and associated prototype. 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, demonstrations, discussions and practical classes. 
+Students learn by doing real practical work. 
+Learning communities. 
+Lectures, practical sessions, research and self-directed study. 
+ 
+Topics: 
+Topics  include:  Visual  Design,  Audio  Design,  Interactive  Storytelling,  Human  Factors,  Creative 
+Thinking,  Design  Problems,  Game  Design  Problems,  Game  Design  Requirements,  Game  Genres, 
+History  &  Mythology,  Ethics,  Cinematography,  Game  Design  Documents,  Prototyping,  Prototype 
+Testing, Conceptual Game Design, Serious Game Design, Practical Game Design and Designing Fun 
+Experiences. 
+ 
+
+Assessment: 
+
+Weighting 
+25% 
+
+25% 
+
+50% 
+
+Nature of assessment 
+Individual game design criticism of a contemporary video game.   
+ 
+Individual game design criticism of a traditional non-video game, 
+for example Chess. 
+Group Game Design Document and Game Prototype. 
+
+Learning outcomes 
+1, 2 
+
+1, 2 
+
+1, 2, 3 
+
+ 
+Learning resources required:    
+Multimedia software, audio-video equipment and access to a learning management system. 
+Materials provided on Moodle. 
+Additional notes, slides and external links made available on Moodle. 
+ 
+Learning resources recommended:   
+Resources available on the internet 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+ 
+
+ 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ISCG6442: 
+
+Game Programming 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Prerequisites (for BCS): ISCG5421; Pre-requisite (for GDCMP): As 
+
+ISCG6442 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  6 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+39 
+
+ 
+
+approved by relevant Academic Authority 
+Co-requisites (For BCS and GDCMP): ISCG6426 
+GDCMP 
+020103 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+111 
+
+Hours: 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in 
+the use of resources and facilities.   
+ 
+ 
+
+Outcome Statement: 
+To provide students with programming knowledge and mathematical concepts required for effective game 
+development.  
+ 
+
+Learning Outcomes:  
+
+1. Utilise a collection of physics and mathematical concepts for a game. 
+
+2. Develop a simple text-based game. 
+
+3. Develop a sprite-based game using widely accepted techniques, including physics, mathematics 
+and programming concepts 
+
+ 
+Learning and Teaching:  
+Lectures, demonstrations, discussions and practical classes 
+Students learn by doing real practical work. 
+Learning communities. 
+Lectures, practical sessions, research and self-directed study 
+ 
+Topics: 
+Programming Concepts for Games, Physics Concepts for Games, and Mathematical Concepts for 
+Games, Logic and Decision Making for Games 
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+
+Weighting 
+
+Nature of assessment 
+
+20% 
+30% 
+50% 
+
+Test: Logic and Problem Solving for Games 
+Individual Game Project 
+Sprite Based Game Project (Group/Individual) 
+
+Learning 
+outcomes 
+1 
+1, 2 
+1, 3 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Formal reflection, class forum and end of course survey 
+ 
+Learning resources required: 
+Multimedia software, audio-video equipment and access to a learning management system 
+Materials provided on Moodle. 
+Additional notes, slides and external links made available on Moodle. 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: As approved 
+by Programme Leader; Co-
+requisite: ISCG6426 
+
+ 
+Version Tracking: 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+S 2 2014 
+
+S 2 2015 
+
+S 2 2015 
+
+PC 
+
+PC 
+
+PC 
+
+New course added as an elective  
+
+ISCG6426 added as a co-requisite 
+
+Changes in Assessment Weighting 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+
+5/5/2014 
+
+30/4/2015 
+
+30/4/2015 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ISCG6488: 
+
+Negotiated Study 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites: Approval by relevant Academic Authority AND student 
+
+ISCG6488 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  6 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+By negotiation  
+
+ 
+
+must have completed 180 credits towards the BCS degree. 
+ 
+020399 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+By negotiation 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+To enable a student to follow a course of self-directed in-depth study in an approved topic area. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes: 
+
+ 
+1.  Negotiated by student and the course developer 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+As negotiated with student, and the course developer 
+ 
+Topics: 
+Topics to be negotiated with student and the course developer 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+100% 
+
+Negotiated by student and the course developer 
+
+ 
+Learning resources: 
+As negotiated with student and the course developer 
+ 
+ 
+Other Programmes: NA 
+ 
+Version Tracking: 
+
+Version 
+No. 
+
+ 
+
+Date of 
+Change 
+ 
+
+Effective 
+from 
+ 
+
+Approved by 
+
+Description of change 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Learning 
+outcomes 
+
+All 
+
+ISCG7142: 
+
+Information Systems and Analysis 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Restrictions (for BCS): ISCG6414 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG7142 
+GDCMP 
+ 
+
+BCS 
+020305 
+
+Level:  7 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+ 
+
+ 
+
+ 
+ 
+
+Outcome Statement: 
+To familiarise participants with the characteristics of information systems together with the processes and 
+tools used in developing computer application systems. This course provides participants an introduction 
+to information systems in the business context, and techniques and tools to perform feasibility analysis 
+and requirement analysis in various software development methodologies. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes: 
+Identify the purpose, types and evolution of information systems 
+
+ 
+1. 
+2.  Prepare a feasibility report for a business solution 
+3.  Perform system analysis using modelling tools and Agile user stories 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, Case Studies, Group Discussions, Individual and Group Exercises 
+ 
+Topics: 
+Topics include: purpose and types of Information Systems, Systems Development Methodologies, 
+Systems Analysis, Systems Design, Agile Requirement Analysis 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+30% 
+
+35% 
+
+35% 
+
+Written assignment on information systems; Types, evolution, 
+applicability to business 
+Written assignment on system feasibility; Feasibility report using 
+well known feasibility criteria 
+Written assignment on system analysis and design; 
+documenting system requirements using a CASE tool and using 
+user stories 
+
+Learning 
+outcomes 
+
+1 
+
+2 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Learning resources: 
+Refer to current programme booklist 
+ 
+ 
+Other Programmes: 
+
+BCS 
+
+ 
+Version Tracking: 
+
+Version 
+No. 
+
+ 
+
+Date of 
+Change 
+9/08/2021 
+
+Effective 
+from 
+S 1 2022 
+
+ 
+
+Elective 
+
+Restriction: ISCG6414 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old pre-requisites, co-requisites 
+and restriction removed; ISCG7142 added 
+as a new BCS elective course 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7400: 
+
+Computer Systems Security 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  7 
+
+ISCG7400 
+BCS 
+ 
+Pre-requisites (for BCS and GDCMP): ISCG6402  
+ 
+GDCMP 
+029901 
+
+Delivery mode: 
+
+Face to Face 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32.5 
+
+ 
+
+ 
+
+117.5 
+
+150 
+
+Outcome Statement: 
+To provide students with an insight into computer systems security and carry out advanced tasks in 
+planning, operation and monitoring of comprehensive systems security. 
+ 
+Learning outcomes: 
+
+1. 
+2. 
+3. 
+
+4. 
+
+5. 
+
+Critically analyse and describe elements of Computer System Security. 
+Critically analyse and describe a selection of hardware and physical layer security solutions. 
+Research and analyse network security issues and solutions from the LAN and WAN (Internet) 
+perspectives. 
+Critically  evaluate  platform  specific  operating  systems  and  application  security  issues  and 
+solutions. 
+Analyse a given case study with a view to determining and evaluating possible security 
+solutions 
+
+ 
+Learning and Teaching:  
+Lectures, Discussion, Practical – Labs and Research 
+ 
+ 
+Topics: 
+Topics include elements of Computer Systems Security, selection of hardware and physical layer security 
+solutions, network security issues and solutions, platform specific operating systems and application 
+security issues and solutions, case studies for evaluating security solutions. 
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+40% 
+
+20% 
+
+40% 
+
+Exam 
+
+Quiz Test 
+
+Assignment 
+
+Learning 
+outcomes 
+1, 2, 3, 4 
+and 5 
+1, 2, 3, 4 
+and 5 
+3, 4 and 5 
+
+ 
+Learning resources required:    
+Required Texts: Security+ Guide to Network Security Fundamentals, Edition (TBA) by Mark Ciampa. 
+Access to Hardware and Software as per the required text above. 
+ 
+
+Learning resources recommended:  TBA 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+ 
+Version Tracking: 
+
+Pre-requisites: ISCG6402 
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+S 1, 2016 
+
+S 1 2022 
+
+PC 
+
+Change of Assessments 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions 
+
+Version 
+No. 
+
+ 
+
+ 
+
+7/10/2015 
+
+9/08/2021 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ISCG7401: 
+
+ADVANCED DATA COMMUNICATIONS 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS and GDCMP): ISCG6401 
+
+ISCG7401 
+BCS 
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ 
+GDCMP 
+020113 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+
+To provide the students with knowledge and application of latest development in data 
+communications and networking. 
+
+ 
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Analyse and describe a selection of the latest LAN and WAN technologies widely used 
+
+and protocols. 
+Learn the latest technologies in wireless communications. 
+Learn about  Internet addressing  (how messages get to destination) 
+
+2. 
+3. 
+4.  Describe network security, Internet network, and network management. 
+5 
+
+Critically evaluate alternative approaches using different network and data 
+communication technologies and techniques in distributed data environments. 
+
+6 
+
+ 
+
+Demonstrate skills in gathering information, assessing, planning and implementing 
+efficient data communication techniques. 
+
+ 
+ 
+Learning and Teaching:  
+
+Lectures, Discussion, Practical - Research 
+
+ 
+Topics: 
+
+Topics include: planning advanced IP addressing, designing WANs, evaluating latest protocols; 
+analysing wireless networks; evaluating network security and management. 
+
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+10% 
+40% 
+
+50% 
+
+Quiz 
+Assignment – report on a large company detailing and assessing 
+network components 
+
+Final Exam (closed Book) 
+
+Learning 
+outcomes 
+1,2,3 
+All 
+
+All 
+
+ 
+Learning resources required: 
+
+Recommended Text: Refer to the current programme booklist. 
+
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG6401  
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG7402: 
+
+Network Design and Implementation 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  7 
+
+ISCG7402 
+BCS 
+ 
+Pre-requisites (for BCS and GDCMP): ISCG6401 and ISCG6402   
+GDCMP 
+020305 
+
+Credits: 
+Elective 
+
+Delivery mode: 
+
+Face to Face 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32.5 
+
+ 
+
+ 
+
+117.5 
+
+150 
+
+Outcome Statement: 
+To provide students with an insight into various large network technologies 
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes  
+
+1.  Design and Implement a Large Network Infrastructure System. 
+2.  Design and Implement Name Resolution Techniques. 
+3.  Design and Implement a Wide Area Network System. 
+4.  Design, Implement and Configure Network Security and Routers. 
+5.  Design and Implement Voice over IP solution 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, Discussion, Practical – Labs and Research 
+ 
+Topics: 
+Topics include: researching, planning, designing and implementing large network infrastructure 
+technologies. Includes name resolution techniques, security, routing and voice over IP 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+40% 
+60% 
+
+Exam 
+Practical tests on common network design and implementation 
+issues. 
+
+Learning outcomes 
+1, 2, 3, 4, 5 
+1, 2, 3, 4, 5 
+
+ 
+Learning resources required:    
+Required Texts: None 
+ 
+Learning resources recommended:  Various appropriate websites and in class notes. 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: ISCG6401 
+ISCG6402 
+
+ 
+Version Tracking: 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+Version 
+No. 
+
+ 
+
+9/08/2021 
+
+from 
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisite, co-requisite and restriction; 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ISCG7404: 
+
+Computer Forensic Investigations 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  7 
+
+ISCG7404 
+BCS 
+ 
+Pre-requisites (for BCS and GDCMP): ISCG6401 and ISCG6402 
+GDCMP 
+020305 
+
+Credits: 
+Elective 
+
+Delivery mode: 
+
+Face to Face 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+54 
+
+ 
+
+ 
+
+96 
+
+150 
+
+Outcome Statement: 
+To provide enable students to plan and conduct a digital forensic investigation. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes  
+
+ 
+1.  Discuss Computer Investigation 
+2.  Explain Data Sources and Acquisition Methods 
+3.  Describe how to secure a Computer Incidence or Crime Scene 
+4. 
+5.  Select suitable analysis tools and apply them in a simulated investigation 
+
+Investigate Digital Forensic tools and their use for Forensic Analysis and Validation 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, Laboratory work, Self- directed study. 
+ 
+Topics: 
+
+-  Understanding Computer Investigations 
+-  The Investigator’s Office and Laboratory 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+ Data Acquisition 
+ Processing Crime and Incident Scenes 
+ Current Computer Forensics Tools 
+ Computer Forensics Analysis and Validation 
+ Recovering Graphics Files 
+ Network Forensics 
+ E-mail Investigations 
+ Cell Phone and Mobile Device Forensics 
+ Report Writing for High-Tech Investigations 
+
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+20% 
+40% 
+
+40% 
+
+Test(s) 
+ Written report that includes the analysis of tools, investigation 
+plan and findings from case study scenarios 
+Final Exam 
+
+Learning 
+outcomes 
+1,2,3 
+4,5 
+
+1,2,3,4 
+
+ 
+ 
+Learning resources required:    
+Textbook: Refer to the current programme booklist. 
+ 
+Learning resources recommended:   
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: 6401 and 6402 
+
+Version 
+No. 
+
+ 
+Version Tracking: 
+Date of 
+Change 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Effective 
+from 
+ 
+ 
+ 
+
+Approved by 
+
+Description of change 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ISCG7407: 
+
+Advanced Cyber Security 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG6403 and ISCG6407 
+
+ISCG7407 
+BCS 
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ 
+
+ 
+
+Hours directed: 
+
+32 
+
+ 
+
+Pre-requisite (for GDCMP): ISCG6407 
+GDCMP 
+020303 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+118 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+To provide students with a deep understanding of the principles of information security in cyber space, 
+enabling them to analyse various phases in the Cyber Attack Cycle and plan prevention mechanisms into 
+their network design. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes. 
+
+ 
+1.  Critically analyse and describe the principles of information and infrastructure security in the 
+
+context of cyber security. 
+
+2.  Critically analyse and describe a selection of security technologies and solutions 
+3.  Critically analyse and describe various common cyber security threats according to risk mitigation 
+
+priority and describe triple stages of these attacks.  
+
+4.  Research and analyse cyber security issues and solutions from the risk mitigation priority 
+
+perspectives. 
+
+5.  Critically analyse different mitigation mechanisms and prevention to determining and evaluating 
+
+possible security solutions. 
+
+6.  Critically analyse and describe different solutions for preventing cyber-attacks, and describe 
+
+different network protection systems 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+Lectures, laboratory work, collaborative knowledge building, student research, student presentations, self-
+directed study 
+ 
+ 
+Topics: 
+Topics include Cyber Space and IT Security, Network Security Technology, Cyber Attack Cycles, Cyber 
+Security and types of threats and hacking toolkits, Cryptography, Prevention of cyber-attacks, and 
+network protection systems 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+50% 
+
+50% 
+
+Assignments and research project that includes the analysis of 
+current cyber-attack, investigation plan and findings from case study 
+scenarios 
+Final Exam 
+
+Learning 
+outcomes 
+1, 2, 3, 4 
+and 5 
+
+1,2,3,4,5,6 
+
+Principle of Information Security, Fourth Edition or Later 
+
+ 
+
+ 
+
+ 
+ 
+Learning resources required: 
+Textbook:  
+ISBN-13: 978-1-111-13821-9 
+Hands-on Ethical Hacking and Network Defence 
+ISBN-13:978-1-4354-8609-9 
+ 
+ 
+Learning resources recommended: 
+ 
+Supplemental:  New Zealand Information Security Manual (NZISM) 2011  
+Research papers 
+Online databases 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG6407 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+An inactive course that is removed from the 
+BCS is removed as a pre-requisite for this 
+course 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG7408: 
+
+Malware Analysis 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS and GDCMP): ISCG6407 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG7408 
+BCS 
+ 
+
+Level:  7 
+
+GDCMP 
+020303 
+
+Face to Face 
+
+Credits: 
+Elective 
+
+Delivery 
+mode: 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+39 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+111 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+To give students an insight into the fundamental concepts of malware analysis, the knowledge needed to 
+understand the security risks of malware infections and the mitigation mechanisms required to be 
+implemented and managed for securing IT infrastructure. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes 
+
+ 
+1.  Programming language knowledge necessary to analyse malware 
+2.  Static and Dynamic analysis of malware 
+3.  Understanding malware functionality and how malware enables the underground economy 
+4.  Reverse engineering and obfuscation techniques used in modern malware 
+5.  Shellcode analysis 
+6.  Rootkit analysis 
+
+ 
+
+ 
+Learning and Teaching:  
+Lecture, Demonstrations, Laboratory work, collaborative knowledge building, student research, student 
+presentations, self-directed study 
+ 
+Topics: 
+ 
+Topics include  
+Programming languages necessary to analyse malware 
+Static and Dynamic analysis of malware 
+Malware functionality - how malware enables the underground economy 
+Reverse engineering and obfuscation techniques used in modern malware 
+Shellcode analysis 
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+60% 
+
+10% 
+30% 
+
+Research Project(s) and/or Assignment(s) that include the analysis 
+of current malware in a lab environment, presentation of 
+investigation plan and findings  
+Class Test(s) 
+Final Exam 
+
+Learning 
+outcomes 
+1, 2, 3, 4, 5 
+
+1, 2 
+1, 2, 3, 4, 5, 6 
+
+ 
+Required learning resources:  
+Michael Sikorski and Andrew Honig: Practical Malware Analysis: A Hands-on Guide to Dissecting 
+Malicious Software (Paperback) No Starch Press, March 2012 ISBN: 9781593272906 
+ 
+After Semester 1 2014: selections from 
+Erez Metula : Managed Code Rootkits: Hooking into Runtime Environments Syngress Media 2010 ISBN: 
+9781597495745 
+ 
+Recommended learning resources:  
+Michael Ligh, Steven Adair, Blake Hartstein and Matthew Richard: Malware Analyst's Cookbook and 
+DVD: Tools and Techniques for Fighting Malicious Code, John Wiley & Sons Ltd (2010) ISBN: 
+9780470613030 
+ 
+James M. Aquilina, Cameron H. Malin, Eoghan Casey and Rob Maxwell (Ed): Malware Forensics Field 
+Guide for Windows Systems: Digital Forensics Field Guides, Syngress Media (2012) ISBN: 
+9781597494724 
+ 
+Jack Koziol, John Heasman, Felix Lindner, Gerardo Richarte, Dave Aitel, Chris Anley, Sinan Eren, Neel 
+Mehta, Riley Hassell: The Shellcoder's Handbook: Discovering and Exploiting Security Holes, John Wiley 
+& Sons Ltd (2007) ISBN: 9780470080238 
+ 
+Optional resources: 
+Adam Young and Moti Yung: Malicious Cryptography: Exposing Cryptovirology, John Wiley & 
+Sons Ltd (2004) ISBN: 9780764549755 
+ 
+ 
+Other Programmes: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG6407 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+4 – 8 July 2022 
+
+S 2 2022 
+
+AACSC E-
+meeting 
+
+Add the missing LO 6 to Assessment 3 (Final 
+Exam) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ISCG7410: 
+
+Information Systems Management 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS and GDCMP): ISCG6411  
+
+ISCG7410 
+BCS 
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ 
+GDCMP 
+020303 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+
+To develop an understanding of the importance of managing information systems through the 
+systems life cycle. To be able to develop information systems strategic plan and the subsequent 
+tactical and operational plans which are aligned with and contribute to the achievement of 
+corporate business goals. To develop an understanding of the way in which corporate information 
+systems, corporate structure and corporate culture are inter- related. 
+
+ 
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Explain the importance of information, information systems and information planning. 
+
+Identify key issues for Information Technology Managers. 
+
+2.  Analyse and distinguish between strategic aspects of information technology as opposed to 
+
+operational aspects. Analyse the problems of aligning information systems options with 
+business strategies. 
+
+3.  Critique business cases utilising Information and Communication Technology (ICT) for 
+
+achieving corporate objectives and goals. 
+
+4. 
+5 
+6 
+7 
+8 
+
+Identify and analyse the trends in Information and Communication Technology (ICT). 
+Develop approaches for managing information systems resources. 
+Analyse issues associated with information systems operation. 
+Be able to measure and justify information systems investments. 
+Investigate the roles of IS managers or Vice President (VP) of Information Systems 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Interactive discussion, class exercises, research activities, laboratory exercises and case 
+studies 
+
+ 
+Topics: 
+
+Topics include: information systems; strategic importance of information systems to 
+business; information systems planning; aligning IS strategy with business goals (IT 
+plan, financial plan, HR plan, application considerations). 
+
+ 
+
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+30% 
+40% 
+
+30% 
+
+Test – IT business strategies/alignment 
+Assignment – assess how Information System is used and 
+managed in a real environment 
+
+Final examination 
+
+Learning 
+Outcomes 
+
+1, 2, 3 
+4, 5, 6, 7 
+
+All 
+
+ 
+Learning resources required: 
+
+Textbook: Refer to the current programme booklist.  
+ 
+Student access to the Blackboard system 
+ 
+
+Learning resources recommended: 
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: ISCG6411  
+ 
+
+ 
+Version Tracking: 
+
+Version 
+No. 
+
+ 
+
+Date of 
+Change 
+9/08/2021 
+
+Effective 
+from 
+S1 2022 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7411: 
+
+Project Management Methodologies 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  7 
+
+ISCG7411 
+BCS 
+ 
+Pre-requisites:  Departmental Consent Required 
+GDCMP 
+080315 
+
+Delivery mode: 
+
+Face to Face 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32 
+
+ 
+
+ 
+
+118 
+
+150 
+
+Outcome Statement: 
+To provide a comprehensive understanding and practical knowledge of the application of 
+Project Management Principles, Themes, Processes and Techniques 
+ 
+
+Learning Outcomes:  
+
+1.  Demonstrate understanding of Project Management methodologies 
+2.  Effectively apply project management theory to given project scenarios 
+3.  Demonstrate knowledge of the Principles, Themes, Processes and Techniques 
+
+used in project management methodologies. 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, collaborative knowledge building, practical workshops, self directed study  
+
+ 
+Topics:  
+Principles of project management, roles and responsibilities in project organisation, directing a 
+project, initiating a project, business case, quality, progress, risk management, understanding 
+project management methodologies, applying project management theory to given real-world 
+project scenarios (including individual and team-based responses), controlling a stage, 
+managing product delivery, managing a stage boundary, closing a project, tailoring 
+methodologies 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+Learning 
+outcomes 
+1 & 3 
+
+50% 
+
+25% 
+
+25% 
+
+Multiple choice exam: Students will be tested on their theoretical 
+understanding of project management methodologies as set out in 
+the methodology  manual or the Unitec based examination 
+
+Group assessment: Effective application of project management 
+theory to given project scenarios 
+
+1,2 &3 
+
+Individual assessment: Effective application of project 
+management theory to given project scenarios 
+
+1,2 &3 
+
+ 
+Learning resources required: 
+ 
+Textbook: Appropriate Manual 
+Lecture notes, websites. 
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: Departmental 
+Consent Required 
+
+ 
+Version Tracking: 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+ 
+
+ 
+
+ 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7412: 
+
+Risk Management 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  7 
+
+ISCG7412 
+BCS 
+ 
+Pre-requisites:  Departmental Consent Required 
+GDCMP, Global 
+080399 
+
+Delivery mode: 
+
+Face to Face 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32 
+
+ 
+
+ 
+
+118 
+
+150 
+
+Outcome Statement: 
+To provide a comprehensive understanding and practical knowledge of the application of a Management 
+of Risk Framework  
+ 
+
+Learning Outcomes:  
+
+1.  Demonstrate knowledge of the four elements of the Management of Risk Framework  
+2.  Demonstrate knowledge of management of risk documents 
+3.  Demonstrate knowledge of management of risk techniques  
+4.   Demonstrate understanding of the 4 perspectives of risk management: Strategic, 
+
+programme, project and operational, in relation to the IT industry 
+
+5.   Apply the principles, approach, processes, embedding and reviewing of management of 
+
+risk to given scenarios effectively 
+
+6.  Successfully complete a Risk Health Check to a given scenario 
+7.  Apply the Risk Maturity Model to a given scenario effectively 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, collaborative knowledge building, practical workshops, self directed study  
+
+ 
+Topics: 
+Introduction to Management of Risk, Principles of Risk Management, Elements of  Risk 
+Framework and Risk Approach including Policy,  Process , Strategies, and Techniques, Risk 
+Management Documents, perspectives of risk management in relation to the IT industry, 
+Completing Management of Risk Health Check to a given scenario, effective application of the Risk 
+Maturity Model to a given scenario 
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+50% 
+
+Multiple choice exam: Students will be tested on their theoretical 
+understanding of Management of Risk as set out in the methodology  
+manual or the Unitec based examination 
+
+Learning 
+outcomes 
+1,2, 3,4, 5 
+
+25% 
+
+Group assessment: Effective application of Management of Risk 
+
+All 
+
+Theory to given scenarios 
+
+25% 
+
+Individual assessment: Effective application of Management of Risk  
+theory to given scenarios 
+
+All 
+
+ 
+Learning resources required: 
+Textbook: Appropriate Manual 
+Lecture notes, websites. 
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Global 
+
+Elective 
+
+Elective 
+
+Pre-requisites: Departmental 
+Consent Required 
+Pre-requisites: Departmental 
+Consent Required 
+
+ 
+Version Tracking: 
+
+Version No.  Date of Change 
+
+ 
+
+ 
+
+Effective 
+from 
+
+Approved by 
+
+Description of change 
+
+ISCG7413: 
+
+Testing and Quality Assurance Management 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS and GDCMP): Consent from relevant 
+
+ISCG7413 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  7 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Academic Authority  
+GDCMP 
+020303 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Outcome Statement: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Students will apply testing and quality assurance methods and techniques in the development of 
+ICT solutions. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Discuss the role of the Quality Assurance Manager 
+2.  Manage the test process, test execution and defect tracking 
+3.  Manage requirement definition, validation and refinement 
+4.  Apply test project management and risk management 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Lectures, tutorials, practical exercises and laboratory work. 
+
+ 
+Topics: 
+
+Topics  include:  management  perspective  on  what  to  test  in  information  technology  projects; 
+how to organise and resource a test division; how to plan, manage change and risk and  lead a 
+test team. 
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+30% 
+40% 
+30% 
+
+Assignment – create a business case for a test department 
+Project – create a test tracking database 
+Final examination 
+
+Learning 
+Outcomes 
+1, 2 
+1,2,3,4 
+2, 3,4 
+
+Learning resources required: 
+
+Textbook: Refer to the current programme booklist. 
+Student access to the Blackboard system 
+
+Learning resources recommended: 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: Relevant 
+Academic Authority consent 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG7414: 
+
+Business Systems Analysis 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG6414; Pre-requisite (for GDCMP): 
+
+ISCG7414 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  7 
+
+15 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG7142 
+GDCMP 
+020305 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+ 
+ 
+
+Outcome Statement: 
+
+This course addresses advanced business analysis and logical design.  It is intended that the 
+students critically analyse a business information system, and determine and document the 
+business requirements for a new information system. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Define the role of the business analyst throughout the phases of a information system 
+
+development life cycle 
+
+2.  Apply business process modelling 
+3.  Determine and document Business Requirements 
+4.  Apply logical modelling 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Lecture, tutorials, self- directed study and laboratory work. 
+
+ 
+ 
+Topics: 
+
+Topics include: Business Analysis fundamentals, workflow and business process 
+modelling; requirements elicitation and validation; advanced UML modelling. 
+
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+15% 
+40% 
+45% 
+
+Assignment – create a high level analysis document 
+Project – create a requirements specification 
+Final Examination 
+
+ 
+Learning resources required: 
+
+Textbook: Refer to the current programme booklist. 
+Student access to the Blackboard system 
+
+ 
+Learning resources recommended: 
+
+Learning 
+Outcomes 
+1 
+2 ,3, 4,5 
+2 ,3, 4,5 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG7142 
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions;  
+
+Version 
+No. 
+
+ 
+
+9/08/2021 
+
+ 
+ 
+
+ISCG7420: 
+
+Web Application Development 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Level:  7 
+
+ISCG7420 
+BCS 
+ 
+Prerequisites (for BCS): ISCG6414 or ISCG7142, ISCG6421 and ISCG6420; 
+Pre-requisite (for GDCMP): ISCG7142, ISCG6421 and ISCG6420 
+ 
+GDCMP 
+020399 
+
+Credits: 
+Elective 
+
+Delivery mode: 
+
+Face to Face 
+
+15 
+
+ 
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+32.5 
+
+ 
+
+ 
+
+117.5 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in the use of 
+resources and facilities. Students are required to attend 100% of all scheduled classes. 
+ 
+
+Outcome Statement: 
+To provide students with knowledge and skills for developing client-server and web-based applications in 
+the Intranet/Internet environment  
+ 
+
+Learning Outcomes:  
+
+1. Discuss the philosophy of client-server computing and its impact to the computing industry. 
+
+2. Discuss the tools used in providing web-based applications. 
+
+3. Design 
+ 
+
+range  of languages/technologies/tools. 
+
+and 
+
+implement 
+
+a 
+
+dynamic 
+
+web 
+
+application 
+
+using  a
+
+4. Discuss and evaluate the available data access technologies. 
+
+5. Design and develop a database client-server solution that meets specified organisational 
+requirements using database and modern data access technologies. 
+
+ 
+Learning and Teaching:  
+Lectures, tutorials and laboratory practicals 
+ 
+ 
+Topics: 
+designing and developing database driven web applications by using current web client/server 
+technologies, tools and languages. 
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+
+Weighting 
+
+Nature of assessment 
+
+ 
+
+ 
+
+ 
+
+60% 
+
+40% 
+
+Programming assignment to design & develop a database 
+driven dynamic web application 
+Assignment to implement assignment 1  by using different 
+technology and then critique the two technologies 
+
+Learning 
+outcomes 
+ 
+
+2,3,4 
+
+ 
+
+1, 5 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Formal reflection, class forum and end of course survey 
+ 
+Learning resources required: 
+A web server which supports multiple server-side languages/technologies, internet access from Unitec 
+and the following software: 
+ 
+
+Internet Explorer 
+
+• 
+•  Mozilla Firefox 
+•  Pycharm 
+•  Python Django 
+•  React JS 
+•  Microsoft Visual Studio  
+• 
+.Net Framework 
+•  MS SQL Server 
+•  MySQL 
+
+ 
+ 
+Learning resources recommended: 
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+ 
+Version Tracking: 
+
+Pre-requisites: ISCG7142, 
+ISCG6421 and ISCG6420 
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+27 Jan – 3 
+Feb 2022 
+
+S1 2022 
+
+AACSC  
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restriction; 
+ISCG7142 added as a new BCS elective 
+Changes in the alignments of some of the 
+course LOs to course assessments; 
+removal of dated software/ tech platforms 
+and introduction of a few new platforms 
+
+Version 
+No. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7421: 
+
+Advanced Programme Development 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG6414 or ISCG7142 and ISCG6421 
+
+ISCG7421 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  7 
+
+15 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Pre-requisite (for GDCMP): ISCG6421 and ISCG7142 
+GDCMP 
+020399 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+ 
+ 
+
+Outcome Statement: 
+
+To provide students with the ability to investigate and use advanced techniques that extend the 
+standard development environment so that the student is competent in approaches required by 
+full-scale commercial GUI development in a given GUI language. 
+
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Obtain  information  from  the  internet,  manuals,  textbooks  and  supplied  sample  code  to 
+acquire  in  depth  knowledge  of  a  range  of  advanced  technical  features  that  extend  the 
+standard development environment of a given GUI language. 
+
+2.  Demonstrate the ability to successfully apply such features and techniques when  writing 
+
+code to solve selected problems in the given GUI language 
+
+3.  Be  able  to  communicate  the  knowledge  in  a  form  which  other  programmers  will  find 
+
+usable, relevant and easily intelligible. 
+
+ 
+
+ 
+Learning and Teaching: 
+ Lectures, laboratory work, self-directed study. 
+ 
+Topics: 
+
+Topics include: researching advanced level techniques, building controls and writing advanced level 
+programming applications. 
+
+ 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+50% 
+10% 
+
+40% 
+
+Design and development of advanced computer programs 
+Written report on a current live issue including evaluation of a 
+technique relevant to this issue. 
+
+Final Exam 
+
+ 
+ 
+ 
+Learning resources required: 
+
+Learning 
+outcomes 
+1, 2,3 
+1,2,3 
+
+1, 2,3 
+
+Textbook: Refer to the current programme booklist. 
+ 
+
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+ 
+Version Tracking: 
+
+Pre-requisites: ISCG6421 and 
+ISCG7142 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+ISCG7142 added as a new BCS  elective 
+
+ 
+ 
+ 
+ 
+ 
+
+ISCG7424: 
+
+Mobile Software Development 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG6414 or ISCG7142 and ISCG6421;  
+
+ISCG7424 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  7 
+
+15 
+
+ 
+ 
+
+Pre-requisite (for GDCMP): ISCG7142 and ISCG6421 
+Co-requisite (for BCS and GDCMP): ISCG6426 
+GDCMP 
+020305 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ 
+
+ 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+Outcome Statement: 
+To provide students with the ability to investigate and use advanced techniques that extend the standard 
+software development environment so that the student is competent in approaches required in the 
+development and deployment of software applications for mobile devices. 
+ 
+
+Learning Outcomes:  
+
+Learning outcomes  
+
+ 
+1.  Acquire in depth knowledge of a range of  advanced technical features that extend the standard 
+software development environment to cater for the development of software for mobile devices by 
+obtaining information from the internet, manuals, textbooks and supplied sample code. 
+
+2.  Demonstrate the ability to successfully apply such features and techniques when writing code to 
+
+solve selected problems in the given language for a mobile device. 
+
+3.  Communicate the knowledge from learning outcome 1, in a form that other programmers will find 
+
+usable, relevant and easily intelligible. 
+
+ 
+
+ 
+Learning and Teaching:  
+After the initial sessions students will be expected to present an idea for a mobile application that they want 
+to develop.  The best ideas will be selected and students put into teams to develop these applications.   The 
+students who have the product vision will each lead a team of developers.   The finished products will be 
+presented to our industry partner who will select one of them to sponsor and commercialise as a BCS level 
+7 Project with that group of students. 
+ 
+Lectures, laboratory work, self-directed study 
+ 
+Topics: 
+Topics include: researching advanced level techniques, building controls and writing advanced 
+level programming applications. 
+ 
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+70% 
+
+30% 
+
+ 
+
+Design / develop mobile applications based on 
+prescriptive assignment description(s). 
+Semester long, group work project to design, develop, 
+test and present a mobile application. 
+
+Learning 
+outcomes 
+1,2 
+
+Type 
+
+Individual 
+
+1,2,3 
+
+Group 
+
+ 
+Learning resources required:    
+Textbook: Refer to the current programme booklist. 
+ 
+Learning resources recommended:    
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: ISCG7142 
+and ISCG6421; Co-
+requisite: ISCG6426 
+
+ 
+Version Tracking: 
+Date of 
+Change 
+9/08/2021 
+
+Version 
+No. 
+
+ 
+
+ 
+ 
+
+Effective 
+from 
+S1 2022 
+
+Approved by 
+
+Description of change 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restriction; 
+ISCG7142 added as a new BCS  elective 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7425: 
+
+JAVA ENTERPRISE PROGRAMMING 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS and GDCMP): ISCG6423 & ISCG6421  
+
+ISCG7425 
+BCS 
+ 
+
+Credits: 
+Elective 
+
+Level:  7 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+32 
+
+ 
+
+Co-requisite (for BCS and GDCMP): ISCG6426 
+GDCMP 
+020103 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+18 
+
+Hours Self-directed: 
+
+Total Learning 
+
+100 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+To critically review the concepts of enterprise component based programming with the Java programming 
+language. The course will comprehensively examine a range of enterprise technologies and frameworks 
+such as Hibernate, Spring, Struts and Java beans. The subject will also cover RMI and socket 
+programming, and the development of a graphical user interface using the Java Swing library. 
+ 
+
+Learning Outcomes:  
+1. 
+2. 
+            problem 
+3. 
+4. 
+            enterprise frameworks 
+
+Design and develop Java software using a variety of component based frameworks 
+Ability to select an appropriate framework for a specific software development   
+
+Debug frameworks such as Hibernate and Spring  
+Critique and analyse the architectural software stack of systems that use these  
+
+ 
+ 
+Learning and Teaching:  
+
+•  The subject will use a workshop format with code examples discussed during a one-hour               
+
+lecture period 
+
+•  Practical sessions will be held to review the theory discussed in the lecture from a           
+
+practical point of view 
+
+•  Assessment items will have two parts: the first part will specify the minimum knowledge   
+      required to pass the subject, and the second part will include challenge questions to  
+      push a student’s boundaries. 
+ 
+
+ 
+Topics: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+Java Language and Syntax Review 
+J2EE 
+Hibernate and Object Relational Mappings 
+Spring and other J2EE containers 
+Application Servers 
+Enterprise Service Bus and Mule 
+Model View Controllers and Struts 
+Java Server Faces 
+
+Assessment: 
+Each of the assessments listed below will demonstate a student’s practical knowledge of enterprise java 
+programming. The assessments address the living ciriculm main characterstics such as Creativity, Curiosity, 
+Problem Solving, Collaboration, Self-efficacy and Reflection. 
+
+ 
+
+ 
+
+Weighting 
+
+Nature of assessment 
+
+30% 
+
+45% 
+
+25% 
+
+Lab Exercises - Students are required to work on a set of programming 
+exercises given during each lecture and submit their solutions on 
+Moodle throughout the semester 
+Assignment - The programming assignment will examine students’ 
+knowledge of Enterprise Java Programming. 
+Final Exam 
+
+Learning 
+outcomes 
+
+1, 2, 3 and 4 
+
+1, 2 and 3 
+
+1, 2, 3 and 4 
+
+Learning Resources Required: 
+
+ 
+
+Lecture notes, online tutorials, conference proceedings, journals, websites. 
+ 
+Learning Resources Recommended: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.  Brian Goetz, 2006. Java Concurrency in Practice. 1 Edition. Addison-Wesley Professional. 
+
+2.  Elliotte Rusty Harold, 2004. Java Network Programming, Third Edition. Third Edition. 
+
+O'Reilly Media. 
+
+3.  Jan Graba, 2006. An Introduction to Network Programming with Java. 2nd Edition. 
+
+Springer. 
+
+4.  Joshua Bloch, 2005. Java™ Puzzlers: Traps, Pitfalls, and Corner Cases. Edition. Addison-
+
+Wesley Professional. 
+
+5.  Kenneth L. Calvert, 2008. TCP/IP Sockets in Java Bundle: TCP/IP Sockets in Java, Second 
+
+Edition: Practical Guide for Programmers (The Practical Guides). 2 Edition. Morgan 
+Kaufmann. 
+
+6.  Merlin Hughes, 1999. Java Network Programming, 2nd Edition. 2nd Edition. Manning 
+
+Publications. 
+
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+Date of 
+Change 
+
+Version 
+No. 
+
+Elective 
+
+Pre-requisites: ISCG6423 & 
+ISCG6421  
+Co-requisite: ISCG6426 
+
+Effective 
+from 
+
+Approved by 
+
+Description of change 
+
+ 
+
+ 
+
+26/09/2013 
+
+S1, 2014 
+
+PC 
+
+ 
+
+ 
+
+ 
+
+Course added to BCS as a new elective; 
+also available in the GDCMP 
+ 
+
+ISCG7426: 
+
+Data Mining 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+15 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+ISCG7426 
+BCS 
+ 
+Pre-requisites (for BCS): ISCG5421 and ISCG6425;  
+Pre-requisite (for GDCMP): ISCG6421 and ISCG6425 or as approved by 
+relevant Academic Authority 
+Co-requisites (for BCS and GDCMP): ISCG6426 
+GDCMP 
+020111 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+39 
+
+ 
+
+ 
+
+111 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in the use of 
+resources and facilities.   
+ 
+
+Outcome Statement: 
+To provide students with the knowledge, tools and techniques required for mining complex data sets and 
+to present the results to non-technical audiences.  
+ 
+
+Learning Outcomes:  
+
+1.  Demonstrate an in-depth knowledge of modern data mining techniques 
+
+2.  Apply data mining techniques for examining, processing and evaluating raw input data to discover, 
+
+interpret and measure interesting patterns 
+
+3.  Present  data  mining  results  in a form  that  non-technical  audiences  will  find usable, relevant  and 
+
+intelligible 
+
+ 
+Learning and Teaching:  
+Topics may be taught in an integrated manner 
+Supervisor / student meetings / discussions 
+Collaborative and / or individual projects 
+Analysis of written, visual, aural and performance texts 
+ 
+Topics: 
+Introduction to data concepts (Classes, Data types, Instances and Attributes), Data preparation methods 
+(Sampling, Training and Test datasets, Data cleansing, Feature Selection and Cross-validation methods), 
+Data  mining  techniques  (which  may  include  Classifications,  Clustering,  Association  rules,  Ensemble 
+Learning  and  Regressions)  and  Evaluation  methods  (which  may  include  ROC  curves,  correlation, 
+parametric and non-parametric tests of difference) 
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. Overall 
+course  grades  will  represent  a  balanced  assessment  of  achievement  in  relation  to  all  stated  learning 
+outcomes. 
+ 
+ 
+ 
+
+Weighting 
+
+Nature of assessment 
+
+Learning 
+outcomes 
+
+40% 
+
+60% 
+
+Individual  Assignment(s):  Given  a  case  study,  design,  develop 
+and evaluate data mining techniques for solving problems 
+
+1, 2 
+
+Group  Assignment(s)*:  Given  a  complex  case  study,  design, 
+develop  and  evaluate  data  mining  techniques  and  present  the 
+mined results to non-technical audiences. *Marked in stages and 
+individually. 
+
+1, 2, 3 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Formal reflection, class forum and end of course survey 
+ 
+Learning resources required: 
+Specific readings will be provided during the course. 
+  
+Learning resources recommended: 
+Data Mining: Practical Machine Learning Tools and Techniques (3rd Edition) by I.H. Witten, E. Frank & M. 
+Hall 
+The Elements of Statistical Learning (2nd Edition) by T. Hastie, R. Tibshirani & J. Friedman 
+ 
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: ISCG6421 
+and ISCG6425 or as 
+approved by the relevant 
+academic authority;   
+Co-requisites: ISCG6426 
+
+ 
+Version Tracking: 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+Sem 1 
+2015 
+Sem 1 
+2016 
+
+PC  
+
+PC  
+
+New elective course added to BCS; also 
+available in GDCMP 
+New co-requisite added 
+
+Version 
+No. 
+
+ 
+
+ 
+
+4/11/2014 
+
+5/11/2015 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG7427: 
+
+Agile and Lean Software Delivery 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): ISCG6414 or ISCG7142 
+
+ISCG7427 
+BCS 
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+39 
+
+ 
+
+Pre-requisite (for GDCMP): ISCG7142 
+ 
+GDCMP 
+020305 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+111 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+To  equip  participants  with  the  mindset,  knowledge,  tools  and  techniques  to  succeed  in  Agile  software 
+development  projects.    To  help  participants  to  understand  Agile  and  Lean  principles  and  practices,  and 
+allows participants to gain experience in working in an Agile environment using industry leading Agile team 
+collaboration tools.   
+ 
+
+Learning Outcomes:  
+ 
+
+Learning outcomes 
+
+1.  Recognise and adopt an Agile Mindset 
+2.  Recognise and Practice Team Interactions 
+3.   Recognise Value Driven Development 
+4.  Design Customer and User Involvement Process 
+5.  Design Agile Process and Perform Agile Planning  
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+
+Designed for participants to learn by experiencing an Agile mindset via a combination of lectures, class 
+discussions, team exercises and a group project. 
+
+ 
+Topics: 
+
+Topics include: Agile development principles, the Scrum framework, Extreme Programming 
+(XP) practices, Lean development principles, Kanban practices, Test Driven Development, 
+team collaboration, and scaling of Agile teams 
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+50% 
+
+50% 
+
+Written Test on Agile mindset and practices (week 5)  
+
+Group Project: Oral presentation and demonstration of product from 
+Agile project.  Assessed as a group with peer review component. 
+(week 13) 
+
+Learning 
+outcomes 
+1, 2, 3, 4 ,5 
+
+ 
+
+1, 2, 3, 4, 5 
+
+ 
+Learning resources required:   
+Refer to the current programme booklist 
+
+ 
+
+Learning resources recommended:  
+Cohn, M. (2010).  Succeeding with Agile: Software Development Using Scrum.  Addison-Wesley. 
+Poppendieck, M, and Poppendieck, T. (2003). Lean Software Development Toolkit.  Addison-Wesley. 
+Smith, G, and Sidky, Ahmed. (2009). Becoming Agile in an Imperfect World.  Manning. 
+ 
+
+Accreditation 
+Upon passing the course, participants will achieve ICAgile Certified Professional (ICP) status.  ICP is a 
+certification issued by International Consortium for Agile that differentiates participants to industry peers 
+as understanding the Agile mindset. 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG7142 
+ 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+9/08/2021 
+
+S1 2022 
+
+AACSC 
+
+ISCG7142 added as a new BCS elective 
+
+Chair’s Action 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7430: 
+
+Project 
+
+ 
+ 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites: ISCG6411, ISCG5400, ISCG5401, ISCG5420, 
+
+ISCG7430 
+BCS 
+ 
+
+Credits: 
+Compulsory 
+
+Level:  7 
+
+45 
+
+ISCG5423, ISCG5424 and ISCG5430 and 195 BCS credits; 
+ 
+Each project proposal will be considered by a sub- committee of the 
+Programme Committee, and will only be approved if the student has 
+completed courses that are considered to be an appropriate 
+preparation for the specific project. 
+ 
+This course must be taken in the last semester of 
+study for the Bachelor in Computing Systems. 
+ 
+020399 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+430 
+
+Hours: 
+
+450 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+20 
+
+ 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in 
+the use of resources and facilities. Students are required to attend 100% of all scheduled classes. 
+ 
+
+Outcome Statement: 
+To provide students with the opportunity to research, select, integrate, and apply a range of techniques 
+and technology in the solution of a complete realistic problem. 
+ 
+
+Learning Outcomes:  
+
+ 
+
+Learning outcomes 
+
+1.  Prepare a project proposal and plan. 
+2.  Analyse and document user requirements. 
+3.  Research and critically evaluate new developments. 
+4.  Select appropriate techniques and technologies to apply to the project. 
+5.  Apply the selected techniques and technologies. 
+6.  Document and present the project process and deliverables. 
+7.  Analyse the project solving process followed, and identify possible improvements. 
+8. 
+
+Identify and analyse ethical issues as they arise. 
+
+ 
+
+ 
+ 
+Learning and Teaching:  
+ 
+Topics: 
+
+Topics include: students solving a realistic business problem in the IT area of their study; 
+students work closely with their sponsoring organisation and Unitec supervisor to understand 
+and solve the problem presented; evidence of project management and the processes used are 
+collected during the project. 
+
+ 
+
+ 
+
+Performance Criteria 
+
+•  One performance criterion for all projects will be that the project deliverables satisfy the user 
+
+requirements as identified, or as renegotiated in the course of the project. 
+
+•  A second criterion  will  be  the completion of an analysis of the project process, including 
+an evaluation of methods used and suggestions for possible improvements in subsequent 
+projects. 
+
+Projects  will  require  the  students  to  deal  with  a  complex  realistic  situation  that cannot be resolved 
+simply by the application of tools, techniques and products with which the student is already familiar. 
+
+ 
+
+Assessment: 
+
+Weighting 
+
+Nature of assessment 
+
+10% 
+80% 
+10% 
+
+Proposal describing project outcomes and deliverables 
+Project body and write up. Content will depend on project 
+Presentation to assessment panel and others 
+
+ 
+ 
+Learning resources required:   all material from previous courses 
+
+Learning 
+outcomes 
+1 
+2 - 8 
+6 - 8 
+
+ 
+ 
+ 
+Learning resources recommended: 
+ 
+ 
+Other Programmes: 
+
+NA 
+
+ 
+Version Tracking: 
+
+ 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+S1 2022 
+
+AACSC 
+
+Chair’s Action 
+
+Inactive old courses removed as pre-
+requisites, co-requisites and restrictions; 
+
+Version 
+No. 
+
+ 
+
+9/08/2021 
+
+ 
+ 
+ 
+ 
+ 
+
+ISCG7431: 
+
+Capstone Project 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ 
+ 
+
+60 
+
+Level:  7 
+
+Credits: 
+Compulsory 
+
+ISCG6411, ISCG5400, ISCG5401, ISCG5420, ISCG5423, 
+
+ISCG7431 
+BCS 
+ 
+Prerequisites: 
+ISCG5424 & ISCG5430 & 195 BCS credits; 
+ 
+Restrictions: ISCG7430 
+ 
+This course must be taken in the final semester of study for the Bachelor of 
+Computing Systems (fulltime) and in the final year for the BCS (part-time).  
+ 
+For work-based learning: Entry subject to approval of the relevant Academic 
+Authority and a negotiated contract with an approved organisation. 
+ 
+None 
+080315 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+100 
+
+ 
+
+ 
+
+500 
+
+600 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in the use of 
+resources and facilities. Students are required to attend 100% of all scheduled classes. 
+
+ 
+
+Outcome Statement: 
+To provide students with the opportunity to research, select, integrate, and apply a range of techniques 
+and technology in the solution of a complete realistic problem. Wherever possible students should 
+undertake a project on behalf of a client or situated in an industrial or business environment.  
+ 
+Course requirements:  
+Each project proposal will be considered by a sub-committee of the Programme Committee, and will only 
+be approved if the student has completed courses that are considered to be an appropriate preparation 
+for the specific project (for example three related level 7 courses). 
+Students must enhance their depth of knowledge within the Computing Discipline and within their area of 
+capability (that extends their knowledge and does not just use their existing knowledge). Usually, this will 
+mean developing alternative solutions to a problem using a Computing solution. When proposing project 
+ideas students must be mindful that they will be proposing a project in the domain of Computing. Usually 
+this will be within one of the pathways offered for the Bachelor of Computing undertaking the role of a 
+Computing professional:  
+
+•  Software Engineering (programmer, architect, designer) 
+•  Game Development (programmer, designer, developer) 
+•  Cyber Security (malware analyst, network security engineer) 
+•  Computer Networks & Cloud Computing (network engineer, network designer) 
+•  Business Intelligence (database developer, database designer, business systems analyst) 
+
+ 
+
+Learning Outcomes:  
+1. Prepare and present a project proposal and plan—usually in response to a client or  
+    workplace need.  
+2. Analyse and document user requirements.  
+3. Research and critically evaluate possible new developments that could impact the     
+    project. 
+4. Select appropriate techniques and technologies to apply to the project. 
+
+5. Apply the selected techniques and technologies. 
+6. Manage the project professionally, addressing ethical issues and project risks in an  
+    appropriate manner.  
+7. Analyse the project solving process followed, and identify possible improvements. 
+8. Document and present the project process and deliverables in a public forum.  
+
+ 
+Learning and Teaching:  
+
+•  Students progressively enhance their presentation skills throughout this course.  
+
+•  Topics may be taught in an integrated manner 
+
+•  Supervisor/student meetings/discussions 
+
+•  Collaborative and/or individual projects 
+
+Students provide regular progress presentations (weekly for fulltime and fortnightly for part-time). 
+Students are expected to actively participate in all discussions related to presentations by all students 
+undertaking the projects.  
+Students will participate in workshops may include, for example: stress management; risk management; 
+client-management; ethical, moral and legal obligations as a practitioner; presentation skills; 
+communication skills; written communication for Computing professionals; research and investigation 
+techniques; managing teams; teamwork; project management and control; roles and responsibilities; and 
+negotiation tactics.  
+ 
+Topics: 
+students solving a realistic business problem in the Computing area of their study; students work closely 
+with their sponsoring organisation and Unitec supervisor to understand and solve the problem presented; 
+evidence of project management and the processes used are collected during the project.  
+ 
+Notes: Students are encouraged to work in teams and should be discouraged from working alone on 
+projects. Wherever possible, students will be encouraged to undertake learning in the workplace. Any 
+project must satisfy the programme committee that it of sufficient complexity and significant enough for a 
+final year project. Students may, elect to produce a portfolio of mini-projects instead of a major 
+undertaking—this will be encouraged for students undertaking part-time studies and working full-time. 
+Students must be mindful of their obligations to study and if employed fulltime should undertake the 
+project part-time.  
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the 
+course. Overall course grades will represent a balanced assessment of achievement in relation 
+to all stated learning outcomes. 
+ 
+
+Weighting  Nature of assessment 
+
+Learning 
+outcomes 
+
+10% 
+
+ 
+
+ 
+
+ 
+
+80% 
+
+ 
+
+ 
+
+ 
+
+10% 
+
+Present a proposal describing project outcomes and deliverables to 
+a panel of experts.  
+
+1 
+
+Project deliverables including reports etc.  
+
+Presentation to assessment panel and others. 
+
+2-7 
+
+8 
+
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Informal & formal reflection, class forum, and end of course survey. 
+ 
+Learning resources required: 
+No set texts. 
+Specific readings will be provided during the course. 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+Other Programmes: 
+
+NA 
+
+ 
+Version Tracking: 
+
+ 
+
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+Version 
+No. 
+
+ 
+
+ 
+
+7 November 
+2014 
+9/08/2021 
+
+ 
+ 
+
+from 
+Semester 
+1 2015 
+S1 2022 
+
+FAC Standing 
+
+Committee 
+
+AACSC 
+
+Chair’s Action 
+
+New 60-credit BCS compulsory course 
+added 
+Inactive old courses removed as pre-
+requisites, co-requisites and restriction; 
+
+ISCG7435: 
+
+Special Topic 1 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG7435 
+BCS 
+ 
+ 
+GDCMP 
+020399 
+
+Hours directed: 
+
+32.5 
+
+ 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Delivery 
+mode: 
+
+Face to Face 
+
+Hours Self-directed: 
+
+Total Learning 
+
+117.5 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+The inclusion of a special topic is to allow SCIT to offer courses at this level that deal with 
+current, but possibly transient issues, and that make use of the particular expertise of individual 
+staff members, including visitors. 
+Each special topic offered will be documented either in the form of a standard description using 
+the heading above. 
+Each special topic offered must be approved by the Programme Committee and the 
+Undergraduate Board of Studies and endorsed by the Academic Board. 
+ 
+
+Learning Outcomes:  
+
+ 
+
+ 
+
+ 
+
+Learning outcomes 
+
+1.  As determined 
+
+ 
+
+ 
+Learning and Teaching:  
+Lectures, practical sessions, research and self-directed study 
+ 
+Topics: 
+As determined by the special topic offered. 
+
+Assessment: 
+ 
+
+Weighting  Nature of assessment 
+
+ 
+ 
+
+As determined 
+
+ 
+
+ 
+Learning resources required:   as determined 
+ 
+Learning resources recommended: 
+ 
+Other Programmes: 
+
+Learning 
+outcomes 
+
+ 
+ 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Restrictions: As determined  
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+Version 
+No. 
+
+ 
+
+ 
+
+from 
+ 
+
+ 
+
+ 
+
+ 
+
+ISCG7440: 
+
+Advanced Game Design 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+ISCG7440 
+BCS 
+ 
+Pre-requisites: ISCG6441 
+ 
+GDCMP 
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+39 
+
+ 
+
+ 
+
+111 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in the use of 
+resources and facilities.   
+ 
+
+Outcome Statement: 
+To extend the students’ knowledge of principles, theories, and practice of game design. Students will gain 
+an  in  depth  understanding  of  the  design  process  through  undertaking  research  and  analysis,  idea 
+generation, concept development and the final communication of their design proposals for a given project 
+brief.  
+ 
+
+Learning outcomes: 
+
+1. Critically examine game design from a specific perspective utilising academic theory. 
+
+2. Evaluate player-centric design process and video games as a social tool. 
+
+3. Develop a personal and/or group approach to game ideation and game development addressing a 
+specified game problem/goal. 
+
+4. In-depth exploration of appropriate media, methods and techniques for a proposed game project. 
+
+5. Develop and playtest an advanced game prototype, analyse the results, refine the prototype.  
+
+ 
+
+Learning and Teaching:  
+Topics may be taught in an integrated manner 
+Supervisor / student meetings/discussions 
+Collaborative and/or individual projects 
+Analyses of written, visual, aural and performance texts 
+ 
+Topics: 
+Advanced game criticism and academic theories. 
+Design process in game development. 
+Game design problems and solutions. 
+Developing visual and audio design. 
+Prototyping and analysis. 
+Gamefication and Instructional Games. 
+Societal impact through games. 
+2D and 3D game engines. 
+3D Animation and Modeling software. 
+Virtual reality and the future of gaming. 
+ 
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+
+Weighting 
+
+Nature of assessment 
+
+ 
+
+30% 
+
+ 
+
+ 
+
+70% 
+
+ 
+
+ 
+
+Individual game design criticism of a contemporary video game 
+from a specific perspective such as psychoanalytic theory, 
+feminist theory or critical theory.   
+
+Individual or group project including: Project Proposal and Pitch 
+(20%), Game Design Document (20%) and Advanced Game 
+Prototype (30%). The Game Prototype outcome will be specified 
+in the Project Proposal. This will be negotiated based on 
+individual game complexity and may include a playable game 
+product, detailed level design, or in depth character and world 
+development.  
+
+ 
+
+Learning 
+outcomes 
+1,2 
+
+1,2,3,4,5 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Formal reflection, class forum and end of course survey 
+ 
+Learning resources required: 
+No set texts. 
+Specific readings will be provided during the course. 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+
+Elective 
+
+Pre-requisites: ISCG6441 
+ 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+S2 2016 
+
+PC 
+
+New elective course added to the BCS and 
+GDCMP 
+
+Version 
+No. 
+
+ 
+
+20/04/2016 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ISCG7441: 
+
+Advanced Game Programming 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisite (for BCS): ISCG6442; 
+
+ISCG7441 
+BCS 
+ 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+15 
+
+ 
+ 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Hours directed: 
+
+39 
+
+ 
+
+Pre-requisite (for GDCMP): ISCG6442 or as approved by the relevant 
+academic authority 
+GDCMP 
+020103 
+
+Face to Face 
+
+Delivery 
+mode: 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+111 
+
+Hours: 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in 
+the use of resources and facilities.   
+ 
+
+Outcome Statement: 
+To provide students with the ability to investigate and use advanced programming techniques to solve 
+complex game development problems. 
+ 
+
+Learning Outcomes:  
+1. Utilise, review, and enhance graphical and animation techniques to support game   
+    projects. 
+2. Utilise, review, and enhance physics and mathematical techniques to support game  
+    projects. 
+3. Document, create, and test a video game prototype or proof of concept. 
+4. Document a post-mortem of findings regarding the rapid prototype.  
+
+ 
+
+Learning and Teaching:  
+The lecturer must consider the capabilities of the students entering the course to ensure they understand 
+some key concepts before embarking on more complex tasks (for instance the students’ capability in 
+undertaking more complex elements, should we recommend a 2D Rapid Game Prototype as the project 
+and merely introduce 3D concepts rather than expect their use in the game).  
+Lecturers support students in developing team skills and their project plans to support the development of 
+the project—specific emphasis is given to the idea of pre-planning and attempting to get gameplay 
+features into the prototype as quickly as possible. Students are advised to use place-holder assets or 
+prebuilt assets that are easily plugged into the game engine.  
+Only if time permitting should the students attempt to create a Beta Game—that is one that is game 
+complete; smaller games better afford the ability to create a Beta Game in the timeframe allowed for this 
+course.  
+Lecturers will stop students aiming for a Gold game (unless this is achievable)—that is feature complete, 
+game complete, and polished game ready for publication. Perhaps, there is a possibility to aim for that 
+goal if they work with game artists from another department or if the students themselves with to carry on 
+with the project after the completion of this course. However, interacting with 3rd parties is time consuming 
+and the programmers will have to provide adequate instructions for artists to create assets (for example 
+sprite sheet sizes, sprite sizes, object sizes, object composition, etc.) One prospect for the students to 
+consider is the redevelopment of their existing sprite games created in the prerequisite course 
+(ISCG6442—Game Programming) and take it to a further level of polish, the Beta release would 
+essentially become a gold release.  
+
+Student teams are expected to present progress updates of their game project each week. Students will 
+present success stories for the other teams to utilize their wisdom. Students also present issues that have 
+arisen during the following week for lecturer and class feedback to attempt to solve complex issues as a 
+collective.  
+Individual Students will be able to construct their own specialist knowledge of game development 
+concepts by undertaking individual tasks within the group context, some students may concentrate more 
+on graphical programming, engine programming, mathematical or physics programming, or game-play 
+programming. The students and lecture discuss each week the individual tasks that each team member 
+works on, this is documented.  
+Students document their individual learning in their self-reflective journal; this will include difficulties that 
+they overcame, problems solved, problems encountered, etc. Students are encouraged to present these 
+findings to the class so they can increase their knowledge and understanding of game prototyping. 
+Finally, students collate these findings into a reflective post-mortem.  
+Some Philosophical Positions: 
+Lecturers should: 
+
+•  Relate any contextual industry thoughts when appropriate for maximum learning—including 
+
+relating the student work to the game design concepts employed; 
+
+•  Play the role of guardian and searcher of knowledge to teach students how to find useful 
+
+information;  
+
+•  Ensure that the students usually create (in the first instance) a feature complete prototype that 
+
+could mean that the game still has placeholder assets.  
+
+•  As students will be working in teams, lecturers should co-construct project plans with the teams 
+
+for more effective execution—attempting to give students tips and tricks to make the 
+development faster.  
+
+•  Lecturers should advice students of the possibility of tense situations often encountered during 
+team work, however, lecturers should encourage students to be open and honest to overcome 
+these kinds of difficulties and encourage effective risk management.  
+
+The lecturer acts as a role of co-constructor to assist the students in the production of their game 
+prototypes—ensuring that class activities build to rapid prototypes quickly.  
+Lectures, laboratory work, self-directed study 
+Notes: Students are encouraged to work in teams and should be discouraged from working alone on 
+projects.  
+ 
+Topics: 
+Graphical Game Programming, Physics and Mechanical Simulation for Games, Rendering and Graphical 
+Pipelines, Graphical Engines and Pipelines, Middleware, and Rapid Game Prototyping.  
+2D/3D Graphics Programming, Debugging, and Testing  
+
+•  2D Game Development Recap 
+•  Game Engine Programming 
+•  Collisions/Responses 
+•  Animations 
+•  Game Play 
+•  GUI Elements 
+•  Placeholder Assets 
+•  Texturing Basics/Skins & Materials 
+
+ 
+Some Topics for Discussion are: 
+
+•  Team & Project Management for Rapid Prototyping 
+• 
+Individual Management for Rapid Prototyping 
+•  People & Management for Rapid Prototyping 
+•  Working with artists and audio specialists—getting assets 
+
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+
+Weighting  Nature of assessment 
+
+40% 
+
+40% 
+
+20% 
+
+Group: Rapid Game Prototype: Alpha—Feature Complete 
+Testing (Prototype and Test Report). 
+Group: Rapid Game Prototype: Beta—Game Testing (Prototype 
+and Test Report). 
+It is possible, depending on the complexity of the game, that this 
+is an Alpha Stage 2 delivery, partially Game Complete.  
+Individual Post-mortem of Findings and Individual Prototype 
+Journal.  
+
+Learning 
+outcomes 
+1,2,3 
+
+1,2,3 
+
+4 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+
+• 
+
+Informal & formal reflection, class forum, and end of course survey. 
+
+ 
+Learning resources required: 
+No set texts. 
+Specific readings will be provided during the course. 
+ 
+Learning resources recommended: 
+
+•  Booklist & resources published via Moodle 
+
+•  Computer lab/Classrooms 
+
+•  Equipment 
+
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+ 
+Version Tracking: 
+Date of 
+Change 
+4/11/2014 
+
+Version 
+No. 
+
+ 
+
+ 
+
+Elective 
+
+Pre-requisites: ISCG6442 or as 
+approved by relevant academic 
+authority 
+ 
+
+Effective 
+from 
+S1 2015 
+
+Approved by 
+
+Description of change 
+
+PC 
+
+New elective added to the BCS and also 
+available in the GDCMP 
+
+ISCG7444: 
+
+Cloud Application Design and Development 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions: 
+
+Other programmes: 
+NZSCED field of Study: 
+
+15 
+
+Level:  7 
+
+Credits: 
+Elective 
+
+ISCG7444 
+BCS 
+ 
+Pre-requisites (for BCS): ISCG5421 or ISCG6420 
+Pre-requisite (for GDCMP): ISCG6420 or as approved by the academic 
+authority 
+ 
+GDCMP 
+020305 
+
+Delivery mode: 
+
+Face to Face 
+
+ 
+ 
+
+ 
+
+ 
+
+Hours directed: 
+
+Hours in the Workplace: 
+
+Hours Self-directed: 
+
+Total Learning Hours: 
+
+39 
+
+ 
+
+ 
+
+111 
+
+150 
+
+Students are expected to adhere to Unitec’s policy on conduct in respect of staff, fellow students, and in 
+the use of resources and facilities.   
+ 
+
+Outcome Statement: 
+This course explores the best practices and emerging principles for the design & development of cloud-
+based applications. 
+ 
+Learning outcomes: 
+
+1.  Develop specialist knowledge and critical understanding of Cloud computing 
+
+concepts and technologies in order to solve real-world problems. 
+
+2.  Analyse software engineering methods used for designing, developing, and       
+
+                        implementing Cloud-based software solutions.  
+
+3.  Investigate cloud-based software development techniques, including types of 
+
+cloud infrastructure, providers, and cloud-based services in response to 
+requirement specifications. 
+
+4.  Develop a cloud-based application using industry standard tools and techniques.  
+
+ 
+Learning and Teaching:  
+Students and lecturers discuss the concepts of virtualization technologies along with the architectural 
+models of cloud computing. Students and academic staff present prominent cloud computing 
+technologies that are available in the marketplace.  
+ 
+Students investigate software engineering methods used for designing, developing, and implementing 
+Cloud-based software solutions in group discussions facilitated by expert academic and industry guests.  
+ 
+Various application case studies from domains such as science, business/commercial, engineering, 
+gaming, and marketing (e.g. social networking) are introduced in response to individual and collective 
+needs, along with associated architecture and how to leverage various cloud technologies. These case 
+studies allow the students to investigate the mechanisms needed to harness cloud computing in their own 
+respective endeavours.  
+ 
+Finally, the course details many open research problems and opportunities that have arisen from the 
+rapid uptake of cloud computing.  
+ 
+The course also provides hands on practice throughout the laboratory sessions for the students to put 
+their theory into practice and develop applications using industry standard cloud environments. 
+ 
+
+ 
+Topics: 
+ 
+Introduction to Cloud computing 
+ 
+Foundations of Cloud Technologies 
+
+•  Distributed Computing 
+•  Virtualization  
+•  Service Oriented Computing  
+ 
+
+Cloud Computing Core Concepts 
+
+•  Definition of Cloud Computing 
+•  Types of Cloud 
+•  Cloud Computing Reference Model 
+
+IaaS, PaaS, SaaS  
+
+o 
+o  XaaS – Everything as a service 
+
+ 
+IaaS: Defining Your Infrastructure on Demand 
+
+Infrastructure Provisioning 
+
+• 
+•  Compute on Demand 
+•  Storage on Demand 
+•  Virtual Networking 
+
+ 
+
+SaaS: Applications as Service Compositions in the Cloud 
+
+•  A case study for example “Google Docs” 
+•  Characteristics and Advantages of SaaS 
+•  Service Marketplace 
+
+ 
+
+PaaS: Developing Elastically Scalable Applications 
+
+•  Cloud Computing Platforms 
+•  Application Architecture and Composition 
+• 
+
+IBM BlueMix, CloudFoundry, Microsoft Azure, Heroku, AppEngine 
+ 
+
+Engineering Applications in the Cloud 
+
+•  From Concept to Implementation 
+•  Architecture and Design 
+•  Service Selection 
+•  Development Operations 
+
+ 
+Cloud Computing and the Industry 
+
+•  Economic Primer 
+•  Legal Implications 
+•  Standardisation 
+•  Open Source Software 
+•  Security 
+
+ 
+ 
+
+Assessment: 
+Students will be advised of all matters relating to summative assessment at the outset of the course. 
+Overall course grades will represent a balanced assessment of achievement in relation to all stated 
+learning outcomes. 
+ 
+ 
+
+Learning 
+outcomes 
+1, 2, 3 
+
+ 
+
+  
+
+Weighting 
+
+Nature of assessment 
+
+ 
+
+ 
+
+Test(s)  
+
+ 
+
+ 
+
+40% 
+
+60% 
+
+Project: Develop and demonstrate a Cloud-based application.  This 
+includes progress and final report(s) as well as presentation(s). 
+
+1, 2, 3, 4 
+
+ 
+Feedback: 
+Feedback is sought throughout the course using a range of assessment tools including: 
+Informal & formal reflection, class forum, and end of course survey. 
+ 
+Learning resources required: 
+No set texts. 
+Specific readings will be provided during the course. 
+ 
+Learning resources recommended: 
+Booklist & resources published via Moodle 
+Computer lab 
+Classroom/Performance spaces 
+Equipment 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Pre-requisites: ISCG6420 or as 
+approved by the academic 
+authority 
+ 
+
+ 
+Version Tracking: 
+
+Version 
+No. 
+
+Date of Change  Effective 
+
+Approved by 
+
+Description of change 
+
+from 
+
+ 
+
+4/11/2014 
+
+S1 2015 
+
+PC 
+
+New elective course added to the BCS; 
+also available in the GDCMP 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ISCG7488: 
+
+Negotiated Study 
+
+Level:  7 
+
+ISCG7488 
+BCS 
+ 
+
+Course number:  
+Main programme: 
+Pathway(s): 
+Requisites / Restrictions:  Pre-requisites (for BCS): Approval by the relevant Academic Authority 
+AND completion of 240 credits towards the BCS degree, including 60 
+credits at Level 6 or above; Pre-requisites (for GDCMP): Relevant 
+Academic Authority Approval and completion of 60 credits towards 
+GDCMP 
+GDCMP 
+020399 
+
+Other programmes: 
+NZSCED field of Study: 
+
+Credits: 
+Elective 
+
+Face to Face 
+
+15 
+
+Delivery 
+mode: 
+
+ 
+ 
+
+Hours directed: 
+
+By negotiation 
+
+ 
+
+Hours in the 
+Workplace: 
+
+ 
+
+Hours Self-directed: 
+
+Total Learning 
+
+By negotiation 
+
+Hours: 
+
+150 
+
+Outcome Statement: 
+To enable a student to follow a course of self-directed in-depth study in an approved topic area. 
+ 
+Learning Outcomes: 
+ 
+
+Learning outcomes: 
+
+ 
+1.  Negotiated by student and the course developer 
+
+ 
+Learning and Teaching:  
+As negotiated with student, and the course developer 
+ 
+Topics: 
+Topics to be negotiated with student and the course developer 
+
+Assessment: 
+
+Weighting  Nature of assessment 
+
+100% 
+
+Negotiated by student and the course developer 
+
+ 
+ 
+Learning resources: 
+As negotiated with student and the course developer 
+ 
+ 
+Other Programmes: 
+
+GDCMP 
+
+Elective 
+
+Learning 
+outcomes 
+
+All 
+
+Pre-requisites: Relevant 
+Academic Authority Approval 
+AND completion of 60 credits 
+towards the GDCMP 
+
+ 
+Version Tracking: 
+Date of 
+Change 
+
+Version 
+No. 
+
+Effective 
+from 
+
+Approved by 
+
+Description of change 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

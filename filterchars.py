@@ -419,6 +419,7 @@ def Otago_BIT():
             descriptor.aim = aim
             descriptor.prerequisites = None if prerequisites == "n/a" else prerequisites
             descriptor.co_requisites = None
+            descriptor.level = descriptor.code[2]
             course_content[short_name] = descriptor
 
             # Clean up prev raw
@@ -560,6 +561,10 @@ def Ucol_Bachelor_of_Information_and_Communications_Technology_L7_Courses() -> d
         re2 = r"(?i)Course Aim"
         result = get_txt_between(raw, re1, re2)
         return result.strip()
+    
+    def get_level(descriptor_code):
+        the_text = descriptor_code[-3:][0]
+        return the_text
 
     course_content = {}  # A dictionary of "Descriptors" by course
 
@@ -598,6 +603,7 @@ def Ucol_Bachelor_of_Information_and_Communications_Technology_L7_Courses() -> d
         course_content[descriptor_code].set_full_name(get_full_name)
         course_content[descriptor_code].set_pre_requisites(get_pre_requisites)
         course_content[descriptor_code].set_co_requisites(get_co_requisites)
+        course_content[descriptor_code].level = get_level(descriptor_code)
 
     return course_content
 
@@ -678,6 +684,9 @@ def Unitec_BSC_Prog_Descriptors():  # -> dict :
         result = ""
         return result.strip()
 
+    def get_level(descriptor):
+        return descriptor[4]
+    
     course_content = {}  # A dictionary of "Descriptors" by course
 
     # Read txt into pages
@@ -705,6 +714,7 @@ def Unitec_BSC_Prog_Descriptors():  # -> dict :
         course_content[descriptor_code].set_full_name(get_full_name)
         course_content[descriptor_code].set_pre_requisites(get_pre_requisites)
         course_content[descriptor_code].set_co_requisites(get_co_requisites)
+        course_content[descriptor_code].level = get_level(descriptor_code)
 
     # course_content
     return course_content
@@ -764,8 +774,7 @@ def Wintec_BAppliedIT_Vol2() -> dict:
         return result
     
     def get_level(descriptor_code):
-    
-        the_text = descriptor_code[-3:]
+        the_text = descriptor_code[-3:][0]
         return the_text
 
     course_content = {}  # A dictionary of "Descriptors" by course
