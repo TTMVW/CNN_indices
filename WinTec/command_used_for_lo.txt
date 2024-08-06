@@ -1,0 +1,1 @@
+ python3 filterchars.py WinTec < WinTec/original_src.txt > WinTec/course_lo.csv

@@ -1,0 +1,57 @@
+IT5501 : IT5501 Mathematics for IT
+IT5502 : IT5502 Communications for IT
+IT6501 : IT6501 Systems Analysis and Design
+IT6502 : IT6502 Project Management
+IT7502 : IT7502 Digital Ethics
+IT7510 : IT7510 IT Capstone Project
+IT5504 : IT5504 Information Security I
+CS6501 : CS6501 Information Security II
+CS6502 : CS6502 Linux System Administration
+CS6503 : CS6503 Digital Forensics
+CS6504 : CS6504 Cryptography and Blockchain Fundamentals
+CS7501 : CS7501 Information Security III
+CS7502 : CS7502 Special Topic in Cyber Security
+IT5507 : IT5507 Fundamentals of Data Science
+DS6501 : DS6501 Social Data Analytics
+DS6502 : DS6502 Data Analysis and Visualisation
+DS6503 : DS6503 Data Mining Tools and Techniques
+DS6504 : DS6504 Business Intelligence and Big Data
+DS7501 : DS7501 Data Mining for Business Analytics
+DS7502 : DS7502 Data Warehouse Design and Implementation
+IT5505 : IT5505 Interaction Design Fundamentals
+ID6501 : ID6501 Responsive Web Design
+ID6502 : ID6502 3D Environments
+ID6503 : ID6503   Advanced Interaction Design
+ID6504 : ID6504 User Interface and User Experience Design
+ID7501 : ID7501 Advanced Interface Technologies
+ID7502 : ID7502 Human Computer Interaction
+IT5506 : IT5506 Introduction to Networking
+NI6501 : NI6501   Networking II LAN
+NI6502 : NI6502 Networking III - Campus
+NI6503 : NI6503 Unified Infrastructure Services
+NI6504 : NI6504 Cloud Computing
+NI7501 : NI7501 Current Topic in Networking and Infrastructure
+NI7502 : NI7502 Emerging Topic in Networking and Infrastructure
+IT5503 : IT5503 Programming I
+SD6501 : SD6501 Mobile Application Development
+SD6502 : SD6502 Programming II
+SD6504 : SD6504 Game Development
+SD6503 : SD6503 Testing and Secure Coding
+SD7501 : SD7501 Web Application Development
+SD7502 : SD7502 Intelligent Systems Development
+IT5510 : IT5510 Introduction to Operating Systems
+IT5508 : IT5508 Electronics Fundamentals
+IT5509 : IT5509 Software Testing Fundamentals
+IT6509 : IT6509 IT Business Environment
+IT6503 : IT6503 Microcomputer Systems
+IT6508 : IT6508 Research in Information Technology
+IT6504 : IT6504 Embedded Systems I
+IT6505 : IT6505 Advanced Software Testing
+IT6506 : IT6506 Carrier Technology I
+IT6507 : IT6507 Wireless Networking Technology
+IT7503 : IT7503 Special Topic
+IT7504 : IT7504 Middleware
+IT7505 : IT7505 Embedded Systems II
+IT7506 : IT7506 Testing Automation
+IT7507 : IT6507 Carrier Technology II
+IT7508 : IT7508 Internship

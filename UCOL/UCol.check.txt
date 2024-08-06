@@ -1,0 +1,114 @@
+D101 : To provide an introduction to the fundamentals of programming and to enable students to develop quality software. 
+      pre_requisite: none 
+      co_requisite: none
+D111 : To provide students with a broad operational knowledge of database design and administration. 
+      pre_requisite: none 
+      co_requisite: none
+I101 : To introduce students to business systems and essential components of the ICT profession. 
+      pre_requisite: none 
+      co_requisite: none
+I102 : To enable students to deliver organisational technical support based on best practice in IT Service Management 
+      pre_requisite: none 
+      co_requisite: none
+I111 : To provide an introduction to the fundamentals of web development and to enable students to produce quality websites. 
+      pre_requisite: none 
+      co_requisite: none
+I121 : To provide an introduction to the principles of systems analysis and systems require-ments elicitation techniques 
+      pre_requisite: none 
+      co_requisite: none
+T101 : To provide an introduction to the fundamentals of computer networks as they currently exist in industry and to enable students to configure, test and troubleshoot local area networks. 
+      pre_requisite: none 
+      co_requisite: none
+T111 : To develop students’ understanding of the fundamentals of computer hardware, operating systems and troubleshooting techniques. 
+      pre_requisite: none 
+      co_requisite: none
+D211 : To effectively design an information system for a complex business application. 
+      pre_requisite: D111 
+      co_requisite: none
+I202 : This course will enable the student to learn the basic principles and terminology of the profession of project management, and apply this to create project plans.  Students will also be given a brief introduction to using project management software. 
+      pre_requisite: I102 
+      co_requisite: none
+I221 : This course will enable students to analyse the requirements for an information system and evaluate different methodologies used in systems analysis. 
+      pre_requisite: I121 
+      co_requisite: none
+D201 : To introduce standard algorithms required for business application programming 
+      pre_requisite: D101 
+      co_requisite: none
+D202 : To create quality software applications utilising a modern development approach 
+      pre_requisite: D101 
+      co_requisite: none
+I203 : To apply principles and techniques relating to the application of digital multimedia technologies 
+      pre_requisite: I101 Information Systems 
+      co_requisite: none
+I209 : To enable students to undertake an ICT industry based work placement. The industry placement course is subject to availability and approval from the Head of School. 
+      pre_requisite: 120 compulsory credits at level 5 
+      co_requisite: none
+I211 : To introduce principles and application of electronic commerce technologies 
+      pre_requisite: I111 
+      co_requisite: none
+I213 : To create a dynamic web application utilising a variety of open-source technologies 
+      pre_requisite: I111 
+      co_requisite: none
+T201 : To implement key network services as used in modern LANs and to explain the network protocols that these services use. 
+      pre_requisite: T101 
+      co_requisite: none
+T205 : To enable students to gain practical and technical networking knowledge that will assist in designing, building and analysing networks and their protocols. 
+      pre_requisite: none 
+      co_requisite: none
+T206 : To enable students to gain practical and technical networking knowledge that will allow them to configure and troubleshoot routers, switches and resolve common issues with networks. 
+      pre_requisite: T101 
+      co_requisite: none
+T211 : To analyse and implement computer systems security, including operating systems, server applications and networks; and to enable students to explain the fundamentals of computer forensics. 
+      pre_requisite: T111 
+      co_requisite: none
+I212 : To enable students to design and implement enterprise data management systems. 
+      pre_requisite: I101 & I111 
+      co_requisite: None
+I263 : Students will apply financial management knowledge and skills to a small or medium size business for decision-making purposes 
+      pre_requisite:  
+      co_requisite: none
+I301 : To prepare students for an industry project/internship related to their area of study. 
+      pre_requisite: 240 Credits including all Level 5 and 6 compulsory courses 
+      co_requisite: none
+I302 : To enable students to undertake an industry based project of a complex nature. 
+      pre_requisite: 280 credits including all compulsory level 5, 6 and 7 courses 
+      co_requisite: none
+D301 : To design and construct quality software ready for distribution 
+      pre_requisite: I101; and D201 or D202 
+      co_requisite: none
+D303 : To develop mobile applications for current and emerging mobile computing devices using industry standard tools and frameworks 
+      pre_requisite: D101 
+      co_requisite: none
+D311 : To enable students to successfully design, create and administer a data warehouse using a server-based database management system. 
+      pre_requisite: D211 
+      co_requisite: none
+I303 : To provide students with the skills and knowledge to analyse organisations and make management decisions relating to the organisation’s IT. 
+      pre_requisite: I202 
+      co_requisite: I202
+I321 : To introduce tools and techniques used to assess feasibility and present a business case; to complete an analysis of a complex information system based on the recommendation from the feasibility phase. 
+      pre_requisite: I221 
+      co_requisite: none
+I309 : To allow students to pursue an area of special interest under the guidance of a UCOL academic staff member.  The Special Topic course is subject to availability and approval from the Head of School. 
+      pre_requisite: 240 credits including all compulsory level 5 and  6 courses 
+      co_requisite: none
+T301 : To recommend network and service architectures and to design and implement, or simulate chosen architectures.  Students will be able to analyse and evaluate network designs, select an appropriate technology and design for a given situation, and justify their selection. 
+      pre_requisite: I101 and T201 
+      co_requisite: none
+T302 : To gain practical and technical networking knowledge that will assist in designing, building and analysing networks and their protocols using advanced technologies. 
+      pre_requisite: T206 
+      co_requisite: none
+T311 : To provide the ability to design and construct a complex multi-user client/server network. Students will gain skills needed to configure and integrate complex systems. 
+      pre_requisite: T211 
+      co_requisite: none
+T312 : To enable students to understand and configure the components, and operation of Virtual Private Networks, firewalls and network security. 
+      pre_requisite: T206 
+      co_requisite: none
+I304 : To enable students to use data analytics and business intelligence tools and techniques in order to provide decision support within an organisational context 
+      pre_requisite: D211 
+      co_requisite: none
+I311 : To enable students to investigate, implement, and critique influential, new, and emerging web technology solutions 
+      pre_requisite: I213 
+      co_requisite: none
+I367 : This course will enable the student to learn advanced principles of the project management body of knowledge and cover the content of the Project Management Institute PMBOK® and its application and evaluation to the workplace 
+      pre_requisite: I202 
+      co_requisite: none

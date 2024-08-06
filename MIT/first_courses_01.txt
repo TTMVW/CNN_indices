@@ -1,0 +1,492 @@
+Business Information Systems
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the fundamentals of business principles and practices  2. Demonstrate an understanding of information systems concepts and practices to support and enhance organisational processes and systems 3. Apply the essential elements of interaction design concepts and practice to enhance interface design particularly for Māori and Pasifika stakeholder groups 4. Demonstrate an understanding of basic troubleshooting models 5. Use appropriate tools and procedures to resolve a range of common system problems.
+AIM
+ The purpose of this course is to demonstrate an understanding of fundamental concepts of business and information systems and interaction design to support organisational processes and systems, and to troubleshoot and resolve common system problems.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Define business concepts including the functions, structure, cultural context of a business, and describe the impact of IT on Business • Outline the development life cycle including migrating changes through environments • Demonstrate knowledge of the basic principles of interaction design and human computer interaction (including accessibility), employing current and emerging technologies • Apply design concepts to Web design and interactivity • Outline the basic principles of media design, including graphics, sound, video, and text   • Demonstrate the ability to troubleshoot and follow problem solving steps or processes • Apply tools to troubleshoot common system problems • Carry out trouble shooting in a practical Lab environment and complete appropriate documentation
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Fundamentals of Software Development
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of numeric and binary systems, and logical operators 2. Apply problem-solving and decision-making techniques to design algorithms in order to solve problems innovatively 3. Apply the principles of software development and implement simple software programs via a programming language 4. Test, debug, and correct simple programs
+AIM
+ To understand the fundamentals of problem solving and software programming. The students will learn how to propose solutions to simple programming problems and code them. Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Principles of software development life cycle • Introductory problem solving and programming • Setting up the lab environment (IDEs, for example) • Fundamentals of key programming concepts (syntax, variables, constants, data types, decision-making and logic, iteration, nested structures, arrays, etc.) • Numeric and binary systems • Awareness of procedural and object oriented programming • Understanding different types of typical programming errors, test, debug, and fix them • Problem solving skills and algorithm development
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+IT and Team Communication
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of professional, legal, and ethical principles and practices in the study of organisations with a focus on IT systems, people and processes.  2. Demonstrate an understanding of how effective communication can contribute to the achievement of an organisation’s wider IT strategy and goals.  3. Work effectively in a project team by facilitating team processes. 4. Plan, execute and report on a team project.
+AIM
+ To increase students’ understanding of IT organisational and work contexts of communication, by investigating communication processes and activities in contemporary work places, while working in and facilitating a diverse team, and completing and reporting on a project.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Concepts and theories in the study of organisations (ethical and legal principles) • IT systems, people management and process implementation  • Participating in diverse teams  • Team dynamics and group processes (forming, norming, storming, performing, celebrating success)  • Managing a team project (self-reflection, peer reflection and team reflection) • Demonstrate an understanding conflict management, and give and receive feedback
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Introduction to Databases
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of business data, information, and database management systems; 2. Explain components of data models, data modelling techniques and normalisation process; 3. Design and implement a relational database for a simple business case; 4. Apply a broad operational knowledge of database administration to meet typical organisational data storage and retrieval requirements.
+AIM
+ The purpose of this course is to develop the skills and knowledge required to design a relational data model, and to implement a transaction management database system for a simple business operation.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic Concepts - data, data format, information, data sources, relational data and database management system. • Basics of data modelling - database entities, entity relationship (including subtypes and supertypes, and recursive), database diagram and normalisation. • Design and implementation of a simple (multiple tables) data model and database application for a given business case; • Design and develop a data management user interface that implements usability criteria and enhances user experience. • Data views, optimisation, security and backups of database management systems. • A query language for data import and process from single and multiple entities; • A query language for data manipulation (insert, update and delete) in a single entity.
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Computer Architecture
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the features and functionalities of the architecture of a computer. 2. Discuss an operating system in terms of processes, memory management, file systems and resource management. 3. Demonstrate the correct handling of computer hardware and install a computer system to meet organisational requirements. 4. Configure and manage an operating system and a local area network to meet organisational requirements. 5. Apply a broad operational knowledge of cloud services and virtualization to meet business needs.
+AIM
+ To demonstrate an understanding of the architecture of a computer system and configure an operating system and local area network to meet organisational requirements.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ 
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Computer Networks
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the computer networking concepts. 2. Demonstrate an understanding of the different networking protocols.  3. Demonstrate an understanding of the routing concepts in a computer network. 4. Apply the operational knowledge and configure a computer network to meet organisational requirements.  5. Identify and analyse the fundamentals of security requirements in a computer network.
+AIM
+ To gain an understanding of computer networks, associated services and technologies and apply the operational knowledge to configure a computer network to meet typical organisational requirements.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic concepts of: network types, topologies, devices, cabling, models (OSI and TCP/IP), switching, addressing (IPv4 / IPv6), industry networking standards • Types of networking services and applications  • Network protocols and their functionalities • Principles of subnet and sub netting • Routing and types of routing protocols  • Security mechanisms in an organisational network • Monitoring and management of an organisational network
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+IT Support and Services
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the IT support role to meet typical organisational IT support requirements. 2. Demonstrate an understanding of the hardware resources and network connectivity to provide user support for an organisation. 3. Configure systems and applications software to provide user support. 4. Administer the hardware resources, network connectivity, systems and applications software to meet organisational requirements. 5. Demonstrate an operational knowledge and understanding of IT service management.
+AIM
+ To configure and administer systems and applications and understand service management theory to meet typical organisational IT support and service requirements.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • The IT support role – purpose and importance of the role; responsibilities; information gathering, analysing requirements; administration and troubleshooting. • Computer hardware resources and network connectivity – desktop, laptop, server, network devices (including basic configuration of router and switches), Wintel  • System and application software – Operating systems, web services and mobile applications • Organisational requirements for optimum performance, capacity, availability and business continuity • Troubleshooting of hardware and system-related faults / problems.  • IT service management requirements, including support and delivery. • ITIL standards and requirements
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Fundamentals of Computer Systems Administration
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an operational knowledge of a network operating system along with its features. 2. Apply a broad operational knowledge of essential services in a network operating system to meet business needs. 3. Use Graphical User (GUI) and Command Line Interfaces (CLI) to administer a network operating system.  4. Perform common system administration tasks to meet organisational requirements. 5. Implement secure access to system and network services.
+AIM
+ To demonstrate an operational knowledge of a network operating system and perform basic administration tasks to meet organisational requirements.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Linux and Linux scripting • Linux file system features and management • Familiarity with Linux Kernel • Essential services include name resolution, access to data, authentication, printing, applications • Installation and administration of Ubuntu server • Fundamentals of OpenSSH, Puppet and Zentyal  • Linux file server configuration and administration – Samba and network services – web servers (LAMP Stack) • Security principles in Linux-based systems
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Front-End Web Development
+LOs
+ On successful completion of this course the student will be able to: 1. Apply the fundamentals of responsive web design and JavaScript 2. Apply the fundamentals of web interface design using HTML and CSS 3. Implement visually rich interactive dynamic web applications and publish them  4. Test, debug, and correct web applications
+AIM
+ To build beautiful and responsive websites. Students are expected to understand the fundamentals of how the web works and gain a working knowledge of HTML, CSS, and JavaScript.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Responsive web design fundamentals • Common responsive patterns such as fluid, column drop, layout, and off canvas patterns • HTML and CSS • CSS frameworks such as Bootstrap • Responsive image • JavaScript (variables, strings, arrays, loops, conditional statements, etc.) • jQuery (DOM manipulation, accessing and modifying HTML attributes and content, etc.) • HTML5 Canvas • AJAX • Supporting localization  • Testing and debugging web applications • Publishing web sites
+Prerequisites
+ N/A
+Co-requisites
+ N/A
+=====
+Fundamentals of Business Intelligence
+LOs
+ On successful completion of this course, the student will be able to: 1. Demonstrate an understanding of basic concepts, purpose and capabilities of business intelligence, and business values of data; 2. Explain fundamental concepts of transformation of data to information to knowledge, and how values are generated; 3. Understand basic tenets of decision-making systems; 4. Aggregate data for creating decision support reports from multiple entities and sources; and 5. Perform decision scenario analysis.
+AIM
+ To understand fundamentals of business intelligence for decision-making, to learn how to produce simple business intelligence reports, and to conduct simple sensitivity analysis for decision support.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic concepts and principles of business intelligence, purpose and capabilities of business intelligence, and business values of data; • Fundamental concepts, theories and practices of transformation of data to information to knowledge;  • Fundamentals of decision support report and knowledge systems; investigation of commercially available reporting and knowledge management systems; • Practicing data processing - aggregation and visualisation; • Introduction to decision support systems (DSS); characteristics and components of a DSS, specific DSS, DSS Generator, DSS framework and architecture; investigation of various commercially available DSS tools e.g. Excel, data warehouse, clementine, etc. • Decision models and modelling processes • Sensitivity Analysis (Goal-seek and what-if analysis) using a tool  Assessment No. Type Weighting Learning Outcomes assessed 1 Short essay – Basics of business intelligence, decision support report, and knowledge creation. 25% 1-2 2 Practical – Generate various types of decision support reports from a supplied database. 25% 4 3 Project – design and develop a component-based decision support systems that apply decision models and performs scenario analysis. 50% 3,5  Resources required Due to the rapidly changing nature of technology in the Computing domain, these resources may change often. A suggested list of resources will be provided with the course outline every semester. • A BYOD computing device capable of running a good sized database, latest Excel and DSS tool • A database system e.g. MS Access/SQL Server/MySQL • A reporting system e.g. MS Access/SQL reporting server/Crystal reporting system • A large transaction database • A DSS tool e.g. Excel/SAS • Custom (in-house) developed course material and a large sized practice database
+Prerequisites
+ N/A
+Co-requisites
+ Introduction to Database
+=====
+Object Oriented Programming
+LOs
+ On successful completion of this course the student will be able to: 1. Understand the concepts and underlying principles of Object-Oriented Programming  2. Apply an Object-Oriented programming language 3. Code Object-Oriented software solutions for small systems involving multiple objects 4. Correct, test and debug Object-Oriented programs
+AIM
+ To understand and code software programs using object-oriented principles. Students are required to have basic programming and problem solving skills before starting this course. By the end of this course they are expected to code object-oriented software solutions using a well-known object-oriented programming language.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • The object-oriented programming paradigm • Objects and classes, attributes and functions, encapsulation, accessibility • Message passing, functions, input and output arguments, method overloading, constructors and destructors, etc. • Inheritance and generalisation • Polymorphism, abstraction, information hiding • Class relationships and associations • Testing and debugging of object-oriented programs.
+Prerequisites
+ Fundamentals of Software Development
+Co-requisites
+ System Analysis and Design
+=====
+System Analysis and Design
+LOs
+ On successful completion of this course the student will be able to: 1. Understand the concepts and underlying principles of Object-Oriented Development 2. Gather data and information to analyse and specify the requirements of a system 3. Build abstract and detailed models using UML diagrams to represent a software solution 4. Design Object-Oriented software solutions for small systems involving multiple objects using UML diagrams
+AIM
+ To analyse and design software solutions using object-oriented paradigm. The students are expected to model and present software systems using UML.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Requirements engineering • Use case description and use case diagram • Introduction to object oriented development • Encapsulations, abstraction, information hiding, inheritance • Introduction to UML • Activity diagram • Class diagram • Sequence diagram
+Prerequisites
+ N/A
+Co-requisites
+ Object Oriented Programming
+=====
+Professional Practice in IT
+LOs
+ On successful completion of this course the student will be able to: 1. Evaluate the major ethical considerations facing information technology professionals 2. Explore major areas of IT compliance and governance, including current legislation, licensing and professional bodies such as IITP, ACM, IEEE,  IFIP, TUANZ and NZTech 3. Examine the significance of Te Tiriti o Waitangi to the IT industry in New Zealand. 4. Critically reflect on personal performance exhibited during this course, based on given criteria including professional attitude and work related performance appropriate for the IT industry.  5. Demonstrate professional behaviour by applying communication, information design, personal, and interpersonal skills in an organisational context.
+AIM
+ To provide students with the skills and knowledge required of an information technology (IT) professional and expose them to the work attributes of an appropriate IT role.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • How society and IT interact; current and emerging issues; disruptive technologies • Ethics and ethical decision making;  typical ethical issues relating to the IT sector and society • Professionalism, professional bodies, professional behaviour, codes of ethics/codes of professional conduct • The law and legislation relevant to the IT sector • Understanding Te Tiriti o Waitangi and its historical and current significance; contextualising Te Tiriti for IT work • Workplace team dynamics; achieving successful team outcomes
+Prerequisites
+ IT and Team Communication and two level 6 BDT courses, or equivalent
+Co-requisites
+ 
+=====
+Change and Project Management in IT
+LOs
+ On successful completion of this course the student will be able to: 1. Apply the knowledge areas of project management to a specified IT change management project. 2. Use appropriate software to develop a project plan which incorporates a Gantt chart, scheduled activities and assigned resources, including people, equipment and their relevant costs. 3. Work effectively in a diverse team to optimise a specified IT change management project for cost, time and resource workload. 4. Report on an IT change management project to a client and/or relevant stakeholders using and justifying an appropriate format and obtain feedback from the client and/or relevant stakeholders.  5. Critically reflect on their team’s performance based on given criteria including attitude and work related performance evaluation appropriate for the IT industry.  6. Demonstrate professional behaviour by applying communication, information design, personal, and interpersonal skills in an organisational context.
+AIM
+ This course will enable the student to work in a diverse project team to achieve project outcomes based on an IT client project brief, and critically self-reflect on their personal and team performance.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Project Management concepts related to Change Management in IT. • Project Management tools. • Change Management in IT strategies. • Leadership and ethics in Project and Change Management in IT.
+Prerequisites
+ 
+Co-requisites
+ 
+=====
+Advanced Server Services
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the advanced features of a server-based infrastructure. 2. Analyse data storage options, and implement storage and file services in a distributed environment. 3. Deploy high availability servers and server-based software. 4. Implement a server-based virtualization infrastructure and private cloud to support organisational requirements.
+AIM
+ To demonstrate an understanding of the data storage options and implement a server-based infrastructure with advanced features and data storage to support organisational requirements.    Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Organisational data storage • Advanced features of a server-based infrastructure – Storage technologies, iSCSi, Distributed File System, File Server Resource Manager, Failover Cluster, Windows Deployment Services, Hyper-V • Windows server File Server Resource Manager • Windows server Distributed file system • Windows server Windows Deployment Services • Windows server failover cluster • Windows server Cloud computing and RDS services
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Network Infrastructure
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of major aspects of an organisational network infrastructure including options for data storage. 2. Implement technologies for systems and network services to meet organisational requirements. 3. Analyse the requirements and implement an organisational network infrastructure to meet organisational needs.  4. Demonstrate an understanding of network infrastructure administration and troubleshooting. 5. Conduct requirement analysis, and administer routing and remote access in a network infrastructure.
+AIM
+ To implement and administer a network infrastructure with associated services and protocols to meet organisational requirements.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Fundamentals of network infrastructure – Elements and components, network design models, features and functionalities, data storage, systems and services, organisational requirements  • Virtualisation – overview, concepts and applications • DHCP server configuration and DNS zones • Active Directory, domains and domain controllers • File system management, access and security • Virtual Private Network (VPN), routing and remote access • Disaster recovery, resiliency and security
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Directory Services
+LOs
+ On successful completion of this course the student will be able to: 1. Review and explain the major elements of a directory service. 2. Demonstrate an ability to plan, implement and manage a directory service including identity management and replication in a distributed environment. 3. Implement and manage a file system in a server-based virtualization infrastructure. 4. Implement security, centralized management policies and group policies in a directory service to meet organisational requirements.
+AIM
+ To plan, implement and manage a directory service with the protocols, supporting services, and replication mechanisms to meet organisational requirements.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Overview of directory services in a server-based networking infrastructure – concepts, protocols, requirements, services and applications • Server-based virtualization infrastructure – virtual machines, hosts, basics of storage solutions • Active directory domain services – domain, domain controllers, sites, subnets • Replication in a multi-site environment • Active Directory administration: Flexible Single Master Operation Roles • File system in a distributed environment • Security mechanisms, identity and centralised management, and group policies
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Automated System Deployment
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the automated deployment strategies, tools and technologies. 2. Analyse the requirements of automated system and application software deployment in an organisational network.  3. Plan and implement an operating system and an application software in a network to meet organisational requirements. 4. Troubleshoot an automated system and application software deployment procedure and report the findings to support efficient organisational operations.
+AIM
+ To plan, implement and troubleshoot an automated system and application software deployment to support efficient organisational operations.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Automated System Deployment – features and requirements; tools; applications; challenges • Microsoft System Centre-based system deployment • Mobile Device Management (MDM) • Automated deployment of client operating system. • Automated deployment of application software • Automated deployment of security procedures in a network infrastructure • Automated system deployment to different system types, e.g., server, desktop, mobile devices
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Messaging Services
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of messaging and collaboration services in a network infrastructure. 2. Conduct a requirement analysis and implement a messaging and collaboration service in a network infrastructure. 3. Administer a messaging and collaboration service implemented in a network infrastructure to meet organisational requirements.  4. Apply IT service management processes and procedures to comply with organisational requirements.
+AIM
+ To Implement and administer a messaging and collaboration service in a network infrastructure and apply service management processes to comply with organisational requirements.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ Services: Email, calendar, notes, instant messaging, tasks, collaboration tools Microsoft Exchange Server; Microsoft Lync Server Configuration of Unified Communications; Writing scripts to automate standard procedures Industry standard framework – ITIL Licensing and compliance
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Information Security
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the principles of information security to meet organisational requirements.  2. Analyse the requirements and apply cryptographic and encryption-based security mechanisms to ensure information security. 3. Implement security mechanisms for systems and network services to mitigate threats. 4. Prepare a data protection plan for an organisational network. 5. Analyse the principles of cyber security to meet organisational requirements.
+AIM
+ To demonstrate an understanding of the information security principles, analyse the requirements and implement security measures to meet organisational requirements.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic information security concepts: confidentiality, integrity, availability; challenges and scope; data protection  • Different types of information security threats and the impacts they cause in an organisational network • Types of common/practised preventative measures against the information security threats including mitigating techniques like Authentication, Authorising and Accounting (AAA), Public Key Infrastructure (PKI) and lockdown security on network and network devices; industry-oriented best practices • Overview of cryptographic and encryption-based security mechanisms • Configuring and monitoring traffic filtering and firewalls and implementing Network Address Translation (NAT) and Port Address Translation (PAT) techniques to mitigate threats in a network • Automating standard security procedures for information security (including writing scripts to automate security procedures) • Overview of cyber security concepts and principles and their applications in an organisational network • Security threats in cyber security
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Wireless Networks
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of wireless and mobile networks. 2. Demonstrate an understanding of the wireless architectures and wireless design methodologies to design a wireless network. 3. Plan and implement a wireless network by applying the industry recommended best practices. 4. Troubleshoot a wireless network and configure security mechanisms to meet organisational requirements.
+AIM
+ To plan, implement and troubleshoot a wireless network to meet organisational requirements.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic concepts wireless networking: cell, signal, frequency, bit rate, data rate, throughput, latency, delay, multiplexing, antenna, path loss, mobile station, base station, access router, quality of service, mobility and handover; differences between wireless and mobile networks  • Overview of WLAN, ZigBee, Bluetooth, Sensors, WiMAX, Cellular Networks (LTE/LTE-Advanced), Internet of Things • Architecture of wireless networks and methodologies to design wireless networks • Wireless LAN Controller-based Access Point deployment, discovery and association • Site surveying and working with radio frequencies • Setting up centralised authentication for wireless clients  • Configuring security in a wireless network
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Software Defined Networking
+LOs
+ On successful completion of this course the student will be able to: 1. Identify and describe major aspects of software defined networks. 2. Demonstrate an understanding of network virtualization. 3. Conduct requirement analysis and configure a software defined network for an organisation. 4. Troubleshoot a software defined network and document the findings to meet organisational requirements.
+AIM
+ To demonstrate an understanding of software defined networking (SDN) and implement an SDN to meet organisational requirements.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Overview of software defined networking – basic concepts, control and data planes, importance and applications • Differences: Traditional networking and software defined networking • Separation of control and data planes • Network virtualization: Its importance and differences with software defined networking • Basics of OpenFlow, Mininet and OpenStack • Configuring and programming a basic software defined network • Testing and troubleshooting software defined networks
+Prerequisites
+ Computer Networks; Computer Architecture
+Co-requisites
+ 
+=====
+Applied Data Structures
+LOs
+ On successful completion of this course the student will be able to: 1. Analyse a variety of well-known data structures and the algorithms governing them. 2. Implement data structures and algorithms using a programming language. 3. Select and apply appropriate data structures and algorithms for problems. 4. Demonstrate the applications of data structures through implementing software solutions that employ the data structures and algorithms.
+AIM
+ To introduce well-known data structures and to show their applications in software development. So that students are able to identify proper data structure(s) for a given problem(s) and develop software solution(s) that employs the data structure(s).    Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Fundamentals of algorithms complexity • Queue and associated algorithms • Stack associated algorithms • List associated algorithms • Tree associated algorithms • Graph associated algorithms • Well-known search and sort algorithms
+Prerequisites
+ Object-Oriented Programming; UX/UI Design
+Co-requisites
+ 
+=====
+Applied Software Testing
+LOs
+ On successful completion of this course the student will be able to: 1. Explain the concepts and foundations of software verification and validation. 2. Distinguish between static and dynamic techniques for software verification. 3. Apply software testing and test generation techniques. 4. Implement test automation using a unit testing framework.
+AIM
+ To provide a framework for the fundamentals of Validation & Verification (V&V) and software testing to enable  students to apply different test generation techniques and implement automated tests using a unit testing framework.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Fundamentals of V&V • Principles of software testing • Testing in the software life cycle • Different types of tests like negative test, test for robustness, load testing, etc. • Static testing techniques such as inspection, walkthrough, static analysis, data flow analysis etc. • Black Box (specification based) test generating techniques such as equivalence partitioning, boundary value analysis, decision tables, pairwise testing, etc. • White Box (structure based) test generation techniques such as different coverage testing techniques. • Unit test implementation and assertion programing commands
+Prerequisites
+ Object-Oriented Programming
+Co-requisites
+ 
+=====
+Cloud Computing for Software Developers
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the fundamentals of cloud computing and different cloud delivery models (SaaS, PaaS, IaaS) 2. Design software using Service-Oriented Architecture 3. Demonstrate an understanding of security best practices for SaaS 4. Implement and publish Software-as-a-Service
+AIM
+ To demonstrate an understanding of the fundamentals of cloud computing, its benefits and challenges as a software develop to enable students to design and implement a SaaS solution.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Fundamentals of cloud computing • Cloud Categories (Public Cloud, Private Cloud, Hybrid Cloud, etc.) • Cloud delivery models (SaaS, PaaS, IaaS) • Service-Oriented Architecture • Fundamentals of SaaS • A SaaS development platform • Security in the Cloud
+Prerequisites
+ Introduction to Databases; Object-Oriented Programming
+Co-requisites
+ 
+=====
+Full-Stack Web Development
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the architecture of web applications including the roles of clients and servers and the use of protocols for interaction. 2. Learn and apply a server-side programming platform and/or language.  3. Implement dynamic web user interfaces using HTML, CSS, JavaScript, and AJAX. 4. Implement and publish web-based software solutions that interact with a variety of data sources and public APIs.
+AIM
+ To build server-side web applications that use relational databases to store data and interact with public APIs.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Back end programming language • Interfacing with databases • Interacting with public APIs • Interacting with Web User Interfaces • HTML • CSS • Responsive design and CSS Libraries: eg Bootstrap • JavaScript and JavaScript Libraries: eg jQuery, AngularJS, Knockout • AJAX • Publishing web sites
+Prerequisites
+ Front-End Web Design; Introduction to Databases; Object-Oriented Programming
+Co-requisites
+ 
+=====
+Big Data Analysis
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of essential attributes of big data and investigate contemporary issues, opportunities, risks and challenges of big data; 2. Explain concepts and techniques of data integration, cleansing, processing and analysis; 3. Design and develop a data warehouse; and 4. Demonstrate an understanding of modelling requirement, approaches and complexities of data mining; and 5. Apply second-order analysis to produce reports and business intelligence to support complex decision scenarios and explore techniques to differentiate between correlation and causation.
+AIM
+ To understand the concept and challenges of big data, design and implementation of a data warehouse, and to create sophisticated decision models and scenarios.   Note:   Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Big data: its usage, challenges, opportunities, security and privacy issues. • Big data attributes: data format, data source, distributed data, aggregated data, multi-dimensional data, and Meta data. • Big data preparation: De-normalisation and aggregation, data integration, data cleansing, data quality, data hygiene, data dynamics, and data indexing. • Big data management: Data warehouse concepts, frameworks, Datasets and tools. • Big data design: Design and develop a multi-dimensional data warehouse from multiple data sources with varied data formats e.g. SQL DB, Access DB, Excel, Text, XML, etc. • Data mining technologies and tools:  • SQL, SQL procedures and functions • Decision Trees, Naïve-based Algorithms & Rule-based Systems  • Case-based Reasoning, Fuzzy Logic Market Basket Analysis • Artificial Neural Networks, Genetic Algorithms • Decision Scenarios: Use data mining tools and technologies to produce intelligent information that supports complex decision scenarios, and to analyse the dataset for exploring correlation and causation.
+Prerequisites
+ Introduction to Databases; Foundation of Business Intelligence
+Co-requisites
+ 
+=====
+Business Statistics for Decision Modelling
+LOs
+ On successful completion of this course, the student will be able to: 1. Demonstrate an understanding of the basic concepts of statistics; 2. Apply statistical measures, and test of associations and inferences; 3. Develop and test hypotheses; 4. Explain advanced statistical concepts; 5. Demonstrate an understanding of forecasting strategies, detecting trends and making predictions from regression analysis and simulation of time series data;
+AIM
+ The purpose of this course is to construct and apply statistical models to assist business decision-making and problem-solving.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic concepts of statistics (e.g. data, variables, graphs, frequency, distribution, probability, population, sampling and parametric); • Statistical measures (centre, spread and shape) in a given dataset; • Test of associations (correlation and regression) in a given dataset; • Test of inferences (chi-square, t-test and variance) in a given dataset; • Hypothesis development for a given problem scenario and testing the hypothesis from a given data set; • Advanced statistical concepts: multiple regression, discriminant analysis, factor analysis, cluster analysis, conjoint analysis and multidimensional scaling; • Regression models for detecting trends, forecasting and predictive analysis using  a statistical analytical tool; and • Prepare analysis reports, publish it on a learner portal, and also present the same in the classroom.
+Prerequisites
+ 
+Co-requisites
+ 
+=====
+Data Analytics and Intelligence
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of the basic concepts and perspectives of business analytics and undertake comparative analysis of business intelligence technologies and tools; 2. Explain how businesses can use big data analytics to drive business growth and discover how data analytics will change the way organisations make products, market services and engage with customers; 3. Demonstrate an understanding of system modelling approach for big data analysis;  4. Demonstrate visual representation of data in graphical and peer network formats; and 5. Analyse big data sets using visualisation techniques to create decision scenarios.
+AIM
+ To understand how data analytics create organisational values and to demonstrate visual representation of big data sets for exploring business intelligence and opportunities.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basic concepts and perspectives of business analytics: cloud analytics, governance and self-service analytics, agile analytics, mobile analytics, web analytics and visual analytics; • Currently available business intelligence technologies and tools; • Investigation of contemporary applications  of data analytics and intelligence systems in various industries, and appreciation of how big data analytics drive business growth; • Simulation and system models and modelling approaches; • Design and development of a system model construct for a given business scenario; • Visual representation of data in various types of graphical and peer network formats;  • Development of decision scenarios from a given big data set using visualisation, e.g. graph partitioning technique. • Exploring decision scenarios for a given business case from a big dataset using a data analytics tool.   Assessment No. Type Weighting Learning Outcomes assessed 1 Research Essay – concepts of data analytics and intelligence, and review of current applications 20% 1-2 2 Test- Design and develop a system model construct 20% 3 3 Project – visual representation of big data and graphical analysis of big data sets for creating decision scenarios for a given business environment. 60% 4-5  Resources required Due to the rapidly changing nature of technology in the Computing domain, these resources may change often. A suggested list of resources will be provided with the course outline every semester. • A high speed BYOD computing device capable of running big data, data warehouse • A database server and an analysis server • A data analytic and data mining tool and a graphical analysis tool • In house developed/ collected big database • A high speed computer lab for practice and test  • In-house developed course material
+Prerequisites
+ Fundamentals of Business Intelligence
+Co-requisites
+ 
+=====
+Database Application Development
+LOs
+ On successful completion of this course the student will be able to: 1. Explain the usage context of the contents and architecture of a mainstream platform and object library; 2. Select and use appropriate objects to design and complete both front end and back end programming tasks of a multi-user database; 3. Manage database transactions in code and data integrity issues that occur in multi-user environments; 4. Create, test and debug a small commercially oriented program that uses bound and unbound visual components to support a GUI application; 5. Design and build reports that process and present data from multiple entities.
+AIM
+ To design and develop a transaction management database application using a mainstream platform and object library to present and manipulate data stored in a relational database, and to process data and generate reports.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Library objects, frameworks and architecture of a mainstream platform (.Net Framework) • The application of the object library to common programming tasks • Transaction processing • Multi-user management • Usage of bound and unbound controls • Interacting with the presentation layer in a client side application • Create, test and debug a database application for a given sophisticated business case • Reporting objects and tools
+Prerequisites
+ Introduction to Database
+Co-requisites
+ 
+=====
+Software Engineering
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate and analyse different agile methods and software construction steps 2. Demonstrate, evaluate, and apply different software architecture and design patterns 3. Demonstrate and evaluate different software quality attributes 4. Collect and interpret software metrics 5. Demonstrate an understanding the human issues and ethics as a software engineer
+AIM
+ To develop skills that will enable students to construct robust software that is reliable, is reasonably easy to understand, modify and maintain.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Basics of software engineering • Software process models and SDLC • Agile development and agile methods • Software quality attributes • Software metrics • Software architecture, styles and design patterns • Ethics in software engineering
+Prerequisites
+ System Analysis and Design
+Co-requisites
+ 
+=====
+User Experience and User Interface Design
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of and apply the concepts of user experience design  2. Analyse, and apply different types of graphical user interface controls 3. Learn and apply user interface design programming language and event-based programming 4. Implement software solutions that have responsive and appealing graphical user interfaces
+AIM
+ To understand the importance of user centric design and implement software user interfaces that promote aesthetics, usability, and ease of use.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Fundamentals of UX and user centric design • Software usability and ease of learn • Difference between UI & UX Design • Fundamentals of User Interface Design • UI elements, containers, and controls • GUI prototyping tools • A user interface design programming language for either web, mobile, or desktop platforms • Event programming
+Prerequisites
+ Object-Oriented Programming; System Analysis and Design
+Co-requisites
+ 
+=====
+Information and Communication Technologies
+LOs
+ On successful completion of this course the student will be able to: 1. Create, manipulate and assemble communication technology components. 2. Engage with an audience by integrating communication technology components with current and emerging communication technology platforms. 3. Apply a development methodology to the production of a communication technology project. 4. Understand and apply legal and ethical issues that relate to the public application of communication technologies.
+AIM
+ To develop and apply skills and capabilities in technology areas, for example Web, Multimedia, relevant to communication areas such as news, advocacy, advertising, education, entertainment.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Creating and editing Multimedia components eg images, audio, video, animation. • Application of HTML, CSS, JavaScript. • Principles of interface, content and navigational design. • Management Systems (CMS) as online publication platforms. • Social Media account customisations as online publication platforms. • Integration of communication technology components into platforms. • Integration of multiple communication technology platforms into a communication-centric Project.  • Legal and ethical issues • Development methodologies
+Prerequisites
+ Front-End Web Development
+Co-requisites
+ 
+=====
+Cloud Computing
+LOs
+ On successful completion of this course the student will be able to: 1. Research and apply the key cloud computing concepts, including deployment models, services types and applications to meet business requirements. 2. Analyse the design requirements of a basic infrastructure for cloud computing and implement a cloud infrastructure for an organisation.   3. Monitor the functioning of a configured resilient infrastructure for cloud computing and report the critically analysed findings. 4. Investigate the industry recommended best practices and implement security features in a cloud infrastructure.
+AIM
+ To research and apply key cloud computing concepts to meet business requirements and implement a resilient cloud infrastructure for an organisation.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Cloud computing concepts, a comparative study of the deployment models, different types of cloud services, applications • Designing and implementing a private cloud infrastructure • Operating a hybrid cloud infrastructure • Backup, availability and other resiliency features • Microsoft System Centre, Virtual Machine Manager and Azure, AWS • Cloud security – best practices and recommendations
+Prerequisites
+ Network Infrastructure; Directory Services
+Co-requisites
+ 
+=====
+Hot Topic in Networking
+LOs
+ On successful completion of this course the student will be able to: 1. Demonstrate an understanding of a contemporary topic in networking by conducting research.  2. Identify possible challenges that an organisation may face and design solution(s) to address these challenges. 3. Present the outcomes of the solution to a specified target audience using an appropriate form / channel of communication (written report, oral presentation, website, user interface design and documentation, video recording).  4. Critically reflect on the learning and seek appropriate feedback from the target audience.
+AIM
+ To identify a contemporary topic in networking, research its possible challenges and design a solution to meet an organisation’s requirements.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Student and client generated
+Prerequisites
+ Network Infrastructure; Directory Services
+Co-requisites
+ 
+=====
+Advanced Data Analytics
+LOs
+ On successful completion of this course the student will be able to: 1. Investigate and appreciate current and prospects of big data analytics in selected domain(s);  2. Translate a business problem into the design of a data analysis strategy; 3. Develop an advanced  Data Analytics solution that performs data manipulations using a variety of models in a selected big data analytic environment; 4. Explore data graphically to identify various modelling choices, and evaluate and improve the models; and 5. Critically examine and interpret the model outputs and test the performance of models;
+AIM
+ The purpose of this course is to design, develop and implement an advanced Data Analytics system from a big data set using a data analytic tool.  Note: Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Big data analytics in different domains and paradigms e.g. health analytics, social analytics, financial analytics, HR analytics, marketing analytics, city and regional planning analytics, etc.  • Development of a data analysis strategy from a complex business problem for a given organisational environment • Data manipulations using a variety of models in a selected big data analytic environment; explore decision-making requirements and conditions for a given business scenario. • Decision analysis models (e.g. static and dynamic, descriptive and prescriptive, predictive, system dynamics, simulation, mathematical, forecasting, graphical, etc.) and modelling methodologies for data manipulation; • Analysis of decision-making requirements of a business case, selection of a data analytic tool, integration of the tool with the supplied big data or a set of big data, develop and incorporate decision models in the tool, dynamically visualise data to identify, evaluate and improve the data analytic models and model outputs; and • Building, instantiation and execution of models, sensitivity analysis and performance evaluation of the models;
+Prerequisites
+ Business Analytics and Intelligence; Big Data Analysis; Business Statistics for Decision Making
+Co-requisites
+ 
+=====
+Hot Topic in Software
+LOs
+ On successful completion of this course the student will be able to: 1. Identify a contemporary problem requiring a software solution. 2. Research this contemporary problem and provide a software solution for the identified and write appropriate documentation.  3. Present the outcomes of the solution to a specified target audience using an appropriate form/channel of communication (written report, oral presentation, website, user interface design and documentation, video recording).  4. Critically reflect on learning and seek appropriate feedback from industry.
+AIM
+ To prepare students to identify a contemporary problem and implement a software solution to meet a client’s needs.  Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Student and client generated
+Prerequisites
+ 
+Co-requisites
+ 
+=====
+BDT Industry Project
+LOs
+ On successful completion of this course the student will be able to: 1. Prepare and present a proposal for an IT/IS Project to the Project Committee. 2. Manage and complete the Project in the IT/IS domain 3. Demonstrate professional and ethical judgement during the course of the Project  4. Critically evaluate and document the Project including a poster presentation 5. Present the Project to the Project Committee and defend its outcomes
+AIM
+ To give students the opportunity to design, implement and evaluate a project for a client by integrating the theory learnt in underpinning courses and applying this practically in an industry environment.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Project Proposal • Client requirements: gathering, analysis and documentation • Project plan • Project management, monitoring and controlling • Meeting documentation • Communication: Client, team members, supervisor, project coordinator • Problem solving: technical, risk, conflict • Scope change management • Ownership (Self) • Presentation: proposal, complete project • Reporting: Client, supervisor  • Time management: log book • Project evaluation • Test methodologies:  Functional, integration, deployment and acceptance testing • Testing: Plan, documentation and report • Project output documentation: user manual, technical manual, review report • Codes of ethics and codes of practice
+Prerequisites
+ Level 7 courses in selected major
+Co-requisites
+ 
+=====
+Management of ICT
+LOs
+ On successful completion of this course, the student will be able to: 1. Use appropriate frameworks for analysing ICT infrastructure, and prepare ICT strategies and action plans; 2. Apply an enterprise framework/architecture for aligning business processes with information systems processes; 3. Develop ICT policies and protocols for a medium to large organisation; 4. Prepare a risk management plan for the ICT infrastructure using an appropriate risk management framework;  5. Analyse the usage and impact of current and future ICT innovations in the context of an organisation.
+AIM
+ The purpose of this course is to provide an overview of management strategies, action plan, policies, and skills appropriate for the ICT industry, and to prepare ICT risks management plan.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Concepts  and practices of strategy, policy and planning; • ICT strategies: concepts, requirements, and contents, development framework • ICT strategy analysis tools: ICT Balanced scorecard, ICT PEST analysis, ICT SWOT analysis, Gartner Quadrant analysis, and enterprise architecture; • Review of ICT strategies of several organisations; • Develop and document ICT strategies of a selected organisation; • Design an ICT organisational structure for a given organisation; • Develop and document significant ICT policies (e.g. user management, disaster recovery, social media, communication, privacy, BYOD, etc.). • Review of contemporary ICT risk management frameworks and develop a risk management plan for a selected organisation. • Current and future ICT innovations and their impact and application in the context of an organisation.
+Prerequisites
+ Business Information Systems, and ICT Project Management
+Co-requisites
+ 
+=====
+Mobile Application Development
+LOs
+ On successful completion of this course the student will be able to: 1. Learn and apply a well-known mobile and tablet application development platform and compare it with other platforms  2. Implement visually rich interactive and responsive native mobile and tablet graphical user interfaces 3. Interact and use a variety of hardware and software services provided by the mobile platform such as notification services, location services, sharing services, etc. 4. Implement mobile-based software solutions that interact with a variety of data sources and public APIs 5. Code, run, test, and debug mobile applications
+AIM
+ To develop native applications for a mobile/tablet platform to enable students to implement a complete mobile application that interacts with a variety of local and remote data sources, and uses a variety of hardware/software services provided by the device.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Use a native mobile/tablet IDE • Mobile/tablet User interfaces and layout controls • Running and debugging mobile\tablet applications • Mobile/tablet application life cycle • Supporting localization and variable screen sizes • Synchronous and asynchronous mobile programming • Interacting with public APIs • Use device services such as internet, location services, notifications, sharing, etc. • Interfacing with databases
+Prerequisites
+ Introduction to Databases; Object-Oriented Programming; UX/UI Design
+Co-requisites
+ 
+=====
+GD DT Industry Project
+LOs
+ On successful completion of this course the student will be able to: 1. Prepare and present a proposal for an IT/IS Project to the Project Committee. 2. Manage and complete the Project in the IT/IS domain 3. Demonstrate professional and ethical judgement during the course of the Project  4. Critically evaluate and document the Project including a poster presentation 5. Present the Project to the Project Committee and defend its outcomes
+AIM
+ To give students the opportunity to design, implement and evaluate a project for a client by integrating the theory learnt in underpinning courses and applying this practically in an industry environment.   Note:  Communication skills, business knowledge and skills and the principles of Mā Tātou will be contextualised in the delivery and assessment of this course.
+Content
+ • Project Proposal • Client requirements: gathering, analysis and documentation • Project plan • Project management, monitoring and controlling • Meeting documentation • Communication: Client, team members, supervisor, project coordinator • Problem solving: technical, risk, conflict • Scope change management • Ownership (Self) • Presentation: proposal, complete project • Reporting: Client, supervisor  • Time management: log book • Project evaluation • Test methodologies:  Functional, integration, deployment and acceptance testing • Testing: Plan, documentation and report • Project output documentation: user manual, technical manual, review report • Codes of ethics and codes of practice
+Prerequisites
+ Level 7 courses in selected major
+Co-requisites
+ 
+=====

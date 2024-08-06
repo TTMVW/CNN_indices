@@ -1,0 +1,38 @@
+D101 : PROGRAMMING FUNDAMENTALS
+D111 : DATABASE FUNDAMENTALS
+I101 : INFORMATION SYSTEMS FUNDAMENTALS
+I102 : TECHNICAL SUPPORT FUNDAMENTALS
+I111 : WEB FUNDAMENTALS
+I121 : SYSTEMS ANALYSIS FUNDAMENTALS
+T101 : NETWORK FUNDAMENTALS
+T111 : COMPUTER HARDWARE FUNDAMENTALS
+D211 : DATABASE DEVELOPMENT
+I202 : IT PROJECT MANAGEMENT
+I221 : ANALYSIS AND DESIGN
+D201 : ADVANCED PROGRAMMING
+D202 : SOFTWARE PROCESS
+I203 : DIGITAL MULTIMEDIA
+I209 : INDUSTRY PLACEMENT
+I211 : ECOMMERCE SYSTEMS
+I213 : DYNAMIC WEB SOLUTIONS
+T201 : NETWORK SERVICES
+T205 : NETWORKS (CISCO ITN)
+T206 : NETWORKS (CISCO RSE)
+T211 : SYSTEMS SECURITY
+I212 : ENTERPRISE DATA MANAGEMENT  Paper Level 6 Credits 15 Duration 45 Lecturer Supported 105 Independent learning hours Pre-requisite  &  Co-requisite None  Course Aim To enable students to design and implement enterprise data management systems.  Learning Outcomes On successful completion of this paper students will be able to: 1. Compare and select appropriate enterprise data management systems 2. Design an enterprise data management system structure 3. Implement an enterprise data management system including automated processes  Content This paper will cover the following: • Content Management Systems • Document Management Systems • Business Intelligence Systems • Cloud-based platforms  Learning and Teaching Approaches The student will meet with the academic supervisor for up to one hour per week, or by negotiation with the academic supervisor.  This meeting ensures that the placement is progressing in accordance with the agreed expectations and enables discussion of any issues/problems that may arise.  The student is responsible for any extra learning that is required for their industry placement.  The overall management of the placement is the responsibility of the student, who must keep all parties informed of any issues that arise that may affect their commitment to the placement.  This includes regular communication with the placement sponsor.  Assessment Procedures Assessment is achievement based.  Assessments Weightings Learning Outcomes Assessed Pass Criteria Assessment One 40% 1, 2, 3 Gain a minimum of 50% overall Assessment Two 30% 2, 3 Assessment Three 30% 1, 2, 3  Off Campus Learning Refer to 1.12 in Programme Overview  Resources and Prescribed / Recommended Texts The required and recommended reading material will be specified in the Paper Outline as provided by the lecturer at the beginning of the semester. Students will use texts and other books, journals, CD–ROM databases, on-line databases, and the Internet to increase their knowledge and awareness of the subject material. The library is also a source of information and guidance in the use of academic referencing and writing techniques.Students engage with the library staff, throughout their studies, with the objective of learning and developing their referencing skills and their general academic writing skills.    To support students who may choose to study off campus, all of the formal material provided in face-to-face sessions will be available in a web-based format.  Resource based material may also include computer-assisted instruction, print based workbooks for independent study, multimedia packages, streaming video and streaming audio.
+I263 : INTRODUCTION TO FINANCE
+I301 : PROFESSIONAL PRACTICE
+I302 : INDUSTRY PROJECT
+D301 : SOFTWARE ENGINEERING
+D303 : MOBILE APPLICATION DEVELOPMENT
+D311 : ADVANCED DATABASE CONCEPTS
+I303 : MANAGEMENT OF INFORMATION AND COMMUNICATION TECHNOLOGY
+I321 : ADVANCED SYSTEMS ANALYSIS
+I309 : SPECIAL TOPIC
+T301 : NETWORK DESIGN
+T302 : CISCO SCALING & CONNECTING
+T311 : SYSTEMS ADMINISTRATION
+T312 : NETWORK SECURITY
+I304 : DATA ANALYTICS AND INTELLIGENCE
+I311 : ADVANCED WEB SOLUTIONS
+I367 : ADVANCED PROJECT MANAGEMENT

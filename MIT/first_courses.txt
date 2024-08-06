@@ -1,0 +1,41 @@
+  Course title Business Information Systems Course code
+ Fundamentals of Software Development Course code
+ IT and Team Communication Course code
+ Introduction to Databases Course code
+ Computer Architecture Course code
+ Computer Networks Course code
+ IT Support and Services Course code
+ Fundamentals of Computer Systems Administration Course code
+ Front-End Web Development Course code
+ Fundamentals of Business Intelligence Course code
+ Object Oriented Programming Course code
+ System Analysis and Design Course code
+ Professional Practice in IT Course code
+ Change and Project Management in IT Course code
+ Advanced Server Services Course code
+ Network Infrastructure Course code
+ Directory Services Course code
+ Automated System Deployment Course code
+ Messaging Services Course code
+ Information Security Course code
+ Wireless Networks Course code
+ Software Defined Networking Course code
+ Applied Data Structures Course code
+ Applied Software Testing Course code
+ Cloud Computing for Software Developers Course code
+ Full-Stack Web Development Course code
+ Big Data Analysis Course code
+ Business Statistics for Decision Modelling Course code
+ Data Analytics and Intelligence Course code
+ Database Application Development Course code
+ Software Engineering Course code
+ User Experience and User Interface Design Course code
+ Information and Communication Technologies Course code
+ Cloud Computing Course code
+ Hot Topic in Networking Course code
+ Advanced Data Analytics Course code
+ Hot Topic in Software Course code
+ BDT Industry Project Course code
+ Management of ICT Course code
+ Mobile Application Development Course code
+ GD DT Industry Project Course code

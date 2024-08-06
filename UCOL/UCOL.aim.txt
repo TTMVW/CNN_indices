@@ -1,0 +1,38 @@
+D101 : To provide an introduction to the fundamentals of programming and to enable students to develop quality software.
+D111 : To provide students with a broad operational knowledge of database design and administration.
+I101 : To introduce students to business systems and essential components of the ICT profession.
+I102 : To enable students to deliver organisational technical support based on best practice in IT Service Management
+I111 : To provide an introduction to the fundamentals of web development and to enable students to produce quality websites.
+I121 : To provide an introduction to the principles of systems analysis and systems require-ments elicitation techniques
+T101 : To provide an introduction to the fundamentals of computer networks as they currently exist in industry and to enable students to configure, test and troubleshoot local area networks.
+T111 : To develop students’ understanding of the fundamentals of computer hardware, operating systems and troubleshooting techniques.
+D211 : To effectively design an information system for a complex business application.
+I202 : This course will enable the student to learn the basic principles and terminology of the profession of project management, and apply this to create project plans.  Students will also be given a brief introduction to using project management software.
+I221 : This course will enable students to analyse the requirements for an information system and evaluate different methodologies used in systems analysis.
+D201 : To introduce standard algorithms required for business application programming
+D202 : To create quality software applications utilising a modern development approach
+I203 : To apply principles and techniques relating to the application of digital multimedia technologies
+I209 : To enable students to undertake an ICT industry based work placement. The industry placement course is subject to availability and approval from the Head of School.
+I211 : To introduce principles and application of electronic commerce technologies
+I213 : To create a dynamic web application utilising a variety of open-source technologies
+T201 : To implement key network services as used in modern LANs and to explain the network protocols that these services use.
+T205 : To enable students to gain practical and technical networking knowledge that will assist in designing, building and analysing networks and their protocols.
+T206 : To enable students to gain practical and technical networking knowledge that will allow them to configure and troubleshoot routers, switches and resolve common issues with networks.
+T211 : To analyse and implement computer systems security, including operating systems, server applications and networks; and to enable students to explain the fundamentals of computer forensics.
+I212 : To enable students to design and implement enterprise data management systems.
+I263 : Students will apply financial management knowledge and skills to a small or medium size business for decision-making purposes
+I301 : To prepare students for an industry project/internship related to their area of study.
+I302 : To enable students to undertake an industry based project of a complex nature.
+D301 : To design and construct quality software ready for distribution
+D303 : To develop mobile applications for current and emerging mobile computing devices using industry standard tools and frameworks
+D311 : To enable students to successfully design, create and administer a data warehouse using a server-based database management system.
+I303 : To provide students with the skills and knowledge to analyse organisations and make management decisions relating to the organisation’s IT.
+I321 : To introduce tools and techniques used to assess feasibility and present a business case; to complete an analysis of a complex information system based on the recommendation from the feasibility phase.
+I309 : To allow students to pursue an area of special interest under the guidance of a UCOL academic staff member.  The Special Topic course is subject to availability and approval from the Head of School.
+T301 : To recommend network and service architectures and to design and implement, or simulate chosen architectures.  Students will be able to analyse and evaluate network designs, select an appropriate technology and design for a given situation, and justify their selection.
+T302 : To gain practical and technical networking knowledge that will assist in designing, building and analysing networks and their protocols using advanced technologies.
+T311 : To provide the ability to design and construct a complex multi-user client/server network. Students will gain skills needed to configure and integrate complex systems.
+T312 : To enable students to understand and configure the components, and operation of Virtual Private Networks, firewalls and network security.
+I304 : To enable students to use data analytics and business intelligence tools and techniques in order to provide decision support within an organisational context
+I311 : To enable students to investigate, implement, and critique influential, new, and emerging web technology solutions
+I367 : This course will enable the student to learn advanced principles of the project management body of knowledge and cover the content of the Project Management Institute PMBOK® and its application and evaluation to the workplace
