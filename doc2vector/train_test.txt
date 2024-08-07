@@ -1,0 +1,47 @@
+Training 
+
+[TaggedDocument(words=['analyse', 'requirements', 'plan', 'and', 'implement', 'an', 'sme', 'network', 'for', 'given', 'business', 'problem', 'understand', 'plan', 'and', 'implement', 'fault', 'tolerant', 'core', 'networking', 'services', 'understand', 'plan', 'and', 'implement', 'additional', 'services', 'dependent', 'on', 'the', 'core', 'ict', 'platform', 'analyse', 'and', 'critically', 'evaluate', 'technologies', 'for', 'an', 'sme', 'network'], tags=[0]), TaggedDocument(words=['critically', 'analyse', 'cloud', 'solutions', 'outline', 'current', 'issues', 'pertaining', 'to', 'cloud', 'environments', 'plan', 'and', 'configure', 'cloud', 'solution', 'plan', 'and', 'perform', 'cloud', 'transition'], tags=[1])]
+================
+
+Testing 
+
+[['analyse', 'the', 'components', 'of', 'training', 'plan', 'deliver', 'and', 'evaluate', 'the', 'effectiveness', 'of', 'computer', 'based', 'interactive', 'training', 'programme', 'to', 'deliver', 'skill', 'or', 'topic', 'presentation', 'on', 'the', 'theory', 'and', 'practice', 'of', 'computer', 'based', 'training'], ['examine', 'human', 'visual', 'systems', 'and', 'cognitive', 'perception', 'to', 'gain', 'better', 'understanding', 'of', 'their', 'role', 'in', 'data', 'visualisation', 'examine', 'and', 'apply', 'data', 'visualisation', 'principles', 'and', 'techniques', 'evaluate', 'and', 'select', 'appropriate', 'visualisation', 'techniques', 'for', 'producing', 'data', 'visualisation', 'for', 'given', 'context', 'construct', 'and', 'evaluate', 'interactive', 'visualisations', 'based', 'on', 'given', 'context', 'and', 'data', 'set']]
+================
+
+Word 'data' appeared 160 times in the training corpus.
+[ 0.10161483 -0.10141087 -0.06470942 -0.01772235 -0.04817534 -0.04470858
+  0.08049443  0.22698614 -0.11605399 -0.17070086  0.05434586 -0.16554213
+ -0.10981524  0.0736744  -0.07476622  0.09032799  0.15431124  0.03292021
+ -0.16190423 -0.08414759 -0.01378921  0.16221952  0.18030444  0.04141666
+  0.1391883   0.02442561 -0.05440753  0.06424327 -0.21871756  0.0432498
+  0.07769559  0.1897545   0.04259697  0.12114495 -0.096861    0.08497273
+  0.05590243 -0.11302219 -0.01856958 -0.0571118   0.10873175  0.03389728
+ -0.10071564 -0.03937937  0.25361153  0.0276372  -0.0102079  -0.10011017
+  0.11287619 -0.00033073]
+Counter({0: 270, 1: 34, 2: 8, 3: 5, 6: 3, 4: 2, 5: 1, 12: 1, 11: 1, 7: 1})
+Document (325): «examine and explain range of different contexts in which information system development occursexplore and critically analyse the fundamental concepts and application of differing systems development and apply methods and tools commonly used in the analysis and design of information systemsevaluate the use of different methods and methodologies for the development of complex information systems»
+
+SIMILAR/DISSIMILAR DOCS PER MODEL Doc2Vec<dm/m,d50,n5,w5,mc2,s0.001,t3>:
+
+MOST (325, 0.913653552532196): «examine and explain range of different contexts in which information system development occursexplore and critically analyse the fundamental concepts and application of differing systems development and apply methods and tools commonly used in the analysis and design of information systemsevaluate the use of different methods and methodologies for the development of complex information systems»
+
+SECOND-MOST (252, 0.8380670547485352): «identify and discuss the principles of the systems development life cycle sdlc explain the need for systems analysis and design within the systems development process explain the principles of effective it systems analysis and design and the appropriate application of these in the systems development process create and interpret systems design and analysis documentation determine the need for and apply software development standards in analysis and design documentation»
+
+MEDIAN (96, 0.2466992735862732): «design and construct small applications using variety of algorithms devise test plans to ensure quality software create system maintenance documentation»
+
+LEAST (31, -0.20999306440353394): «design complex network to meet user requirements integrate network with multi user system analyse and apply the concepts of network administration»
+
+Train Document (68): «examine and show understanding of new programming language and identify its purpose and characteristics demonstrate independence in the investigation and effective application of language syntax features effectively design and implement software project in response to the requirements of project brief the software produced will be of an intermediate to advanced level»
+
+Similar Document (246, 0.7341823577880859): «demonstrate competency in the use of gui programming language and environment demonstrate the use of gui language for the creation of an effective database front end demonstrate the testing debugging and documentation of gui programs analyse the way in which gui model affects the development effort the programme structure and the interaction with the user»
+
+Test Document (2): «evaluate range of advanced technologies used to support large scale networked systems research emerging technologies and justify their potential role in enterprise ict systems and present this research in well organised professional format critically evaluate the role of an ict framework for effective management and delivery of an enterprise ict service»
+
+SIMILAR/DISSIMILAR DOCS PER MODEL Doc2Vec<dm/m,d50,n5,w5,mc2,s0.001,t3>:
+
+MOST (303, 0.8195244669914246): «formulate and justify research question relevant to contemporary information and communication technologies source and critically investigate range of contemporary concepts and principles relevant to the research question critically discuss concepts technical issues and potential solutions relevant to the research question present critically reasoned response to the research question»
+
+MEDIAN (148, 0.43227067589759827): «demonstrate an understanding of the basic concepts and perspectives of business analytics and undertake comparative analysis of business intelligence technologies and tools explain how businesses can use big data analytics to drive business growth and discover how data analytics will change the way organisations make products market services and engage with customers demonstrate an understanding of system modelling approach for big data analysis demonstrate visual representation of data in graphical and peer network formats and analyse big data sets using visualisation techniques to create decision scenarios»
+
+LEAST (121, -0.10090748220682144): «demonstrate an understanding of numeric and binary systems and logical operators apply problem solving and decision making techniques to design algorithms in order to solve problems innovatively apply the principles of software development and implement simple software programs via programming language test debug and correct simple programs»
+
