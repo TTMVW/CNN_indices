@@ -49,9 +49,9 @@ with open("all_lo.txt", "w") as all_lo_file:
 with open("training.cor", "w") as training_file, open("test.cor","w") as test_file, open("corpora_tuples.txt","w") as corpora:
         count = 0
         for line in random_corpora:
-            if count % 137 == 0 :
+            if count % 37 == 0 :
                 test_file.write(f"{line[1]}\n")
-            else:
-                training_file.write(f"{line[1]}\n")
+            
+            training_file.write(f"{line[1]}\n")
             count += 1
             corpora.write(f"{line}\n")
