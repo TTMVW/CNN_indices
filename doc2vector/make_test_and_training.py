@@ -1,5 +1,5 @@
 """
-    Preparing test and train from the Learnign Outcomes.
+    Preparing test and train from the Learning Outcomes.
     Take the file containing all the Learning Outcomes 
     turn it into two files - with one entry per line.
     
@@ -33,9 +33,24 @@ def load_file():
          count+=1
         
     
-    print(learning_outcomes, len(learning_outcomes))
-    print(random_corpora, len(random_corpora))
+    
+    return learning_outcomes, random_corpora
     
         
     
-load_file()
+all_lo, random_corpora = load_file()
+print(all_lo, len(all_lo))
+print(random_corpora, len(random_corpora))
+
+with open("all_lo.txt", "w") as all_lo_file:
+    for line in all_lo:
+        all_lo_file.write(f"{line[0]},{line[1]}\n")
+
+with open("training.txt", "w") as training_file, open("test.txt","w") as test_file:
+        count = 0
+        for line in random_corpora:
+            if count % 10 == 0 :
+                test_file.write(f"{line[1]}\n")
+            else:
+                training_file.write(f"{line[1]}\n")
+            count += 1
