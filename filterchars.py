@@ -268,7 +268,7 @@ def NorthTec():
     first_course = True
     prev = None
     long_name = None
-    count = 0
+    
     for a in course_code_split:
         
         clean = a.strip()
@@ -285,8 +285,7 @@ def NorthTec():
         else:
             long_name = get_long_name(prev)
             prev = assign_descriptor_from(course_content, long_name, clean)
-        count += 1
-        #print("NorthTec "+long_name+" "+ str(count))
+        
 
             # prev = clean # cleaned
             # first_course = False;
@@ -514,6 +513,7 @@ def PR5006_HV4701_BIT():
         course_content[descriptor_code].set_aim(get_aim)
         course_content[descriptor_code].set_full_name(get_full_name)
         course_content[descriptor_code].set_pre_requisites(get_pre_requisites)
+        course_content[descriptor_code].level = descriptor_code[2]
 
     return course_content
 
