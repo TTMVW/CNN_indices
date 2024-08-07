@@ -778,7 +778,7 @@ def Wintec_BAppliedIT_Vol2() -> dict:
         return result
     
     def get_level(descriptor_code):
-        the_text = descriptor_code[-3:][0]
+        the_text = descriptor_code[4]
         return the_text
 
     course_content = {}  # A dictionary of "Descriptors" by course
@@ -828,12 +828,22 @@ def Wintec_BAppliedIT_Vol2() -> dict:
 
     return course_content
 
+
+    
+ 
+# def all_programs(course_filters):
+#     all_progs = {}
+#     for course_filter in course_filters :
+#         all_progs.append(course_filters[course_filter]())
+#     return all_programs  
+           
 course_filters = {"NMIT":NMIT,"MIT": MIT,"NorthTec":NorthTec,
                     "Otago":Otago_BIT,"WandW":PR5006_HV4701_BIT,
                     "Ucol":Ucol_Bachelor_of_Information_and_Communications_Technology_L7_Courses,
                     "Unitec":Unitec_BSC_Prog_Descriptors, "WinTec":Wintec_BAppliedIT_Vol2
                     
 } 
+
 def show_all_of_program(pFilterKey):
     course_content = course_filters[pFilterKey]()
     for course in course_content:
@@ -846,7 +856,7 @@ def show_all_of_program(pFilterKey):
         print("Co-requisites\n",course_content[course].co_requisites)
         print("=====")
         
-def show_columns(pFilterKey, pColumnNameList) :
+def show_columns(pFilterKey, pColumnNameList, include_filter_name=False, include_header=False) :
     course_content = course_filters[pFilterKey]()
     first_line = True
     for course in course_content:
@@ -854,6 +864,7 @@ def show_columns(pFilterKey, pColumnNameList) :
         #if len(course_content[course].__dict__["content"]) == 0:
         first_column = True
         header = ""
+            
         for columnName in pColumnNameList:  
                # print( columnName, course_content[course].__dict__[columnName],  len(course_content[course].__dict__[columnName]))
                if first_line:
@@ -861,12 +872,18 @@ def show_columns(pFilterKey, pColumnNameList) :
                    
                aline += int(not(first_column))*','+course_content[course].__dict__[columnName] #"[]"  str(len(course_content[course].__dict__[columnName]))\
                first_column = False
+        
         if first_line:
-            print(header)
+            if include_filter_name:
+                header = 'Institute,' + header
+            if include_header:
+                print(header)
+        if include_filter_name:
+                aline = pFilterKey +',' + aline
         print(aline)
         first_line= False
         
-        
+
     
 if __name__ == "__main__":
     # 3,HVP WandW, OK, complete
@@ -878,75 +895,17 @@ if __name__ == "__main__":
     # 10,UniTec, OK,complete
     # 11,WinTec,OK,complete
     
-    # test code
+    # run code
 
     if len(sys.argv) > 0 and sys.argv[1] in list(course_filters.keys()):
-        #show_all_of_program(sys.argv[1])
-        show_columns(sys.argv[1],['code','level','learning_outcomes'])
-    else:
-        print("Require a specified program. One of ", list(course_filters.keys()))
+        header = False
+        if len(sys.argv) > 2 and sys.argv[2] in ['header']:
+            header = True
             
+        show_columns(sys.argv[1],['code','level','learning_outcomes'],include_filter_name=True, include_header=header)
+    else:
+        print("Require 'ALL' or a specified BIT provider. One of ", list(course_filters.keys()))
+    
+    # test code
         
-    # NMIT
-    # course_content = NMIT()
-    # for a_course in course_content:
-    #     print(course_content[a_course].code,
-    #           course_content[a_course].full_name,
-    #           # course_content[a_course].raw,
-    #           course_content[a_course].learning_outcomes,
-    #           course_content[a_course].content,
-    #           course_content[a_course].prerequisites,
-    #           course_content[a_course].co_requisites,
-    #           )
-    # NorthTec
-    # course_content = NorthTec()
-    # for course_code in course_content:
-    #     print ( course_content[course_code].code,"::",
-    #             course_content[course_code].full_name, "::AIM::",
-    #             course_content[course_code].aim, "::LEARNING OUTCOMES::",
-    #             course_content[course_code].learning_outcomes, "::CONTENT::",
-    #             course_content[course_code].content, "::PREREQUISITES::",
-    #             course_content[course_code].prerequisites, "::CO_REQUISITES::",
-    #             course_content[course_code].co_requisites, "::",
-    #            )
-    # Otago
-    # Spliting by SMS Code
-    #    course_content = Otago_BIT()
-    #    for course_code in course_content:
-    #        print(course_code,">>>>>><<Full name>>",
-    #             course_content[course_code].full_name,"<<Aim>>",
-    #             course_content[course_code].aim,"<<Learning Outcome>>",
-    #             course_content[course_code].learning_outcomes,"<<Content>>",
-    #             course_content[course_code].content,"<<Prerequisites>>",
-    #             course_content[course_code].prerequisites,"<<Co_requisites>>",
-    #             course_content[course_code].co_requisites
-    #              )
-    # UniTec
-    # Testing for pages
-    # pages = Unitec_BSC_Prog_Descriptors()
-    # count = 0
-    # for apage in pages:
-    #     print("Key? ",count,apage)
-    #     count += 1
-    # Testing for Courses
-    #    course_content = Unitec_BSC_Prog_Descriptors()
-    #    for key in course_content:
-    #        print(key,':',course_content[key].full_name,':',course_content[key].aim)
-
-# WinTec
-#    course_content = Wintec_BAppliedIT_Vol2()
-#    for key in course_content:
-#        if not ("none" in course_content[key].co_requisites.lower() or "nil" in course_content[key].co_requisites.lower()) :
-#             print(key,":",course_content[key].aim,"\n","     pre_requisite:",course_content[key].prerequisites,"\n","     co_requisite:",course_content[key].co_requisites)   
-
-# UCol
-# course_content = Ucol_Bachelor_of_Information_and_Communications_Technology_L7_Courses()
-# for key in course_content:
-#     #if not ("none" in course_content[key].co_requisites.lower() or "nil" in course_content[key].co_requisites.lower()) :
-#          print(key,":",course_content[key].aim,"\n","     pre_requisite:",course_content[key].prequistes,"\n","     co_requisite:",course_content[key].co_requisites)
-
-# WandW
-# print(PR5006_HV4701_BIT())
-# course_content = PR5006_HV4701_BIT()
-# for key in course_content:
-#       print(key,":",course_content[key].aim,"\n","     pre_requisite:",course_content[key].prequistes)
+        
