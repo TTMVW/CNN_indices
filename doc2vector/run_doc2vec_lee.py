@@ -232,6 +232,8 @@ print(f"Word 'data' appeared {model.wv.get_vecattr('data', 'count')} times in th
 # Gensim if you value your time.
 #
 model.train(train_corpus, total_examples=model.corpus_count, epochs=model.epochs)
+model.save("bit_lo_model.w2v")
+
 
 ###############################################################################
 # Now, we can use the trained model to infer a vector for any piece of text
@@ -277,10 +279,13 @@ for doc_id in range(len(train_corpus)):
     ranks.append(rank)
 
     second_ranks.append(sims[1])
-print("Sims")
-print("====================")
-print(doc_sims)
-print("=================")
+# print("Sims")
+# print("====================")
+# sim_line = ""
+# for key in doc_sims:
+#     sim_line = str(key)
+#     for 
+# print("=================")
 ###############################################################################
 # Let's count how each document ranks with respect to the training corpus
 #
