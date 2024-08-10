@@ -91,7 +91,7 @@ def generate_independence_number_data(num_graphs, max_nodes):
 time_elapsed = make_time_stamp()
 _ = time_elapsed()
 
-print("Starting with nx randon graphs 45,0.5")
+print("Starting with nx random graphs 45,0.5")
 G = nx.gnp_random_graph(45, 0.5)
 nx.draw(G)
 #plt.show()
