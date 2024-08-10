@@ -150,3 +150,7 @@ for i in range(0,number_of_docs):
 the_big_graph.add_edges_from(edges)  
 the_big_graph.add_nodes_from(nodes)     
 print("Number of docs:",number_of_docs,"Graph:",the_big_graph)
+pos = nx.kamada_kawai_layout(the_big_graph)
+nx.draw(the_big_graph,pos)
+#plt.show()
+plt.savefig("./the_big_graph2.png")
