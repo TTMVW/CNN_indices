@@ -136,20 +136,46 @@ similarity_matrix = np.array(sim_matrix_start)
 print("Make similarity matrix")
 # Create a graph snip
 G = nx.Graph()
-
+L5 = nx.Graph()
+L6 = nx.Graph()
+L7 = nx.Graph()
 # Add nodes and edges with weights (similarities)
+threshold = 0.8
 for i in range(similarity_matrix.shape[0]):
     for j in range(i + 1, similarity_matrix.shape[0]):
-        G.add_edge(i, j, weight=similarity_matrix[i, j])
+        if similarity_matrix[i, j] > threshold:
+            G.add_edge(i, j, weight=similarity_matrix[i, j])
+            level = doc_sims[i][0][1]['level']
+            match level:
+                case '5': 
+                    L5.add_edge(i, j, weight=similarity_matrix[i, j]) 
+                case '6':
+                    L6.add_edge(i, j, weight=similarity_matrix[i, j]) 
+                case '7':
+                    L7.add_edge(i, j, weight=similarity_matrix[i, j]) 
+                case _:
+                    pass
+
+        
 print("Made graph")
-# Draw the graph using a spring layout (force-directed)
-pos = nx.spring_layout(G)
-print("Drawing ..")
-fig = plt.figure(1, figsize=(200, 200), dpi=300)
-nx.draw(G, pos, with_labels=False, node_size=1 , node_shape=",",node_color='lightblue', edge_color='gray')
-nx.draw_networkx_edge_labels(G, pos, edge_labels={(i, j): f'{similarity_matrix[i, j]:.2f}' for i, j in G.edges()})
-plt.savefig("./similarity_spring.png")
-            
+print(G)
+print(L5)
+print(L6)
+print(L7)
+
+# # Draw the graph using a spring layout (force-directed)
+
+def draw_force_directed(G,pName:str):
+    pos = nx.spring_layout(G)
+    print("Drawing ..")
+    fig = plt.figure(1, figsize=(200, 200), dpi=60)
+    print("Starting Draw")
+    nx.draw(G, pos, with_labels=True, node_size=1 , node_shape=",",node_color='lightblue', edge_color='gray')
+    nx.draw_networkx_edge_labels(G, pos, edge_labels={(i, j): f'{similarity_matrix[i, j]:.2f}' for i, j in G.edges()})
+    print(f"About to save fig {pName}")
+    plt.savefig(f"./{pName}_similarity_spring.png")
+
+draw_force_directed(L5,'Level_5')          
 # #the_big_graph = make_big_graph(doc_sims,0.7)
 # the_big_graph = nx.Graph()
 # edges = []
