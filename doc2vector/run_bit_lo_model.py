@@ -145,16 +145,20 @@ for i in range(similarity_matrix.shape[0]):
     for j in range(i + 1, similarity_matrix.shape[0]):
         if similarity_matrix[i, j] > threshold:
             G.add_edge(i, j, weight=similarity_matrix[i, j])
-            level = doc_sims[i][0][1]['level']
-            match level:
-                case '5': 
-                    L5.add_edge(i, j, weight=similarity_matrix[i, j]) 
-                case '6':
-                    L6.add_edge(i, j, weight=similarity_matrix[i, j]) 
-                case '7':
-                    L7.add_edge(i, j, weight=similarity_matrix[i, j]) 
-                case _:
-                    pass
+            
+            # Graphs by level
+            from_level = doc_sims[i][0][1]['level']
+            to_level = doc_sims[j][0][1]['level'] 
+            if from_level == to_level:
+                match from_level:
+                    case '5': 
+                        L5.add_edge(i, j, weight=similarity_matrix[i, j]) 
+                    case '6':
+                        L6.add_edge(i, j, weight=similarity_matrix[i, j]) 
+                    case '7':
+                        L7.add_edge(i, j, weight=similarity_matrix[i, j]) 
+                    case _:
+                        pass
 
         
 print("Made graph")
@@ -175,7 +179,10 @@ def draw_force_directed(G,pName:str):
     print(f"About to save fig {pName}")
     plt.savefig(f"./{pName}_similarity_spring.png")
 
-draw_force_directed(L5,'Level_5')          
+draw_force_directed(G,'All_courses')   
+draw_force_directed(L5,'Level_5') 
+draw_force_directed(L6,'Level_6')
+draw_force_directed(L7,'Level_7')           
 # #the_big_graph = make_big_graph(doc_sims,0.7)
 # the_big_graph = nx.Graph()
 # edges = []
