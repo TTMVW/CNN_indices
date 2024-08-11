@@ -131,7 +131,7 @@ plt.savefig("./TwoXTwo_Subplots.png")
 
 # Generate dataset of 2,000 random graphs with varying node sizes 10 <= n <= 64.
 num_graphs = 2_000
-max_nodes = 64
+max_nodes = 327 # 64
 print(f" Creating dataset. {num_graphs} random graphs with maximumm nodes {max_nodes}.\n To make graphs with their independence number, \n two lists one for graphs and one for independence numbers ")
 
 print("Starting to graphs with generate independence numbers")
@@ -139,7 +139,7 @@ _ = time_elapsed()
 graphs, independence_numbers = generate_independence_number_data(num_graphs, max_nodes)
 
 # Convert graphs to images.
-target_size = 64
+target_size = 327# 64
 print(f"Converting {target_size} graphs to heat map images.")
 _ = time_elapsed()
 images = [convert_to_heatmap_image(graph, target_size) for graph in graphs]
@@ -201,7 +201,7 @@ print(f"Predicted independence number for the {n}-node graph: {predicted_indepen
 actual_independence_number = independence_number(G)
 print(f"Computed independence number for the {n}-node graph: {actual_independence_number} in {time_elapsed()} seconds")
 
-model.save("./independence_model/independence_cnn.keras")
+model.save("./independence_model/independence_cnn_327.keras")
 """
 # Big Test
 
