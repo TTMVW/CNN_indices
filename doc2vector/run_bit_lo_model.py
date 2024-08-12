@@ -141,6 +141,7 @@ L6 = nx.Graph()
 L7 = nx.Graph()
 # Add nodes and edges with weights (similarities)
 threshold = 0.8
+institute_list = {}
 for i in range(similarity_matrix.shape[0]):
     for j in range(i + 1, similarity_matrix.shape[0]):
         if similarity_matrix[i, j] > threshold:
@@ -159,6 +160,16 @@ for i in range(similarity_matrix.shape[0]):
                         L7.add_edge(i, j, weight=similarity_matrix[i, j]) 
                     case _:
                         pass
+            # Graphs by institute
+            from_institute = doc_sims[i][0][1]['institute']
+            to_institute = doc_sims[j][0][1]['institute']
+            
+            if from_institute == to_institute:
+                if from_institute not in institute_list:
+                    institute_list[from_institute] = nx.Graph()
+                institute_list[from_institute].add_edge(i, j, weight=similarity_matrix[i, j]) 
+                
+            
 
         
 print("Made graph")
@@ -167,6 +178,9 @@ print(L5)
 print(L6)
 print(L7)
 
+
+    
+
 # # Draw the graph using a spring layout (force-directed)
 
 def draw_force_directed(G,pName:str):
@@ -174,7 +188,7 @@ def draw_force_directed(G,pName:str):
     print("Drawing ..")
     fig = plt.figure(1, figsize=(200, 200), dpi=60)
     print("Starting Draw")
-    nx.draw(G, pos, with_labels=True, node_size=1 , node_shape=",",node_color='lightblue', edge_color='gray')
+    nx.draw(G, pos, with_labels=True, node_size=2 , node_shape=",",node_color='lightblue', edge_color='gray')
     nx.draw_networkx_edge_labels(G, pos, edge_labels={(i, j): f'{similarity_matrix[i, j]:.2f}' for i, j in G.edges()})
     print(f"About to save fig {pName}")
     plt.savefig(f"./{pName}_similarity_spring.png")
@@ -182,7 +196,12 @@ def draw_force_directed(G,pName:str):
 draw_force_directed(G,'All_courses')   
 draw_force_directed(L5,'Level_5') 
 draw_force_directed(L6,'Level_6')
-draw_force_directed(L7,'Level_7')           
+draw_force_directed(L7,'Level_7')     
+
+for k,g in institute_list.items:
+    print(g)  
+    draw_force_directed(g,k)    
+    
 # #the_big_graph = make_big_graph(doc_sims,0.7)
 # the_big_graph = nx.Graph()
 # edges = []
