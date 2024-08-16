@@ -172,16 +172,16 @@ test_corpus = list(read_corpus(courses_test_file, tokens_only=True))
 ###############################################################################
 # Let's take a look at the training corpus
 #
-print("Training \n")
-print(train_corpus[:2])
-print("================\n")
+# print("Training \n")
+# print(train_corpus[:2])
+# print("================\n")
 
 ###############################################################################
 # And the testing corpus looks like this:
 #
-print("Testing \n")
-print(test_corpus[:2])
-print("================\n")
+# print("Testing \n")
+# print(test_corpus[:2])
+# print("================\n")
 
 ###############################################################################
 # Notice that the testing corpus is just a list of lists and does not contain

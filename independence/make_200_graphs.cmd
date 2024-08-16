@@ -1,0 +1,2 @@
+/usr/bin/python3.11 /mnt/c/temp/regs/CNN_indices/independence/make_random_graphs.py  > c_chunk.h && g++ -std=c++11 ind.cpp -o ./ind && ./ind 200 > graphs_10.py && date +"%Y-%m-%d %H:%M:%S"
+change make make_random_graphs.py to generate 200 ..

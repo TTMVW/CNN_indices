@@ -73,6 +73,7 @@ def convert_to_heatmap_image(G, target_size=64):
 
     combined_matrix = padded_matrix + heatmap
     combined_image = (combined_matrix / combined_matrix.max() * 255).astype(np.uint8)
+    print("Finished a graph heat map")
 
     return Image.fromarray(combined_image, 'L')
 
@@ -80,66 +81,72 @@ def convert_to_heatmap_image(G, target_size=64):
 def generate_independence_number_data(num_graphs, max_nodes):
     graphs = []
     independence_numbers = []
+    total = num_graphs;
+    print(f"Making independence for {total} graphs")
+    
     for _ in range(num_graphs):
+        _ = time_elapsed()
         num_nodes = random.randint(5, max_nodes)
         G = nx.gnp_random_graph(num_nodes, np.random.rand())
         ind_num = independence_number(G)
         graphs.append(G)
         independence_numbers.append(ind_num)
+        total -= 1
+        time = time_elapsed()
+        print("Graphs left ",total," time take for last one",time)
     return graphs, independence_numbers
 
 time_elapsed = make_time_stamp()
-_ = time_elapsed()
 
-print("Starting with nx random graphs 45,0.5")
-G = nx.gnp_random_graph(45, 0.5)
-nx.draw(G)
-#plt.show()
-plt.savefig("./test_random_graph.png")
-print("Saved test image")
-print("Starting convert to to heat map")
-_ = time_elapsed()
-image = convert_to_heatmap_image(G)
-plt.imshow(image, cmap='viridis', aspect='auto')
-#plt.show()
-plt.savefig("./test_random_graph_heat_map.png")
 
-# Create graphs with different numbers of vertices
-graphs = [
-    nx.gnp_random_graph(10, 0.5),
-    nx.gnp_random_graph(25, 0.5),
-    nx.gnp_random_graph(45, 0.5),
-    nx.gnp_random_graph(65, 0.5)
-]
+# print("Starting with nx random graphs 45,0.5")
+# G = nx.gnp_random_graph(45, 0.5)
+# nx.draw(G)
+# #plt.show()
+# plt.savefig("./test_random_graph.png")
+# print("Saved test image")
+# print("Starting convert to to heat map")
+# _ = time_elapsed()
+# image = convert_to_heatmap_image(G)
+# plt.imshow(image, cmap='viridis', aspect='auto')
+# #plt.show()
+# plt.savefig("./test_random_graph_heat_map.png")
 
-# Create a figure with 2x2 subplots
-fig, axs = plt.subplots(2, 2, figsize=(10, 10))
+# # Create graphs with different numbers of vertices
+# graphs = [
+#     nx.gnp_random_graph(10, 0.5),
+#     nx.gnp_random_graph(25, 0.5),
+#     nx.gnp_random_graph(45, 0.5),
+#     nx.gnp_random_graph(65, 0.5)
+# ]
 
-# Titles for the subplots
-titles = ['10 vertices', '25 vertices', '45 vertices', '65 vertices']
+# # Create a figure with 2x2 subplots
+# fig, axs = plt.subplots(2, 2, figsize=(10, 10))
 
-for i, (G, ax) in enumerate(zip(graphs, axs.flatten())):
-    image = convert_to_heatmap_image(G)
-    ax.imshow(image, cmap='viridis', aspect='auto')
-    ax.set_title(titles[i])
-    ax.axis('off')  # Hide the axes
+# # Titles for the subplots
+# titles = ['10 vertices', '25 vertices', '45 vertices', '65 vertices']
 
-plt.tight_layout()
-#plt.show()
-plt.savefig("./TwoXTwo_Subplots.png")
+# for i, (G, ax) in enumerate(zip(graphs, axs.flatten())):
+#     image = convert_to_heatmap_image(G)
+#     ax.imshow(image, cmap='viridis', aspect='auto')
+#     ax.set_title(titles[i])
+#     ax.axis('off')  # Hide the axes
+
+# plt.tight_layout()
+# #plt.show()
+# plt.savefig("./TwoXTwo_Subplots.png")
 
 
 # Generate dataset of 2,000 random graphs with varying node sizes 10 <= n <= 64.
 num_graphs = 2_000
-max_nodes = 327 # 64
+max_nodes = 64# 64
 print(f" Creating dataset. {num_graphs} random graphs with maximumm nodes {max_nodes}.\n To make graphs with their independence number, \n two lists one for graphs and one for independence numbers ")
 
-print("Starting to graphs with generate independence numbers")
 _ = time_elapsed()
 graphs, independence_numbers = generate_independence_number_data(num_graphs, max_nodes)
 
 # Convert graphs to images.
-target_size = 327# 64
+target_size = 64 #327# 64
 print(f"Converting {target_size} graphs to heat map images.")
 _ = time_elapsed()
 images = [convert_to_heatmap_image(graph, target_size) for graph in graphs]
@@ -152,7 +159,7 @@ X_train, X_test = X[:split_index], X[split_index:]
 y_train, y_test = y[:split_index], y[split_index:]
 
 time_taken = time_elapsed()
-print(f'Finished in {time_elapsed} seconds.')
+print(f'Finished making graphs in {time_elapsed} seconds.')
 
 # Define the CNN model.
 def create_model(input_shape):

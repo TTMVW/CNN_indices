@@ -14,33 +14,42 @@ import random
 
 def load_file():
     bag = {}
-    
+    learning_outcomes = []
     whole_file = sys.stdin.read()
     lines = re.split(r'\n',whole_file)
+    
     def get_tuple(line):
         sp = line.split(',"')
         return (sp[0],sp[1][:-1])
-        
-    learning_outcomes = [ get_tuple(line) for line in lines if '"' in line] #skip headers - they dont have a qouted string them
+    
+    for line in lines:
+        if '"' in line:
+            learning_outcomes += [get_tuple(line)]
+        else:
+            print(line)
+            
+    # earning_outcomes = [ get_tuple(line) for line in lines if '"' in line] #skip headers - they dont have a quoted string them
     bag = [value for value in range(0,len(lines))]
     count = 1
-    course_location = []
     random_corpora = []
     while count < len(lines):
-         choice = random.randrange(0,len(lines) - count )
-         location = bag.pop(choice)
-         random_corpora.append(learning_outcomes[location])
-         count+=1
+          choice = random.randrange(0,len(lines) - count )
+          location = bag.pop(choice)
+          random_corpora.append(learning_outcomes[location])
+          count+=1
         
     
     
     return learning_outcomes, random_corpora
     
         
-    
+ 
 all_lo, random_corpora = load_file()
-print(all_lo, len(all_lo))
-print(random_corpora, len(random_corpora))
+print("Len all lo",len(all_lo))
+
+
+# print(random_corpora, len(random_corpora))
+print(all_lo)
 
 with open("all_lo.txt", "w") as all_lo_file:
     for line in all_lo:
